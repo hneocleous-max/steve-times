@@ -164,77 +164,18 @@ async function getWeather() {
   return { today: day(0), tomorrow: day(1) };
 }
 
-// ---------------------------------------------------------------- anthropic
+// ---------------------------------------------------------------- greeting
 
-async function writeWithClaude(payload) {
-  const apiKey = process.env.ANTHROPIC_API_KEY;
-  if (!apiKey) throw new Error("ANTHROPIC_API_KEY not set");
-
-  const body = {
-    model: "claude-opus-4-8",
-    max_tokens: 1200,
-    system:
-      "You write The Steve Times, a personal one-reader morning newspaper for Steve, " +
-      "an elderly gentleman who reads it over breakfast. Warm, plain English, gently " +
-      "cheerful, never patronising. British spelling. Short sentences. No exclamation overload.",
-    output_config: {
-      format: {
-        type: "json_schema",
-        schema: {
-          type: "object",
-          properties: {
-            greeting: {
-              type: "string",
-              description:
-                "3-4 sentence greeting starting exactly with 'Morning Steve,'. Mention today's Larnaca weather in plain terms, the biggest news story of the day, and end with a one-line teaser for today's discovery (don't give it away).",
-            },
-            discovery_explanation: {
-              type: "string",
-              description:
-                "2-4 sentences of plain-English explanation of the discovery story: what was found and why it matters to an ordinary curious reader. No jargon.",
-            },
-          },
-          required: ["greeting", "discovery_explanation"],
-          additionalProperties: false,
-        },
-      },
-    },
-    messages: [
-      {
-        role: "user",
-        content:
-          "Here is today's raw material as JSON:\n\n" +
-          JSON.stringify(payload, null, 2) +
-          "\n\nWrite the greeting and the discovery explanation.",
-      },
-    ],
-  };
-
-  const res = await fetch("https://api.anthropic.com/v1/messages", {
-    method: "POST",
-    headers: {
-      "x-api-key": apiKey,
-      "anthropic-version": "2023-06-01",
-      "content-type": "application/json",
-    },
-    body: JSON.stringify(body),
-  });
-  if (!res.ok) {
-    throw new Error(`Anthropic API ${res.status}: ${(await res.text()).slice(0, 300)}`);
+function buildGreeting(weather) {
+  const time = new Date()
+    .toLocaleTimeString("en-GB", { timeZone: TZ, hour: "numeric", minute: "2-digit", hour12: true })
+    .replace(/\s?(am|pm)/i, (m) => m.trim());
+  const parts = [`Morning Steve, it's currently ${time}.`];
+  if (weather) {
+    parts.push(`This is the weather in Larnaca — ${weather.today.desc.toLowerCase()} today, around ${weather.today.max}°C.`);
   }
-  const msg = await res.json();
-  if (msg.stop_reason === "refusal") throw new Error("Anthropic API refused the request");
-  const text = (msg.content || []).find((b) => b.type === "text");
-  if (!text) throw new Error("No text block in Anthropic response");
-  return JSON.parse(text.text);
-}
-
-function fallbackGreeting(weather, world) {
-  const w = weather
-    ? `It's ${weather.today.desc.toLowerCase()} in Larnaca today, around ${weather.today.max}°C.`
-    : "";
-  const n = world && world[0] ? ` In the news: ${world[0].title}.` : "";
-  return `Morning Steve, here is your paper for today. ${w}${n} And further down there's a discovery worth a look over your coffee.`;
+  parts.push("And here are today's top stories:");
+  return parts.join(" ");
 }
 
 // ---------------------------------------------------------------- assembly
@@ -339,26 +280,19 @@ async function main() {
   const world = worldR.value || [];
   const discovery = discoveryR.value;
 
-  // --- AI copy (greeting + discovery explanation) ---
-  let ai = null;
-  try {
-    ai = await writeWithClaude({
-      date: new Date().toLocaleDateString("en-GB", { timeZone: TZ, weekday: "long", day: "numeric", month: "long", year: "numeric" }),
-      larnaca_weather: weather
-        ? { today: { description: weather.today.desc, max_c: weather.today.max, min_c: weather.today.min }, tomorrow: { description: weather.tomorrow.desc, max_c: weather.tomorrow.max, min_c: weather.tomorrow.min } }
-        : "unavailable",
-      top_world_headlines: world.slice(0, 3).map((i) => i.title),
-      top_cyprus_headlines: local.slice(0, 3).map((i) => i.title),
-      discovery: discovery ? { title: discovery.title, summary: discovery.summary } : "unavailable",
-    });
-  } catch (e) {
-    console.error(`AI copy failed: ${e.message}`);
-  }
+  // --- greeting + top-stories digest (no AI) ---
+  const greeting = buildGreeting(weather);
+  const discoveryExplanation = (discovery && discovery.summary) || "";
 
-  const greeting = ai ? ai.greeting : (cache.greeting_is_ai && cache.greeting) || fallbackGreeting(weather, world);
-  const discoveryExplanation = ai
-    ? ai.discovery_explanation
-    : (discovery && discovery.summary) || "";
+  // Merged front-page digest: alternate Cyprus and world headlines.
+  const topStories = [];
+  for (let i = 0; i < 5; i++) {
+    for (const list of [local, world]) {
+      if (list[i] && topStories.length < 6 && !topStories.some((s) => s.title === list[i].title)) {
+        topStories.push(list[i]);
+      }
+    }
+  }
 
   // --- persist cache for tomorrow's fallback ---
   const newCache = {
@@ -366,9 +300,6 @@ async function main() {
     local: local.length ? local : cache.local || [],
     world: world.length ? world : cache.world || [],
     discovery: discovery || cache.discovery || null,
-    greeting,
-    greeting_is_ai: Boolean(ai) || (Boolean(cache.greeting_is_ai) && !ai),
-    discovery_explanation: discoveryExplanation || cache.discovery_explanation || "",
     generated_at: new Date().toISOString(),
   };
   fs.mkdirSync(path.dirname(CACHE_FILE), { recursive: true });
@@ -378,14 +309,14 @@ async function main() {
   fs.mkdirSync(path.dirname(OUT_FILE), { recursive: true });
   fs.writeFileSync(
     OUT_FILE,
-    render({ weather, local, world, discovery, greeting, discoveryExplanation, stale })
+    render({ weather, local, world, discovery, greeting, discoveryExplanation, topStories, stale })
   );
   console.log(`Edition written. Stale sections: ${stale.length ? stale.join(", ") : "none"}`);
 }
 
 // ---------------------------------------------------------------- template
 
-function render({ weather, local, world, discovery, greeting, discoveryExplanation, stale }) {
+function render({ weather, local, world, discovery, greeting, discoveryExplanation, topStories, stale }) {
   const now = new Date();
   const dateLine = now.toLocaleDateString("en-GB", {
     timeZone: TZ,
@@ -474,6 +405,10 @@ function render({ weather, local, world, discovery, greeting, discoveryExplanati
   }
   .greeting p { margin: 0; }
   .greeting p::first-letter { font-size: 2.2em; font-family: "Playfair Display", Georgia, serif; float: left; line-height: 0.85; padding-right: 8px; padding-top: 4px; }
+  .digest { margin: 18px 0 0; padding-left: 1.6em; }
+  .digest li { padding: 7px 0; font-family: "Playfair Display", Georgia, serif; font-size: 1.2rem; }
+  .digest a { color: var(--ink); text-decoration: none; }
+  .digest a:hover, .digest a:focus { text-decoration: underline; text-underline-offset: 4px; }
 
   /* section headers */
   h2.section {
@@ -554,6 +489,7 @@ function render({ weather, local, world, discovery, greeting, discoveryExplanati
 
   <section class="greeting">
     <p>${escapeHtml(greeting)}</p>
+    ${topStories && topStories.length ? `<ol class="digest">${topStories.map((s) => `<li><a href="${escapeHtml(s.link)}" target="_blank" rel="noopener">${escapeHtml(s.title)}</a></li>`).join("\n")}</ol>` : ""}
   </section>
 
   <h2 class="section">Weather in Larnaca</h2>
