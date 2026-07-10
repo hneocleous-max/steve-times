@@ -1,0 +1,86 @@
+{
+  "weather": {
+    "today": {
+      "date": "2026-07-10",
+      "code": 2,
+      "max": 31,
+      "min": 23,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
+    },
+    "tomorrow": {
+      "date": "2026-07-11",
+      "code": 1,
+      "max": 31,
+      "min": 23,
+      "desc": "Mainly clear",
+      "icon": "🌤️",
+      "masthead": "Fine weather"
+    }
+  },
+  "local": [
+    {
+      "title": "Larnaca identifies 1,084 dangerous buildings",
+      "link": "https://cyprus-mail.com/2026/07/10/larnaca-identifies-1084-dangerous-buildings",
+      "summary": ""
+    },
+    {
+      "title": "BirdLife Cyprus tags griffon vulture chick for the first time",
+      "link": "https://en.philenews.com/local/birdlife-cyprus-griffon-vulture-gypa-bird-spain/",
+      "summary": ""
+    },
+    {
+      "title": "Teachers, parents urge more school psychologists",
+      "link": "https://cyprus-mail.com/2026/07/10/teachers-parents-urge-more-school-psychologists",
+      "summary": ""
+    },
+    {
+      "title": "NATO and the Cyprus problem: the debate DISY and AKEL are avoiding",
+      "link": "https://en.philenews.com/opinion/nato-and-the-cyprus-problem-the-debate-disy-and-akel-are-avoiding/",
+      "summary": ""
+    },
+    {
+      "title": "Turkey, Turkish Cypriots sign deal for natural gas pipeline",
+      "link": "https://cyprus-mail.com/2026/07/10/turkey-turkish-cypriots-sign-deal-for-natural-gas-pipeline",
+      "summary": ""
+    }
+  ],
+  "world": [
+    {
+      "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+      "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+      "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+      "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "China lands reusable rocket for first time, state media says",
+      "link": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    }
+  ],
+  "discovery": {
+    "title": "Virtual tutoring: What started as a pandemic phenomenon has evolved from a temporary fix to an educational fixture",
+    "link": "https://phys.org/news/2026-07-virtual-pandemic-phenomenon-evolved-temporary.html",
+    "summary": "When Amanda Neitzel first evaluated a live virtual reading-tutoring program called AirReading two years ago, she found what most educators would have predicted: modest results. One semester of live video tutoring nudged struggling early readers forward by roughly a month's worth of learning. But when she ran the study across a full school year, the difference was extraordinary. Literacy gains more than doubled.",
+    "source": "https://phys.org/rss-feed/"
+  },
+  "greeting": "Morning Steve, here is your paper for today. It's partly cloudy in Larnaca today, around 31°C. In the news: Huge crowds in Mashhad as Iran's late supreme leader is buried. And further down there's a discovery worth a look over your coffee.",
+  "greeting_is_ai": false,
+  "discovery_explanation": "When Amanda Neitzel first evaluated a live virtual reading-tutoring program called AirReading two years ago, she found what most educators would have predicted: modest results. One semester of live video tutoring nudged struggling early readers forward by roughly a month's worth of learning. But when she ran the study across a full school year, the difference was extraordinary. Literacy gains more than doubled.",
+  "generated_at": "2026-07-10T15:01:44.184Z"
+}
