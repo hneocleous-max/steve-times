@@ -1,0 +1,58 @@
+name: Print today's edition
+
+on:
+  schedule:
+    # 05:00 Cyprus time. Cyprus is UTC+3 in summer (02:00 UTC) and UTC+2 in
+    # winter (03:00 UTC). Both crons run so the paper is fresh by 5am all year;
+    # the second run in summer just reprints the same day's edition at 6am.
+    - cron: "0 2 * * *"
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: print-edition
+  cancel-in-progress: false
+
+jobs:
+  print:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build the edition
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node build.js
+
+      - name: Save today's data for tomorrow's fallback
+        run: |
+          git config user.name "steve-times-bot"
+          git config user.email "actions@github.com"
+          git add data/latest.json
+          git diff --cached --quiet || git commit -m "data: edition $(date -u +%F)"
+          git pull --rebase origin main || true
+          git push || echo "push failed (non-fatal) — cache not saved"
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload edition
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
