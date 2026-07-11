@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "code": 2,
-      "max": 31,
+      "max": 32,
       "min": 23,
       "desc": "Partly cloudy",
       "icon": "⛅",
       "masthead": "Fair skies"
     },
     "tomorrow": {
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "code": 1,
-      "max": 31,
-      "min": 23,
+      "max": 33,
+      "min": 24,
       "desc": "Mainly clear",
       "icon": "🌤️",
       "masthead": "Fine weather"
@@ -21,8 +21,18 @@
   },
   "local": [
     {
-      "title": "Trump says US agreed to Iran’s request to continue talks, but ceasefire is over",
-      "link": "https://cyprus-mail.com/2026/07/10/trump-says-us-agreed-to-irans-request-to-continue-talks-but-ceasefire-is-over",
+      "title": "Limassol students transform beauty product into safety tool",
+      "link": "https://cyprus-mail.com/2026/07/11/limassol-students-transform-beauty-product-into-safety-tool",
+      "summary": ""
+    },
+    {
+      "title": "Hot, clear weekend ahead",
+      "link": "https://en.philenews.com/local/hot-clear-weekend-ahead/",
+      "summary": ""
+    },
+    {
+      "title": "BoE warns of financial risks from AI-related tech bets",
+      "link": "https://cyprus-mail.com/2026/07/11/boe-warns-of-financial-risks-from-ai-related-tech-bets",
       "summary": ""
     },
     {
@@ -31,30 +41,25 @@
       "summary": ""
     },
     {
-      "title": "Larnaca identifies 1,084 dangerous buildings",
-      "link": "https://cyprus-mail.com/2026/07/10/larnaca-identifies-1084-dangerous-buildings",
-      "summary": ""
-    },
-    {
-      "title": "NATO and the Cyprus problem: the debate DISY and AKEL are avoiding",
-      "link": "https://en.philenews.com/opinion/nato-and-the-cyprus-problem-the-debate-disy-and-akel-are-avoiding/",
-      "summary": ""
-    },
-    {
-      "title": "Teachers, parents urge more school psychologists",
-      "link": "https://cyprus-mail.com/2026/07/10/teachers-parents-urge-more-school-psychologists",
+      "title": "OpenAI launches most capable GPT model after delayed rollout",
+      "link": "https://cyprus-mail.com/2026/07/11/openai-launches-most-capable-gpt-model-after-delayed-rollout",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
+      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-      "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Meet the crypto billionaires building a world where money buys you a vote",
+      "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
@@ -63,21 +68,16 @@
       "summary": ""
     },
     {
-      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-      "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "China lands reusable rocket for first time, state media says",
-      "link": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+      "title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+      "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Virtual tutoring: What started as a pandemic phenomenon has evolved from a temporary fix to an educational fixture",
-    "link": "https://phys.org/news/2026-07-virtual-pandemic-phenomenon-evolved-temporary.html",
-    "summary": "When Amanda Neitzel first evaluated a live virtual reading-tutoring program called AirReading two years ago, she found what most educators would have predicted: modest results. One semester of live video tutoring nudged struggling early readers forward by roughly a month's worth of learning. But when she ran the study across a full school year, the difference was extraordinary. Literacy gains more than doubled.",
+    "title": "New platform creates digital map for marine biobanks",
+    "link": "https://phys.org/news/2026-07-platform-digital-marine-biobanks.html",
+    "summary": "A new digital platform developed under the leadership of CIIMAR is making Portugal's marine biodiversity more accessible by bringing together thousands of biological resources into a single access point. The Blue Biobanks Digital Research Platform aims to bridge scientific research and industry by simplifying the identification of organisms and biological materials with potential applications in areas such as biotechnology, bioremediation, aquaculture, health, cosmetics and many others.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-10T15:17:10.024Z"
+  "generated_at": "2026-07-11T05:16:41.131Z"
 }
