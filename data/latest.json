@@ -1,18 +1,18 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-11",
-      "code": 2,
-      "max": 32,
-      "min": 23,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-07-12",
       "code": 1,
       "max": 33,
+      "min": 23,
+      "desc": "Mainly clear",
+      "icon": "🌤️",
+      "masthead": "Fine weather"
+    },
+    "tomorrow": {
+      "date": "2026-07-13",
+      "code": 1,
+      "max": 35,
       "min": 24,
       "desc": "Mainly clear",
       "icon": "🌤️",
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Limassol students transform beauty product into safety tool",
-      "link": "https://cyprus-mail.com/2026/07/11/limassol-students-transform-beauty-product-into-safety-tool",
+      "title": "Bulgaria and Greece record highest monthly growth in services output",
+      "link": "https://cyprus-mail.com/2026/07/12/bulgaria-and-greece-record-highest-monthly-growth-in-services-output",
       "summary": ""
     },
     {
-      "title": "Hot, clear weekend ahead",
-      "link": "https://en.philenews.com/local/hot-clear-weekend-ahead/",
+      "title": "Two vehicles destroyed and six damaged in Geri fire",
+      "link": "https://en.philenews.com/local/geri-fire-two-vehicles-destroyed-six-damaged-live/",
       "summary": ""
     },
     {
-      "title": "BoE warns of financial risks from AI-related tech bets",
-      "link": "https://cyprus-mail.com/2026/07/11/boe-warns-of-financial-risks-from-ai-related-tech-bets",
+      "title": "Tales from the Coffeeshop: Give her the job! Only Raouna can look after our EU interests",
+      "link": "https://cyprus-mail.com/2026/07/12/tales-from-the-coffeeshop-give-her-the-job-only-raouna-can-look-after-our-eu-interests",
       "summary": ""
     },
     {
-      "title": "BirdLife Cyprus tags griffon vulture chick for the first time",
-      "link": "https://en.philenews.com/local/birdlife-cyprus-griffon-vulture-gypa-bird-spain/",
+      "title": "Driver flees after hitting young pedestrian in Limassol",
+      "link": "https://en.philenews.com/local/limassol-hit-and-run-young-pedestrian-driver-flees-live/",
       "summary": ""
     },
     {
-      "title": "OpenAI launches most capable GPT model after delayed rollout",
-      "link": "https://cyprus-mail.com/2026/07/11/openai-launches-most-capable-gpt-model-after-delayed-rollout",
+      "title": "Our View: Linking the Cyprus issue to EU-Turkey relations is just an obstacle",
+      "link": "https://cyprus-mail.com/2026/07/12/our-view-linking-the-cyprus-issue-to-eu-turkey-relations-is-just-an-obstacle",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "title": "China's second typhoon in a week makes landfall",
+      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Meet the crypto billionaires building a world where money buys you a vote",
-      "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-      "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+      "title": "At least two killed in Toronto street festival shooting",
+      "link": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
-      "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "New platform creates digital map for marine biobanks",
-    "link": "https://phys.org/news/2026-07-platform-digital-marine-biobanks.html",
-    "summary": "A new digital platform developed under the leadership of CIIMAR is making Portugal's marine biodiversity more accessible by bringing together thousands of biological resources into a single access point. The Blue Biobanks Digital Research Platform aims to bridge scientific research and industry by simplifying the identification of organisms and biological materials with potential applications in areas such as biotechnology, bioremediation, aquaculture, health, cosmetics and many others.",
+    "title": "Almost a quarter of Dutch bee colonies did not survive last winter",
+    "link": "https://phys.org/news/2026-07-quarter-dutch-bee-colonies-survive.html",
+    "summary": "During the winter of 2025–2026, 24% of Dutch honeybee colonies were lost. The upward trend observed in recent years therefore continues. This is the fourth consecutive year in which winter mortality has exceeded 20%. The figures are based on the annual survey of Dutch beekeepers. The results show substantial regional differences. Groningen recorded the highest winter losses, at 41.5%, while Overijssel had the lowest figure, at 16.9%.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-11T05:45:23.244Z"
+  "generated_at": "2026-07-12T05:32:11.681Z"
 }
