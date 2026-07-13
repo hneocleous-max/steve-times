@@ -1,18 +1,18 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-12",
+      "date": "2026-07-13",
       "code": 1,
-      "max": 33,
-      "min": 23,
+      "max": 35,
+      "min": 24,
       "desc": "Mainly clear",
       "icon": "🌤️",
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "code": 1,
-      "max": 35,
+      "max": 32,
       "min": 24,
       "desc": "Mainly clear",
       "icon": "🌤️",
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "A discredited Fifa at the beck and call of a petulant Trump",
-      "link": "https://cyprus-mail.com/2026/07/12/a-discredited-fifa-at-the-beck-and-call-of-a-petulant-trump",
+      "title": "Two arrested over Limassol bakery robbery",
+      "link": "https://cyprus-mail.com/2026/07/13/two-arrested-over-limassol-bakery-robbery",
       "summary": ""
     },
     {
-      "title": "Argentina oust Switzerland in extra time, advance to semifinals",
-      "link": "https://en.philenews.com/sports/argentina-oust-switzerland-in-extra-time-advance-to-semifinals-live/",
+      "title": "Met Department issues yellow warning as heat hits 40C",
+      "link": "https://en.philenews.com/local/met-department-issues-yellow-warning-as-heat-hits-40c/",
       "summary": ""
     },
     {
-      "title": "Cyprus Business Now: weekly wrap-up",
-      "link": "https://cyprus-mail.com/2026/07/12/cyprus-business-now-weekly-wrap-up-169",
+      "title": "Beyond GDP: rethinking prosperity for future generations",
+      "link": "https://cyprus-mail.com/2026/07/13/beyond-gdp-rethinking-prosperity-for-future-generations",
       "summary": ""
     },
     {
-      "title": "Man arrested over attempted bank robbery in Larnaca district",
-      "link": "https://en.philenews.com/local/man-arrested-attempted-bank-robbery-larnaca-live/",
+      "title": "Father may be arrested after two-year-old boy dies in Paphos hotel fall (updated)",
+      "link": "https://en.philenews.com/local/father-may-be-arrested-child-dies-paphos-hotel-fall/",
       "summary": ""
     },
     {
-      "title": "Bulgaria and Greece record highest monthly growth in services output",
-      "link": "https://cyprus-mail.com/2026/07/12/bulgaria-and-greece-record-highest-monthly-growth-in-services-output",
+      "title": "Father arrested after three-year-old dies in fall from Paphos hotel",
+      "link": "https://cyprus-mail.com/2026/07/13/father-arrested-after-three-year-old-dies-in-fall-from-paphos-hotel",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "title": "At least 27 killed, eight critically injured in Bangkok bar fire",
+      "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "China's second typhoon in a week makes landfall",
-      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
-      "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "At least two killed in Toronto street festival shooting",
-      "link": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "title": "British couple return to village at heart of deadly Spanish wildfire",
+      "link": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+      "title": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
+      "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Almost a quarter of Dutch bee colonies did not survive last winter",
-    "link": "https://phys.org/news/2026-07-quarter-dutch-bee-colonies-survive.html",
-    "summary": "During the winter of 2025–2026, 24% of Dutch honeybee colonies were lost. The upward trend observed in recent years therefore continues. This is the fourth consecutive year in which winter mortality has exceeded 20%. The figures are based on the annual survey of Dutch beekeepers. The results show substantial regional differences. Groningen recorded the highest winter losses, at 41.5%, while Overijssel had the lowest figure, at 16.9%.",
+    "title": "Jellyfish videos reveal why science content sparks curiosity for some viewers",
+    "link": "https://phys.org/news/2026-07-jellyfish-videos-reveal-science-content.html",
+    "summary": "It can be easy to get sucked into social media for hours on end. Funny, cartoony science videos may be especially interesting, but not to everyone, according to a recent study from the University of Georgia.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-12T06:08:24.831Z"
+  "generated_at": "2026-07-13T05:41:24.367Z"
 }
