@@ -11,50 +11,45 @@
     },
     "tomorrow": {
       "date": "2026-07-14",
-      "code": 1,
+      "code": 0,
       "max": 32,
       "min": 24,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
+      "desc": "Clear skies",
+      "icon": "☀️",
       "masthead": "Fine weather"
     }
   },
   "local": [
+    {
+      "title": "Fire destroys 750 hay bales in Avgorou",
+      "link": "https://cyprus-mail.com/2026/07/13/fire-destroys-750-hay-bales-in-avgorou",
+      "summary": ""
+    },
+    {
+      "title": "Fire Service rescues injured person from Paralimni cave",
+      "link": "https://en.philenews.com/local/fire-service-rescues-injured-person-paralimni-cave/",
+      "summary": ""
+    },
     {
       "title": "Two arrested over Limassol bakery robbery",
       "link": "https://cyprus-mail.com/2026/07/13/two-arrested-over-limassol-bakery-robbery",
       "summary": ""
     },
     {
-      "title": "Met Department issues yellow warning as heat hits 40C",
-      "link": "https://en.philenews.com/local/met-department-issues-yellow-warning-as-heat-hits-40c/",
+      "title": "The TV crisis was 15 years in the making, following €10 million auction in 2010",
+      "link": "https://en.philenews.com/insider/cyprus-tv-blackout-crisis-15-years-in-the-making/",
       "summary": ""
     },
     {
       "title": "Beyond GDP: rethinking prosperity for future generations",
       "link": "https://cyprus-mail.com/2026/07/13/beyond-gdp-rethinking-prosperity-for-future-generations",
       "summary": ""
-    },
-    {
-      "title": "Father may be arrested after two-year-old boy dies in Paphos hotel fall (updated)",
-      "link": "https://en.philenews.com/local/father-may-be-arrested-child-dies-paphos-hotel-fall/",
-      "summary": ""
-    },
-    {
-      "title": "Father arrested after three-year-old dies in fall from Paphos hotel",
-      "link": "https://cyprus-mail.com/2026/07/13/father-arrested-after-three-year-old-dies-in-fall-from-paphos-hotel",
-      "summary": ""
     }
   ],
   "world": [
     {
-      "title": "At least 27 killed, eight critically injured in Bangkok bar fire",
+      "title": "At least 27 killed, 22 critically injured in Bangkok bar fire",
       "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
@@ -71,6 +66,11 @@
       "title": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
       "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
       "summary": ""
+    },
+    {
+      "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+      "link": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
+      "summary": ""
     }
   ],
   "discovery": {
@@ -79,5 +79,5 @@
     "summary": "It can be easy to get sucked into social media for hours on end. Funny, cartoony science videos may be especially interesting, but not to everyone, according to a recent study from the University of Georgia.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-13T05:41:24.367Z"
+  "generated_at": "2026-07-13T06:24:42.046Z"
 }
