@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-13",
-      "code": 1,
-      "max": 35,
-      "min": 24,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
-    },
-    "tomorrow": {
       "date": "2026-07-14",
       "code": 0,
-      "max": 32,
-      "min": 24,
+      "max": 33,
+      "min": 25,
       "desc": "Clear skies",
       "icon": "☀️",
       "masthead": "Fine weather"
+    },
+    "tomorrow": {
+      "date": "2026-07-15",
+      "code": 2,
+      "max": 32,
+      "min": 24,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "Fire destroys 750 hay bales in Avgorou",
-      "link": "https://cyprus-mail.com/2026/07/13/fire-destroys-750-hay-bales-in-avgorou",
+      "title": "U.S. military renews strikes on Iran while tankers come under attack in Strait of Hormuz",
+      "link": "https://cyprus-mail.com/2026/07/14/u-s-military-renews-strikes-on-iran-while-tankers-come-under-attack-in-strait-of-hormuz",
       "summary": ""
     },
     {
-      "title": "Fire Service rescues injured person from Paralimni cave",
-      "link": "https://en.philenews.com/local/fire-service-rescues-injured-person-paralimni-cave/",
+      "title": "Cyprus is a model for thalassaemia care, says patient advocate",
+      "link": "https://en.philenews.com/local/cyprus-is-a-model-for-thalassaemia-care-says-patient-advocate/",
       "summary": ""
     },
     {
-      "title": "Two arrested over Limassol bakery robbery",
-      "link": "https://cyprus-mail.com/2026/07/13/two-arrested-over-limassol-bakery-robbery",
+      "title": "Cyprus Business Now: shipping, Demetra, tourism, property, state workforce",
+      "link": "https://cyprus-mail.com/2026/07/14/cyprus-business-now-shipping-demetra-tourism-property-state-workforce",
       "summary": ""
     },
     {
-      "title": "The TV crisis was 15 years in the making, following €10 million auction in 2010",
-      "link": "https://en.philenews.com/insider/cyprus-tv-blackout-crisis-15-years-in-the-making/",
+      "title": "Ten-year-old from Cyprus wins Grand Prix at London piano competition",
+      "link": "https://en.philenews.com/whats-on/cypriot-boy-wins-grand-prix-piano-competition-london/",
       "summary": ""
     },
     {
-      "title": "Beyond GDP: rethinking prosperity for future generations",
-      "link": "https://cyprus-mail.com/2026/07/13/beyond-gdp-rethinking-prosperity-for-future-generations",
+      "title": "Cyprus human development authority invests €11.7m in Limassol businesses",
+      "link": "https://cyprus-mail.com/2026/07/14/cyprus-human-development-authority-invests-e11-7m-in-limassol-businesses",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "At least 27 killed, 22 critically injured in Bangkok bar fire",
-      "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+      "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "British couple return to village at heart of deadly Spanish wildfire",
-      "link": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss",
+      "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
+      "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
-      "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+      "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
+      "link": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
-      "link": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
+      "title": "Colombian national killed by ICE agent during operation in Maine",
+      "link": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Jellyfish videos reveal why science content sparks curiosity for some viewers",
-    "link": "https://phys.org/news/2026-07-jellyfish-videos-reveal-science-content.html",
-    "summary": "It can be easy to get sucked into social media for hours on end. Funny, cartoony science videos may be especially interesting, but not to everyone, according to a recent study from the University of Georgia.",
+    "title": "Unequal taxation helped fuel the French Revolution, say economists",
+    "link": "https://phys.org/news/2026-07-unequal-taxation-fuel-french-revolution.html",
+    "summary": "Deep inequalities in taxation played a key role in fueling the French Revolution, according to a new study published by the ROCKWOOL Foundation Berlin (RFBerlin). For the first time, economists have substantiated this with figures. In areas where salt taxes and internal customs duties were particularly high, there were twice as many revolts as in low-tax districts between 1750 and 1789.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-13T06:24:42.046Z"
+  "generated_at": "2026-07-14T04:54:42.047Z"
 }
