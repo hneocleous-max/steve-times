@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-14",
-      "code": 0,
+      "date": "2026-07-15",
+      "code": 1,
       "max": 33,
-      "min": 25,
-      "desc": "Clear skies",
-      "icon": "☀️",
+      "min": 24,
+      "desc": "Mainly clear",
+      "icon": "🌤️",
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-07-15",
-      "code": 2,
-      "max": 32,
+      "date": "2026-07-16",
+      "code": 1,
+      "max": 33,
       "min": 24,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
+      "desc": "Mainly clear",
+      "icon": "🌤️",
+      "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "Mostly clear skies as temperatures reach 39C inland",
-      "link": "https://cyprus-mail.com/2026/07/14/mostly-clear-skies-as-temperatures-reach-39c-inland",
+      "title": "Cyprus Business Now: housing, energy, shipping, digital euro, EU presidency",
+      "link": "https://cyprus-mail.com/2026/07/15/cyprus-business-now-housing-energy-shipping-kyndryl-cooperative-bank",
       "summary": ""
     },
     {
-      "title": "Woman charged after €32,000 in cash and jewellery found in luggage",
-      "link": "https://en.philenews.com/local/vietnamese-woman-arrested-illegal-stay-cash-jewellery-cyprus/",
+      "title": "Bank of Cyprus, JCC selected for ECB digital euro pilot",
+      "link": "https://en.philenews.com/insider/cyprus-ecb-digital-euro-pilot-phase/",
       "summary": ""
     },
     {
-      "title": "Limassol-linked DP World eyes route around Hormuz",
-      "link": "https://cyprus-mail.com/2026/07/14/limassol-linked-dp-world-eyes-route-around-hormuz",
+      "title": "Keve launches survey on excessive EU law implementation",
+      "link": "https://cyprus-mail.com/2026/07/15/keve-launches-survey-on-excessive-eu-law-implementation",
       "summary": ""
     },
     {
-      "title": "ETYK stays silent on new Protaras hotel purchase",
-      "link": "https://en.philenews.com/local/etyk-silent-protaras-hotel-purchase-tetyk/",
+      "title": "Cyprus among lowest COVID-19 vaccination rates in Europe, ECDC finds",
+      "link": "https://en.philenews.com/international/ecdc-report-cyprus-lowest-covid-vaccination-rates-europe/",
       "summary": ""
     },
     {
-      "title": "Christodoulides to meet von der Leyen, foreign leaders in Paris on Bastille Day",
-      "link": "https://cyprus-mail.com/2026/07/14/christodoulides-to-meet-von-der-leyen-foreign-leaders-in-paris-on-bastille-day",
+      "title": "Debenhams reports strong trading momentum through June and July",
+      "link": "https://cyprus-mail.com/2026/07/15/debenhams-reports-strong-trading-momentum-through-june-and-july",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+      "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
-      "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
-      "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+      "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+      "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
-      "link": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+      "title": "China economic growth falls sharply, missing target",
+      "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
-      "link": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
+      "title": "Seven Britons among those killed in Spain wildfires",
+      "link": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Unequal taxation helped fuel the French Revolution, say economists",
-    "link": "https://phys.org/news/2026-07-unequal-taxation-fuel-french-revolution.html",
-    "summary": "Deep inequalities in taxation played a key role in fueling the French Revolution, according to a new study published by the ROCKWOOL Foundation Berlin (RFBerlin). For the first time, economists have substantiated this with figures. In areas where salt taxes and internal customs duties were particularly high, there were twice as many revolts as in low-tax districts between 1750 and 1789.",
+    "title": "Elephants turn footsteps into messages through ground and skull vibrations",
+    "link": "https://phys.org/news/2026-07-elephants-footsteps-messages-ground-skull.html",
+    "summary": "Elephants can communicate with other elephants across distances of up to five kilometers (3 miles) by producing sounds that travel through the air. However, they have a second way of sending signals: seismic waves traveling through the ground. These vibrations are transmitted from elephants' feet through their legs and ultimately through the bones of their skull directly into the inner ear. They can be perceived across distances of 10 kilometers (6 miles) or more. This is called bone-conduction hearing.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-14T05:36:18.453Z"
+  "generated_at": "2026-07-15T04:54:51.067Z"
 }
