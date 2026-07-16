@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-15",
-      "code": 1,
+      "date": "2026-07-16",
+      "code": 2,
       "max": 33,
-      "min": 24,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
+      "min": 23,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     },
     "tomorrow": {
-      "date": "2026-07-16",
-      "code": 1,
+      "date": "2026-07-17",
+      "code": 0,
       "max": 33,
       "min": 24,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
+      "desc": "Clear skies",
+      "icon": "☀️",
       "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "GSI costs will not automatically raise power bills, says former CERA chief",
-      "link": "https://cyprus-mail.com/2026/07/15/gsi-costs-will-not-automatically-raise-power-bills-says-former-cera-chief",
+      "title": "US launches multiple strikes on Iran, which retaliates against US targets in region",
+      "link": "https://cyprus-mail.com/2026/07/16/us-launches-multiple-strikes-on-iran-which-retaliates-against-us-targets-in-region",
       "summary": ""
     },
     {
-      "title": "Bank of Cyprus, JCC selected for ECB digital euro pilot",
-      "link": "https://en.philenews.com/insider/cyprus-ecb-digital-euro-pilot-phase/",
+      "title": "Cyprus Police consider blocking radar-warning apps after EU Court ruling",
+      "link": "https://en.philenews.com/local/cyprus-police-radar-warning-apps-eu-court-ruling/",
       "summary": ""
     },
     {
-      "title": "Iran threatens to shut Bab el-Mandeb after closing Strait of Hormuz",
-      "link": "https://cyprus-mail.com/2026/07/15/iran-threatens-to-shut-bab-el-mandeb-after-closing-strait-of-hormuz",
+      "title": "AI platform aims to streamline marketing workflows for businesses in Cyprus",
+      "link": "https://cyprus-mail.com/2026/07/16/ai-platform-aims-to-streamline-marketing-workflows-for-businesses-in-cyprus",
       "summary": ""
     },
     {
-      "title": "Cyprus among lowest COVID-19 vaccination rates in Europe, ECDC finds",
-      "link": "https://en.philenews.com/international/ecdc-report-cyprus-lowest-covid-vaccination-rates-europe/",
+      "title": "Cyprus builds Europe’s first sterile mosquito eradication lab",
+      "link": "https://en.philenews.com/local/cyprus-sterile-mosquito-lab-larnaca-aedes-aegypti/",
       "summary": ""
     },
     {
-      "title": "IMF warns Europe faces fiscal squeeze as spending pressures rise",
-      "link": "https://cyprus-mail.com/2026/07/15/imf-warns-europe-faces-fiscal-squeeze-as-spending-pressures-rise",
+      "title": "Cyprus Business Now: start up, tourism, shipping, CTC, CySEC, electricity",
+      "link": "https://cyprus-mail.com/2026/07/16/cyprus-business-now-start-up-freedom-shipping-ctc-cysec-electricity",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+      "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+      "title": "Argentina face action after waving Falklands banner",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+      "title": "Families of 43 victims await verdict in Genoa bridge disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "China economic growth falls sharply, missing target",
-      "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+      "title": "More people around the world now favour China over the US, Pew study suggests",
+      "link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Seven Britons among those killed in Spain wildfires",
-      "link": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
+      "title": "US military to start screening for testosterone deficiency, Hegseth says",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Elephants turn footsteps into messages through ground and skull vibrations",
-    "link": "https://phys.org/news/2026-07-elephants-footsteps-messages-ground-skull.html",
-    "summary": "Elephants can communicate with other elephants across distances of up to five kilometers (3 miles) by producing sounds that travel through the air. However, they have a second way of sending signals: seismic waves traveling through the ground. These vibrations are transmitted from elephants' feet through their legs and ultimately through the bones of their skull directly into the inner ear. They can be perceived across distances of 10 kilometers (6 miles) or more. This is called bone-conduction hearing.",
+    "title": "Understanding Bavaria's Indigeneity",
+    "link": "https://phys.org/news/2026-07-bavaria-indigeneity.html",
+    "summary": "When I tell people that I am a proud Boarisch-Schwob—Bavarian-Swabian—Indigenous person, I am often met with disbelief. I am white. I am European. I come from Bavaria, one of Europe's wealthiest regions. For some people, those facts settle the question before I have explained anything else.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-15T05:37:11.420Z"
+  "generated_at": "2026-07-16T05:14:06.060Z"
 }
