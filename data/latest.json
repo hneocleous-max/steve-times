@@ -2,12 +2,12 @@
   "weather": {
     "today": {
       "date": "2026-07-19",
-      "code": 1,
+      "code": 2,
       "max": 33,
       "min": 25,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     },
     "tomorrow": {
       "date": "2026-07-20",
@@ -21,28 +21,28 @@
   },
   "local": [
     {
-      "title": "Our View: Crackdown risks worsening labour shortages",
-      "link": "https://cyprus-mail.com/2026/07/19/our-view-crackdown-risks-worsening-labour-shortages",
+      "title": "Cyprus Business Now: weekly wrap-up",
+      "link": "https://cyprus-mail.com/2026/07/19/cyprus-business-now-weekly-wrap-up-170",
       "summary": ""
     },
     {
-      "title": "Police investigate attempted murder after 33-year-old seriously injured in Aradippou",
-      "link": "https://en.philenews.com/local/attempted-murder-aradippou-attack-33-year-old/",
+      "title": "US renews strikes on Iran after two military personnel killed by Iranian attack",
+      "link": "https://en.philenews.com/international/us-renews-strikes-on-iran-after-two-military-personnel-killed-by-iranian-attack/",
       "summary": ""
     },
     {
-      "title": "German premium carmakers face challenge in global electric vehicle race",
-      "link": "https://cyprus-mail.com/2026/07/19/german-premium-carmakers-face-challenge-in-global-electric-vehicle-race",
+      "title": "A very British and a very Cypriot coup",
+      "link": "https://cyprus-mail.com/2026/07/19/a-very-british-and-a-very-cypriot-coup",
       "summary": ""
     },
     {
-      "title": "Minutes reveal how remains of 70 Assia villagers were dumped at Dikomo landfill",
-      "link": "https://en.philenews.com/local/assia-remains-dumped-dikomo-landfill-minutes/",
+      "title": "Conflict-of-interest gaps return to spotlight after ‘State Mafia’ and Videogate appointments",
+      "link": "https://en.philenews.com/local/cyprus-conflict-interest-rules-state-mafia-videogate/",
       "summary": ""
     },
     {
-      "title": "Buried decisions continue to haunt Cyprus’ landfill crisis",
-      "link": "https://cyprus-mail.com/2026/07/19/buried-decisions-continue-to-haunt-cyprus-landfill-crisis",
+      "title": "US renews strikes on Iran after two military personnel killed by Iranian attack",
+      "link": "https://cyprus-mail.com/2026/07/19/991778",
       "summary": ""
     }
   ],
@@ -79,5 +79,5 @@
     "summary": "In just one course, Georgia Tech student Diya Godavarti helped develop a tool that could improve workers' responses to chemical spills or open containers. Godavarti, then a second-year chemical and biomolecular engineering (ChBE) student, joined a course on chemical equity focused on reducing chemical exposure in vulnerable communities. The class, part of Georgia Tech's Vertically Integrated Projects (VIP) program, embeds students in long-term research teams that span disciplines and semesters.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-19T05:26:12.446Z"
+  "generated_at": "2026-07-19T06:02:48.783Z"
 }
