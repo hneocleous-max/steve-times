@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-19",
-      "code": 2,
-      "max": 33,
-      "min": 25,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-07-20",
-      "code": 2,
+      "code": 1,
       "max": 34,
       "min": 25,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
+      "desc": "Mainly clear",
+      "icon": "🌤️",
+      "masthead": "Fine weather"
+    },
+    "tomorrow": {
+      "date": "2026-07-21",
+      "code": 1,
+      "max": 33,
+      "min": 26,
+      "desc": "Mainly clear",
+      "icon": "🌤️",
+      "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "Cyprus Business Now: weekly wrap-up",
-      "link": "https://cyprus-mail.com/2026/07/19/cyprus-business-now-weekly-wrap-up-170",
+      "title": "Today’s weather: Hot and sunny again",
+      "link": "https://cyprus-mail.com/2026/07/20/todays-weather-hot-and-sunny-again-4",
       "summary": ""
     },
     {
-      "title": "US renews strikes on Iran after two military personnel killed by Iranian attack",
-      "link": "https://en.philenews.com/international/us-renews-strikes-on-iran-after-two-military-personnel-killed-by-iranian-attack/",
+      "title": "Christodoulides expected to announce cabinet reshuffle",
+      "link": "https://en.philenews.com/politics/christodoulides-cabinet-reshuffle-announcement-centre-right/",
       "summary": ""
     },
     {
-      "title": "A very British and a very Cypriot coup",
-      "link": "https://cyprus-mail.com/2026/07/19/a-very-british-and-a-very-cypriot-coup",
+      "title": "US strikes Iran for ninth day; Iran says two oil tankers in Strait of Hormuz exploded and immobilised",
+      "link": "https://cyprus-mail.com/2026/07/20/us-strikes-iran-for-ninth-day-iran-says-two-oil-tankers-in-strait-of-hormuz-exploded-and-immobilised",
       "summary": ""
     },
     {
-      "title": "Conflict-of-interest gaps return to spotlight after ‘State Mafia’ and Videogate appointments",
-      "link": "https://en.philenews.com/local/cyprus-conflict-interest-rules-state-mafia-videogate/",
+      "title": "Three inmates set fire to Central Prisons wing",
+      "link": "https://en.philenews.com/local/fire-central-prisons-high-security-wing-inmates/",
       "summary": ""
     },
     {
-      "title": "US renews strikes on Iran after two military personnel killed by Iranian attack",
-      "link": "https://cyprus-mail.com/2026/07/19/991778",
+      "title": "Major tech firms face new regulatory scrutiny for financial services",
+      "link": "https://cyprus-mail.com/2026/07/20/major-tech-firms-face-new-regulatory-scrutiny-for-financial-services",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "US and Iran exchange strikes after two US deaths in Jordan attack",
+      "title": "US soldier killed and one injured after Iranian attack in Iraq",
       "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
+      "title": "Food delivery rider wins China's top literary prize",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Norway opens new memorial for victims of 2011 massacre",
+      "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
       "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
-      "link": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-      "link": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Hungary's president agrees to stand down after parliament backs removal",
-      "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Students create chemical safety model for everyday exposures",
-    "link": "https://phys.org/news/2026-07-students-chemical-safety-everyday-exposures.html",
-    "summary": "In just one course, Georgia Tech student Diya Godavarti helped develop a tool that could improve workers' responses to chemical spills or open containers. Godavarti, then a second-year chemical and biomolecular engineering (ChBE) student, joined a course on chemical equity focused on reducing chemical exposure in vulnerable communities. The class, part of Georgia Tech's Vertically Integrated Projects (VIP) program, embeds students in long-term research teams that span disciplines and semesters.",
+    "title": "Underwater drones discover coral reefs off Benin, long presumed dead, teeming with life",
+    "link": "https://phys.org/news/2026-07-underwater-drones-coral-reefs-benin.html",
+    "summary": "A coral reef, missing and presumed dead, has been found alive and well off the coast of Benin. Surveys in the 1960s, focused on identifying promising fishing areas, flagged a possible deep-water coral reef but assumed it must be dead. Now, using a modern sonar survey and the Deep Sea Camera System provided by the National Geographic Exploration Technology Lab, scientists have found an apparently healthy reef.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-19T06:02:48.783Z"
+  "generated_at": "2026-07-20T05:43:25.227Z"
 }
