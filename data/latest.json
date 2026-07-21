@@ -1,18 +1,18 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "code": 1,
       "max": 34,
-      "min": 25,
+      "min": 26,
       "desc": "Mainly clear",
       "icon": "🌤️",
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "code": 1,
-      "max": 33,
+      "max": 36,
       "min": 26,
       "desc": "Mainly clear",
       "icon": "🌤️",
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "The end of the road for Cyprus’ old ID cards",
-      "link": "https://cyprus-mail.com/2026/07/20/the-end-of-the-road-for-cyprus-old-id-cards",
+      "title": "Power cuts across Cyprus due to Dhekelia plant fault",
+      "link": "https://cyprus-mail.com/2026/07/21/power-cuts-across-cyprus-due-to-dhekelia-plant-fault",
       "summary": ""
     },
     {
-      "title": "Cyprus police make 13 arrests, issue 286 traffic citations overnight",
-      "link": "https://en.philenews.com/local/police-checks-13-arrests-286-traffic-citations/",
+      "title": "Right lane closed on Nicosia-Limassol highway after crash near Agios Tychonas",
+      "link": "https://en.philenews.com/local/nicosia-limassol-highway-lane-closed-crash-agios-tychonas/",
       "summary": ""
     },
     {
-      "title": "Greece ‘remains ready’ to help towards Cyprus solution",
-      "link": "https://cyprus-mail.com/2026/07/20/greece-remains-ready-to-help-towards-cyprus-solution",
+      "title": "Borrowers group welcomes increased competition in Cyprus banking sector",
+      "link": "https://cyprus-mail.com/2026/07/21/borrowers-group-welcomes-increased-competition-in-cyprus-banking-sector",
       "summary": ""
     },
     {
-      "title": "40 degrees and clear skies expected",
-      "link": "https://en.philenews.com/local/40-degrees-and-clear-skies-expected/",
+      "title": "Cyprus or Greece? What to know before making the move",
+      "link": "https://en.philenews.com/living-in-cyprus/cyprus-vs-greece-expats-cost-living-taxes-property/",
       "summary": ""
     },
     {
-      "title": "Cyprus marks anniversary of Turkish invasion",
-      "link": "https://cyprus-mail.com/2026/07/20/cyprus-marks-anniversary-of-turkish-invasion",
+      "title": "Sunny and yellow-warning hot, danger of forest fires high",
+      "link": "https://cyprus-mail.com/2026/07/21/sunny-and-yellow-warning-hot-danger-of-forest-fires-high",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "US soldier killed and one injured after Iranian attack in Iraq",
-      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Food delivery rider wins China's top literary prize",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Norway opens new memorial for victims of 2011 massacre",
-      "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
+      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Tate brothers arrested in US as further UK charges take total to 59",
-      "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "title": "Tate brothers appear in US court for extradition proceedings",
+      "link": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-      "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Underwater drones discover coral reefs off Benin, long presumed dead, teeming with life",
-    "link": "https://phys.org/news/2026-07-underwater-drones-coral-reefs-benin.html",
-    "summary": "A coral reef, missing and presumed dead, has been found alive and well off the coast of Benin. Surveys in the 1960s, focused on identifying promising fishing areas, flagged a possible deep-water coral reef but assumed it must be dead. Now, using a modern sonar survey and the Deep Sea Camera System provided by the National Geographic Exploration Technology Lab, scientists have found an apparently healthy reef.",
+    "title": "Memorable visuals drive online ad purchases more than emotion, study suggests",
+    "link": "https://phys.org/news/2026-07-visuals-online-ad-emotion.html",
+    "summary": "A study of digital advertising in the International Journal of Business and Systems Research suggests that memorable visuals are more likely to encourage consumers to buy than campaigns that rely primarily on emotional impact. The findings challenge conventional wisdom about how online advertising influences behavior.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-20T06:22:08.915Z"
+  "generated_at": "2026-07-21T05:23:59.623Z"
 }
