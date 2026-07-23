@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-22",
-      "code": 45,
-      "max": 36,
-      "min": 26,
-      "desc": "Foggy",
-      "icon": "🌫️",
-      "masthead": "Fog about"
-    },
-    "tomorrow": {
       "date": "2026-07-23",
       "code": 0,
-      "max": 35,
-      "min": 26,
+      "max": 36,
+      "min": 27,
       "desc": "Clear skies",
       "icon": "☀️",
       "masthead": "Fine weather"
+    },
+    "tomorrow": {
+      "date": "2026-07-24",
+      "code": 2,
+      "max": 31,
+      "min": 26,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "Holguin to meet with new EU Cyprus envoy in Brussels",
-      "link": "https://cyprus-mail.com/2026/07/22/holguin-to-meet-with-new-eu-cyprus-envoy-in-brussels",
+      "title": "Eurobank, National Bank of Greece and Alpha Bank see earnings upgrades",
+      "link": "https://cyprus-mail.com/2026/07/23/eurobank-national-bank-of-greece-and-alpha-bank-see-earnings-upgrades",
       "summary": ""
     },
     {
-      "title": "“They are my family”: Cyprus mother and daughter part of eight-person kidney transplant chain in Israel",
-      "link": "https://en.philenews.com/local/foteini-kidney-transplant-chain-israel-cyprus-family/",
+      "title": "Police make 13 arrests, log 339 traffic offences overnight",
+      "link": "https://en.philenews.com/local/police-13-arrests-339-traffic-reports-overnight-operations/",
       "summary": ""
     },
     {
-      "title": "Cyprus among countries where banks passed on fewer ECB rate rises to savers",
-      "link": "https://cyprus-mail.com/2026/07/22/cyprus-among-countries-where-banks-passed-on-fewer-ecb-rate-rises-to-savers",
+      "title": "Houthis attack Saudi oil tankers, threatening global supply crisis",
+      "link": "https://cyprus-mail.com/2026/07/23/houthis-attack-saudi-oil-tankers-threatening-global-supply-crisis",
       "summary": ""
     },
     {
-      "title": "Holguín makes last-ditch push in Ankara before Guterres Cyprus meeting",
-      "link": "https://en.philenews.com/politics/holguin-ankara-fidan-cyprus-guterres-five-party-meeting/",
+      "title": "Motorcyclist seriously injured after crashing into trees in Paphos",
+      "link": "https://en.philenews.com/local/motorcyclist-seriously-injured-after-crashing-into-trees-in-paphos/",
       "summary": ""
     },
     {
-      "title": "Ukraine gets new top commander as protests spark war’s biggest military shake up",
-      "link": "https://cyprus-mail.com/2026/07/22/ukraine-gets-new-top-commander-as-protests-spark-wars-biggest-military-shake-up",
+      "title": "US says it reaches nuclear power deal with Saudi Arabia",
+      "link": "https://cyprus-mail.com/2026/07/23/us-says-it-reaches-nuclear-power-deal-with-saudi-arabia",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "title": "US signs landmark nuclear deal with Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
-      "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "France passes law banning under-15s from social media",
-      "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+      "title": "Tankers make sharp U-turns after Houthi shipping threat",
+      "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
-      "link": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
+      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
-      "link": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
+      "title": "Fire kills 10 members of same family in Peru, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Australian cave discovery shows grass was burned for magic, cures and curses for 25,000 years",
-    "link": "https://phys.org/news/2026-07-australian-cave-discovery-grass-magic.html",
-    "summary": "The GunaiKurnai, an Australian Aboriginal nation, are the acknowledged traditional custodians of Gippsland and the southern Victorian Alps. Within their territory are caves known from 19th-century ethnographic reports and oral traditions to have been settings for magic, healing and cursing rituals by powerful learned women and men called \"mulla-mullung,\" as well as by other spiritual practitioners. Archaeologists have shown that people have been visiting one of these caves, Cloggs Cave, for such activities over the past 25,000 years.",
+    "title": "Orcas filmed ramming one of the world's heaviest fish so hard it explodes, possibly for fun",
+    "link": "https://phys.org/news/2026-07-orcas-ramming-world-heaviest-fish.html",
+    "summary": "Orcas are known to be smart and ruthless hunters. They've been observed hunting a variety of prey, with some species, such as whales, larger than themselves. They use a wide range of strategies to hunt and kill prey, but now, in the Gulf of California, researchers have observed one that hasn't been described before.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-22T05:54:35.110Z"
+  "generated_at": "2026-07-23T05:28:52.912Z"
 }
