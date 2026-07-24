@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-23",
-      "code": 0,
-      "max": 36,
-      "min": 27,
-      "desc": "Clear skies",
-      "icon": "☀️",
-      "masthead": "Fine weather"
-    },
-    "tomorrow": {
       "date": "2026-07-24",
       "code": 2,
-      "max": 31,
-      "min": 26,
+      "max": 32,
+      "min": 27,
       "desc": "Partly cloudy",
       "icon": "⛅",
       "masthead": "Fair skies"
+    },
+    "tomorrow": {
+      "date": "2026-07-25",
+      "code": 3,
+      "max": 33,
+      "min": 26,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "Eurobank, National Bank of Greece and Alpha Bank see earnings upgrades",
-      "link": "https://cyprus-mail.com/2026/07/23/eurobank-national-bank-of-greece-and-alpha-bank-see-earnings-upgrades",
+      "title": "Trump imposes new tariffs on EU, China and 58 other trade partners",
+      "link": "https://cyprus-mail.com/2026/07/24/trump-imposes-new-tariffs-on-eu-china-and-58-other-trade-partners",
       "summary": ""
     },
     {
-      "title": "Cyprus imposes rolling power cuts amid heatwave demand shortfall",
-      "link": "https://en.philenews.com/local/cyprus-rolling-power-cuts-heatwave-demand-shortfall/",
+      "title": "New clash between the EU and the Venice Biennale as funds halted amid reopening of Russian pavilion",
+      "link": "https://en.philenews.com/international/new-clash-between-the-eu-and-the-venice-biennale-as-funds-halted-amid-reopening-of-russian-pavilion/",
       "summary": ""
     },
     {
-      "title": "Houthis attack Saudi oil tankers, threatening global supply crisis",
-      "link": "https://cyprus-mail.com/2026/07/23/houthis-attack-saudi-oil-tankers-threatening-global-supply-crisis",
+      "title": "Cyprus puts humans in charge of its AI future",
+      "link": "https://cyprus-mail.com/2026/07/24/cyprus-puts-humans-in-charge-of-its-ai-future",
       "summary": ""
     },
     {
-      "title": "Fire service responds to vehicle blaze in Alassa area",
-      "link": "https://en.philenews.com/local/fire-service-vehicle-blaze-alassa-limassol/",
+      "title": "What I look for in a founder",
+      "link": "https://en.philenews.com/insider/what-i-look-for-in-a-founder/",
       "summary": ""
     },
     {
-      "title": "US says it reaches nuclear power deal with Saudi Arabia",
-      "link": "https://cyprus-mail.com/2026/07/23/us-says-it-reaches-nuclear-power-deal-with-saudi-arabia",
+      "title": "Cyprus Business Now: Techisland, cybersecurity, banks, energy, SafeIsland CY",
+      "link": "https://cyprus-mail.com/2026/07/24/cyprus-business-now-techisland-cybersecurity-banks-energy-safeisland-cy",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "US signs landmark nuclear deal with Saudi Arabia",
-      "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "title": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "title": "Oil prices hit $100 for the first time since May",
+      "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Tankers make sharp U-turns after Houthi shipping threat",
-      "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+      "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+      "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-      "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Fire kills 10 members of same family in Peru, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
+      "title": "France evacuates 20,000 as wildfires spread in south-west",
+      "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Orcas filmed ramming one of the world's heaviest fish so hard it explodes, possibly for fun",
-    "link": "https://phys.org/news/2026-07-orcas-ramming-world-heaviest-fish.html",
-    "summary": "Orcas are known to be smart and ruthless hunters. They've been observed hunting a variety of prey, with some species, such as whales, larger than themselves. They use a wide range of strategies to hunt and kill prey, but now, in the Gulf of California, researchers have observed one that hasn't been described before.",
+    "title": "3D-printed bioplastic pods offer new hope for seagrass restoration in Thailand",
+    "link": "https://phys.org/news/2026-07-3d-bioplastic-pods-seagrass-thailand.html",
+    "summary": "A new collaborative research project between Murdoch University and Walailak University (WU) aims to restore seagrass meadows in Thailand using 3D-printed pods made from bioplastics.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-23T06:05:26.979Z"
+  "generated_at": "2026-07-24T05:23:35.184Z"
 }
