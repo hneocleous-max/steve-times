@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-24",
-      "code": 2,
-      "max": 32,
-      "min": 27,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-07-25",
       "code": 3,
-      "max": 33,
+      "max": 32,
       "min": 26,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
+    },
+    "tomorrow": {
+      "date": "2026-07-26",
+      "code": 3,
+      "max": 32,
+      "min": 23,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Twelve arrested in overnight police operations",
-      "link": "https://cyprus-mail.com/2026/07/24/twelve-arrested-in-overnight-police-operations-2",
+      "title": "EU employment tied to foreign trade hits record 31.6 million",
+      "link": "https://cyprus-mail.com/2026/07/25/eu-employment-tied-to-foreign-trade-hits-record-31-6-million",
       "summary": ""
     },
     {
-      "title": "War spreads to Red Sea as Houthis strike Saudi tankers and Trump vows retaliation against Iran",
-      "link": "https://en.philenews.com/international/houthis-saudi-tankers-red-sea-trump-iran/",
+      "title": "Cyprus’s LIVIA takes first place in Europe with smart farming platform",
+      "link": "https://en.philenews.com/insider/livia-cyprus-team-wins-gen-e-2026-smart-farming/",
       "summary": ""
     },
     {
-      "title": "France requests help from EU to deal with fires, says Macron",
-      "link": "https://cyprus-mail.com/2026/07/24/france-requests-help-from-eu-to-deal-with-fires-says-macron",
+      "title": "Addressing the affordability crisis of Cyprus households",
+      "link": "https://cyprus-mail.com/2026/07/25/addressing-the-affordability-crisis-of-cyprus-households",
       "summary": ""
     },
     {
-      "title": "New clash between the EU and the Venice Biennale as funds halted amid reopening of Russian pavilion",
-      "link": "https://en.philenews.com/international/new-clash-between-the-eu-and-the-venice-biennale-as-funds-halted-amid-reopening-of-russian-pavilion/",
+      "title": "Cyprus may have world’s highest stray cat ratio, study finds",
+      "link": "https://en.philenews.com/local/cyprus-stray-cat-population-crisis-study/",
       "summary": ""
     },
     {
-      "title": "EU’s Kallas questions US rationale for tariffs on bloc, seeks clarification",
-      "link": "https://cyprus-mail.com/2026/07/24/eus-kallas-questions-us-rationale-for-tariffs-on-bloc-seeks-clarification",
+      "title": "Drowning deaths in Cyprus prompt renewed safety push",
+      "link": "https://cyprus-mail.com/2026/07/25/drowning-deaths-in-cyprus-prompt-renewed-safety-push",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+      "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Oil prices hit $100 for the first time since May",
-      "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-      "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+      "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-      "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "France evacuates 20,000 as wildfires spread in south-west",
-      "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+      "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "3D-printed bioplastic pods offer new hope for seagrass restoration in Thailand",
-    "link": "https://phys.org/news/2026-07-3d-bioplastic-pods-seagrass-thailand.html",
-    "summary": "A new collaborative research project between Murdoch University and Walailak University (WU) aims to restore seagrass meadows in Thailand using 3D-printed pods made from bioplastics.",
+    "title": "Prize honors discovery of altermagnetism as a third fundamental class of magnetism",
+    "link": "https://phys.org/news/2026-07-prize-honors-discovery-altermagnetism-fundamental.html",
+    "summary": "One of Europe's highest distinctions in condensed matter physics has been awarded for a discovery that is reshaping our understanding of magnetism: The 2026 Europhysics Prize of the European Physical Society (EPS) Condensed Matter Division goes to Professor Jairo Sinova of Johannes Gutenberg University Mainz (JGU), Dr. Libor Šmejkal and Professor Tomas Jungwirth for their discovery of altermagnetism—a previously unknown fundamental class of magnetism.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-24T05:53:50.685Z"
+  "generated_at": "2026-07-25T05:17:47.684Z"
 }
