@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-25",
-      "code": 3,
-      "max": 32,
-      "min": 26,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
-    },
-    "tomorrow": {
       "date": "2026-07-26",
       "code": 3,
       "max": 32,
@@ -17,67 +8,76 @@
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
+    },
+    "tomorrow": {
+      "date": "2026-07-27",
+      "code": 1,
+      "max": 35,
+      "min": 26,
+      "desc": "Mainly clear",
+      "icon": "🌤️",
+      "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "Nice glasses. Are they recording me?",
-      "link": "https://cyprus-mail.com/2026/07/25/nice-glasses-are-they-recording-me",
+      "title": "You roasted the scammer. They confirmed your number works.",
+      "link": "https://cyprus-mail.com/2026/07/26/you-roasted-the-scammer-they-confirmed-your-number-works",
       "summary": ""
     },
     {
-      "title": "Cyprus’s LIVIA takes first place in Europe with smart farming platform",
-      "link": "https://en.philenews.com/insider/livia-cyprus-team-wins-gen-e-2026-smart-farming/",
+      "title": "Wildfires force evacuations outside Bordeaux as Spanish blazes cause first death",
+      "link": "https://en.philenews.com/international/wildfires-force-evacuations-outside-bordeaux-as-spanish-blazes-cause-first-death/",
       "summary": ""
     },
     {
-      "title": "EU employment tied to foreign trade hits record 31.6 million",
-      "link": "https://cyprus-mail.com/2026/07/25/eu-employment-tied-to-foreign-trade-hits-record-31-6-million",
+      "title": "Tales from the Coffeshop: Proof our Nik has no interest in a Cyprus settlement",
+      "link": "https://cyprus-mail.com/2026/07/26/tales-from-the-coffeshop-proof-our-nik-has-no-interest-in-a-cyprus-settlement",
       "summary": ""
     },
     {
-      "title": "Cyprus may have world’s highest stray cat ratio, study finds",
-      "link": "https://en.philenews.com/local/cyprus-stray-cat-population-crisis-study/",
+      "title": "UN chief’s visit delays Cyprus cabinet reshuffle as DIKO talks continue",
+      "link": "https://en.philenews.com/politics/guterres-visit-delays-cyprus-cabinet-reshuffle/",
       "summary": ""
     },
     {
-      "title": "Addressing the affordability crisis of Cyprus households",
-      "link": "https://cyprus-mail.com/2026/07/25/addressing-the-affordability-crisis-of-cyprus-households",
+      "title": "Our View: Why is UN time and energy being spent on Cyprus?",
+      "link": "https://cyprus-mail.com/2026/07/26/our-view-why-is-un-time-and-energy-being-spent-on-cyprus",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "More than 220,000 evacuated in France and Spain due to wildfires",
-      "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+      "title": "More than 300,000 flee wildfires in France and Spain",
+      "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
       "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
       "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
       "summary": ""
-    },
-    {
-      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-      "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-      "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
-      "summary": ""
     }
   ],
   "discovery": {
-    "title": "Prize honors discovery of altermagnetism as a third fundamental class of magnetism",
-    "link": "https://phys.org/news/2026-07-prize-honors-discovery-altermagnetism-fundamental.html",
-    "summary": "One of Europe's highest distinctions in condensed matter physics has been awarded for a discovery that is reshaping our understanding of magnetism: The 2026 Europhysics Prize of the European Physical Society (EPS) Condensed Matter Division goes to Professor Jairo Sinova of Johannes Gutenberg University Mainz (JGU), Dr. Libor Šmejkal and Professor Tomas Jungwirth for their discovery of altermagnetism—a previously unknown fundamental class of magnetism.",
+    "title": "'I can't work in the farce of climate change cruise tourism anymore': Why Antarctic guides quit their dream jobs",
+    "link": "https://phys.org/news/2026-07-farce-climate-cruise-tourism-anymore.html",
+    "summary": "In the words of a former Antarctic tour guide we interviewed: \"You'd see massive glacier calvings, and you'd just want to cry. But all the guests would be cheering. And you'd be like … 'can you not put two and two together?'\"",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-25T05:46:55.802Z"
+  "generated_at": "2026-07-26T05:35:51.832Z"
 }
