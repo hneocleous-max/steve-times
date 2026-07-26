@@ -2,12 +2,12 @@
   "weather": {
     "today": {
       "date": "2026-07-26",
-      "code": 3,
+      "code": 2,
       "max": 32,
-      "min": 23,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
+      "min": 22,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     },
     "tomorrow": {
       "date": "2026-07-27",
@@ -21,28 +21,28 @@
   },
   "local": [
     {
+      "title": "Politics ain’t what it used to be",
+      "link": "https://cyprus-mail.com/2026/07/26/politics-aint-what-it-used-to-be",
+      "summary": ""
+    },
+    {
+      "title": "Two arrested after 21-year-old injured in Limassol fight",
+      "link": "https://en.philenews.com/local/two-arrested-fight-tsirion-stadium-limassol/",
+      "summary": ""
+    },
+    {
+      "title": "Cyprus Business Now: weekly wrap-up",
+      "link": "https://cyprus-mail.com/2026/07/26/cyprus-business-now-weekly-wrap-up-171",
+      "summary": ""
+    },
+    {
+      "title": "Electrical fault sparks house fire near Akaki",
+      "link": "https://en.philenews.com/local/electrical-fault-house-fire-akaki-meniko/",
+      "summary": ""
+    },
+    {
       "title": "You roasted the scammer. They confirmed your number works.",
       "link": "https://cyprus-mail.com/2026/07/26/you-roasted-the-scammer-they-confirmed-your-number-works",
-      "summary": ""
-    },
-    {
-      "title": "Wildfires force evacuations outside Bordeaux as Spanish blazes cause first death",
-      "link": "https://en.philenews.com/international/wildfires-force-evacuations-outside-bordeaux-as-spanish-blazes-cause-first-death/",
-      "summary": ""
-    },
-    {
-      "title": "Tales from the Coffeshop: Proof our Nik has no interest in a Cyprus settlement",
-      "link": "https://cyprus-mail.com/2026/07/26/tales-from-the-coffeshop-proof-our-nik-has-no-interest-in-a-cyprus-settlement",
-      "summary": ""
-    },
-    {
-      "title": "UN chief’s visit delays Cyprus cabinet reshuffle as DIKO talks continue",
-      "link": "https://en.philenews.com/politics/guterres-visit-delays-cyprus-cabinet-reshuffle/",
-      "summary": ""
-    },
-    {
-      "title": "Our View: Why is UN time and energy being spent on Cyprus?",
-      "link": "https://cyprus-mail.com/2026/07/26/our-view-why-is-un-time-and-energy-being-spent-on-cyprus",
       "summary": ""
     }
   ],
@@ -79,5 +79,5 @@
     "summary": "In the words of a former Antarctic tour guide we interviewed: \"You'd see massive glacier calvings, and you'd just want to cry. But all the guests would be cheering. And you'd be like … 'can you not put two and two together?'\"",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-26T05:35:51.832Z"
+  "generated_at": "2026-07-26T06:09:51.006Z"
 }
