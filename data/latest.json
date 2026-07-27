@@ -2,12 +2,12 @@
   "weather": {
     "today": {
       "date": "2026-07-27",
-      "code": 1,
+      "code": 2,
       "max": 34,
       "min": 27,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     },
     "tomorrow": {
       "date": "2026-07-28",
@@ -21,28 +21,28 @@
   },
   "local": [
     {
-      "title": "Govt ‘reservedly optimistic’ ahead of Guterres trip to Cyprus",
-      "link": "https://cyprus-mail.com/2026/07/27/govt-reservedly-optimistic-ahead-of-guterres-trip-to-cyprus",
+      "title": "3D printing gets a living upgrade",
+      "link": "https://cyprus-mail.com/2026/07/27/3d-printing-gets-a-living-upgrade",
       "summary": ""
     },
     {
-      "title": "Two explosions reported in overnight Limassol attacks",
-      "link": "https://en.philenews.com/local/limassol-explosions-shops-police-investigation/",
+      "title": "Battery storage to reach Cyprus by early 2027, minister says",
+      "link": "https://en.philenews.com/insider/cyprus-battery-storage-energy-minister-2027/",
       "summary": ""
     },
     {
-      "title": "Ukraine air attacks kill two, wound 17 in Russia’s south, authorities say",
-      "link": "https://cyprus-mail.com/2026/07/27/ukraine-air-attacks-kill-two-wound-17-in-russias-south-authorities-say",
+      "title": "Firefighters battle to keep blazes away from France’s Bordeaux",
+      "link": "https://cyprus-mail.com/2026/07/27/993853",
       "summary": ""
     },
     {
-      "title": "How the President will approach talks with the UN chief and Turkish Cypriot leader",
-      "link": "https://en.philenews.com/politics/christodoulides-three-axes-guterres-cyprus-visit/",
+      "title": "Things to do on Monday, July 27",
+      "link": "https://en.philenews.com/whats-on/things-to-do-on-monday-july-27/",
       "summary": ""
     },
     {
-      "title": "Phedonos trial begins behind closed doors",
-      "link": "https://cyprus-mail.com/2026/07/27/phedonos-trial-begins-behind-closed-doors",
+      "title": "Hooded individuals assault kiosk worker, get away with cash",
+      "link": "https://cyprus-mail.com/2026/07/27/hooded-individuals-assault-kiosk-worker-get-away-with-cash",
       "summary": ""
     }
   ],
@@ -79,5 +79,5 @@
     "summary": "The fossilized spines of saber-toothed cats in the La Brea Tar Pits reveal evidence of an unexpectedly high prevalence of rare spinal nerve tumors, suggesting that the species became inbred just before extinction. These tumors, which cause significant pain and reduced limb function, could have made the cats particularly vulnerable to the lure of prey animals stuck in the tar pits.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-27T05:54:19.637Z"
+  "generated_at": "2026-07-27T06:34:52.220Z"
 }
