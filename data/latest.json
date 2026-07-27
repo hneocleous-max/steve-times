@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-26",
-      "code": 2,
-      "max": 32,
-      "min": 22,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-07-27",
       "code": 1,
-      "max": 35,
-      "min": 26,
+      "max": 34,
+      "min": 27,
       "desc": "Mainly clear",
       "icon": "🌤️",
+      "masthead": "Fine weather"
+    },
+    "tomorrow": {
+      "date": "2026-07-28",
+      "code": 0,
+      "max": 35,
+      "min": 24,
+      "desc": "Clear skies",
+      "icon": "☀️",
       "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "Politics ain’t what it used to be",
-      "link": "https://cyprus-mail.com/2026/07/26/politics-aint-what-it-used-to-be",
+      "title": "Govt ‘reservedly optimistic’ ahead of Guterres trip to Cyprus",
+      "link": "https://cyprus-mail.com/2026/07/27/govt-reservedly-optimistic-ahead-of-guterres-trip-to-cyprus",
       "summary": ""
     },
     {
-      "title": "Two arrested after 21-year-old injured in Limassol fight",
-      "link": "https://en.philenews.com/local/two-arrested-fight-tsirion-stadium-limassol/",
+      "title": "Two explosions reported in overnight Limassol attacks",
+      "link": "https://en.philenews.com/local/limassol-explosions-shops-police-investigation/",
       "summary": ""
     },
     {
-      "title": "Cyprus Business Now: weekly wrap-up",
-      "link": "https://cyprus-mail.com/2026/07/26/cyprus-business-now-weekly-wrap-up-171",
+      "title": "Ukraine air attacks kill two, wound 17 in Russia’s south, authorities say",
+      "link": "https://cyprus-mail.com/2026/07/27/ukraine-air-attacks-kill-two-wound-17-in-russias-south-authorities-say",
       "summary": ""
     },
     {
-      "title": "Electrical fault sparks house fire near Akaki",
-      "link": "https://en.philenews.com/local/electrical-fault-house-fire-akaki-meniko/",
+      "title": "How the President will approach talks with the UN chief and Turkish Cypriot leader",
+      "link": "https://en.philenews.com/politics/christodoulides-three-axes-guterres-cyprus-visit/",
       "summary": ""
     },
     {
-      "title": "You roasted the scammer. They confirmed your number works.",
-      "link": "https://cyprus-mail.com/2026/07/26/you-roasted-the-scammer-they-confirmed-your-number-works",
+      "title": "Phedonos trial begins behind closed doors",
+      "link": "https://cyprus-mail.com/2026/07/27/phedonos-trial-begins-behind-closed-doors",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "More than 300,000 flee wildfires in France and Spain",
-      "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+      "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "title": "Berlin Pride attack suspect shot and killed during police operation",
+      "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "India's 'cockroach' protest called off after education minister quits",
-      "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
+      "link": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "'I can't work in the farce of climate change cruise tourism anymore': Why Antarctic guides quit their dream jobs",
-    "link": "https://phys.org/news/2026-07-farce-climate-cruise-tourism-anymore.html",
-    "summary": "In the words of a former Antarctic tour guide we interviewed: \"You'd see massive glacier calvings, and you'd just want to cry. But all the guests would be cheering. And you'd be like … 'can you not put two and two together?'\"",
+    "title": "Saber-toothed cats' spinal tumors suggest inbred species struggled to survive",
+    "link": "https://phys.org/news/2026-07-saber-toothed-cats-spinal-tumors.html",
+    "summary": "The fossilized spines of saber-toothed cats in the La Brea Tar Pits reveal evidence of an unexpectedly high prevalence of rare spinal nerve tumors, suggesting that the species became inbred just before extinction. These tumors, which cause significant pain and reduced limb function, could have made the cats particularly vulnerable to the lure of prey animals stuck in the tar pits.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-26T06:09:51.006Z"
+  "generated_at": "2026-07-27T05:54:19.637Z"
 }
