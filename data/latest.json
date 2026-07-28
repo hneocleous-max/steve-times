@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-27",
-      "code": 2,
-      "max": 34,
-      "min": 27,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-07-28",
       "code": 0,
       "max": 35,
@@ -17,67 +8,76 @@
       "desc": "Clear skies",
       "icon": "☀️",
       "masthead": "Fine weather"
+    },
+    "tomorrow": {
+      "date": "2026-07-29",
+      "code": 0,
+      "max": 36,
+      "min": 26,
+      "desc": "Clear skies",
+      "icon": "☀️",
+      "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "3D printing gets a living upgrade",
-      "link": "https://cyprus-mail.com/2026/07/27/3d-printing-gets-a-living-upgrade",
+      "title": "Scorching Tuesday ahead as temperatures climb to 40C",
+      "link": "https://cyprus-mail.com/2026/07/28/scorching-tuesday-ahead-as-temperatures-climb-to-40c",
       "summary": ""
     },
     {
-      "title": "Battery storage to reach Cyprus by early 2027, minister says",
-      "link": "https://en.philenews.com/insider/cyprus-battery-storage-energy-minister-2027/",
+      "title": "Guterres lands in Cyprus, pledges ‘comprehensive and lasting’ solution",
+      "link": "https://en.philenews.com/politics/guterres-arrives-cyprus-comprehensive-lasting-solution/",
       "summary": ""
     },
     {
-      "title": "Firefighters battle to keep blazes away from France’s Bordeaux",
-      "link": "https://cyprus-mail.com/2026/07/27/993853",
+      "title": "Citi raises Eurobank earnings outlook ahead of quarterly results",
+      "link": "https://cyprus-mail.com/2026/07/28/citi-raises-eurobank-earnings-outlook-ahead-of-quarterly-results",
       "summary": ""
     },
     {
-      "title": "Things to do on Monday, July 27",
-      "link": "https://en.philenews.com/whats-on/things-to-do-on-monday-july-27/",
+      "title": "40 degrees and clear skies on Tuesday",
+      "link": "https://en.philenews.com/local/40-degrees-and-clear-skies-on-tuesday/",
       "summary": ""
     },
     {
-      "title": "Hooded individuals assault kiosk worker, get away with cash",
-      "link": "https://cyprus-mail.com/2026/07/27/hooded-individuals-assault-kiosk-worker-get-away-with-cash",
+      "title": "Guterres to meet Cypriot leaders ‘to advance peace process’",
+      "link": "https://cyprus-mail.com/2026/07/28/guterres-to-meet-cypriot-leaders-to-advance-peace-process",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-      "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+      "title": "Spain and France brace for new heatwaves as wildfire closes in on Bordeaux",
+      "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Berlin Pride attack suspect shot and killed during police operation",
-      "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says Iran war talks taking place during lull in strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "title": "Johnson & Johnson offers up to $5.5bn to settle US baby powder lawsuits",
+      "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+      "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
-      "link": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
+      "title": "China's new challenge as natural disasters strike - fake AI videos",
+      "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Saber-toothed cats' spinal tumors suggest inbred species struggled to survive",
-    "link": "https://phys.org/news/2026-07-saber-toothed-cats-spinal-tumors.html",
-    "summary": "The fossilized spines of saber-toothed cats in the La Brea Tar Pits reveal evidence of an unexpectedly high prevalence of rare spinal nerve tumors, suggesting that the species became inbred just before extinction. These tumors, which cause significant pain and reduced limb function, could have made the cats particularly vulnerable to the lure of prey animals stuck in the tar pits.",
+    "title": "Q&A: What influences teens' career expectations?",
+    "link": "https://phys.org/news/2026-07-qa-teens-career.html",
+    "summary": "Adolescents in both the United States and the United Kingdom have become increasingly ambitious about their future careers over the past two decades, according to a new study by researchers at Penn State. The team also found that family socioeconomic background plays a different role depending on the types of occupations students expect to pursue, with relatively small socioeconomic differences among American students aspiring to the highest-status careers.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-27T06:34:52.220Z"
+  "generated_at": "2026-07-28T05:18:20.435Z"
 }
