@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "code": 0,
       "max": 35,
-      "min": 24,
+      "min": 26,
       "desc": "Clear skies",
       "icon": "☀️",
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "code": 0,
       "max": 36,
-      "min": 26,
+      "min": 28,
       "desc": "Clear skies",
       "icon": "☀️",
       "masthead": "Fine weather"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "The illusion of the unitary state and the inevitability of federation in Cyprus",
-      "link": "https://cyprus-mail.com/2026/07/28/the-illusion-of-the-unitary-state-and-the-inevitability-of-federation-in-cyprus",
+      "title": "Three arrested as police step up overnight crime prevention operations",
+      "link": "https://cyprus-mail.com/2026/07/29/three-arrested-as-police-step-up-overnight-crime-prevention-operations",
       "summary": ""
     },
     {
-      "title": "Guterres begins first UN chief visit to Cyprus since 2010 as expectations stay low",
-      "link": "https://en.philenews.com/politics/guterres-first-un-visit-cyprus-since-2010-low-expectations/",
+      "title": "He wasn’t waiting for any bus",
+      "link": "https://en.philenews.com/opinion/he-wasnt-waiting-for-any-bus/",
       "summary": ""
     },
     {
-      "title": "Phedonas trial continues behind closed doors",
-      "link": "https://cyprus-mail.com/2026/07/28/phedonas-trial-continues-behind-closed-doors",
+      "title": "Cyprus braces for 40C heat as clear skies continue",
+      "link": "https://cyprus-mail.com/2026/07/29/cyprus-braces-for-40c-heat-as-clear-skies-continue",
       "summary": ""
     },
     {
-      "title": "Anger mounts in Larnaca as defence minister blames army battalion for wildfire, promises answers within ten days",
-      "link": "https://en.philenews.com/local/larnaca-wildfire-defence-minister-blames-army-battalion/",
+      "title": "António Guterres knows the ABCs of the EU",
+      "link": "https://en.philenews.com/opinion/antonio-guterres-knows-the-abcs-of-the-eu/",
       "summary": ""
     },
     {
-      "title": "Scorching Tuesday ahead as temperatures climb to 40C",
-      "link": "https://cyprus-mail.com/2026/07/28/scorching-tuesday-ahead-as-temperatures-climb-to-40c",
+      "title": "Public finance body targets SMEs and startups in Cyprus",
+      "link": "https://cyprus-mail.com/2026/07/29/public-finance-body-targets-smes-and-startups-in-cyprus",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Spain and France brace for new heatwaves as wildfire closes in on Bordeaux",
-      "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: The moment quake hit Japan",
+      "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump says Iran war talks taking place during lull in strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran and US trade strikes, shattering brief lull in fighting",
+      "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Johnson & Johnson offers up to $5.5bn to settle US baby powder lawsuits",
-      "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+      "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+      "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
-      "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+      "title": "Trump administration bans new Chinese humanoid robots",
+      "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "China's new challenge as natural disasters strike - fake AI videos",
-      "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
+      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+      "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Q&A: What influences teens' career expectations?",
-    "link": "https://phys.org/news/2026-07-qa-teens-career.html",
-    "summary": "Adolescents in both the United States and the United Kingdom have become increasingly ambitious about their future careers over the past two decades, according to a new study by researchers at Penn State. The team also found that family socioeconomic background plays a different role depending on the types of occupations students expect to pursue, with relatively small socioeconomic differences among American students aspiring to the highest-status careers.",
+    "title": "Mosquitoes are rapidly activating enzymes against common insecticide, researchers warn",
+    "link": "https://phys.org/news/2026-07-mosquitoes-rapidly-enzymes-common-insecticide.html",
+    "summary": "Traditionally, public health programs have relied on chemicals for mosquito management, which may be why combating mosquitoes is becoming more difficult. Over time, insecticides trigger biochemical and genetic variations that confer a survival advantage on certain mosquito populations.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-28T05:52:27.786Z"
+  "generated_at": "2026-07-29T05:25:28.421Z"
 }
