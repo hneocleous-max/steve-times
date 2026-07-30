@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-29",
-      "code": 0,
-      "max": 35,
-      "min": 26,
-      "desc": "Clear skies",
-      "icon": "☀️",
-      "masthead": "Fine weather"
-    },
-    "tomorrow": {
       "date": "2026-07-30",
       "code": 0,
       "max": 36,
@@ -17,67 +8,76 @@
       "desc": "Clear skies",
       "icon": "☀️",
       "masthead": "Fine weather"
+    },
+    "tomorrow": {
+      "date": "2026-07-31",
+      "code": 0,
+      "max": 34,
+      "min": 25,
+      "desc": "Clear skies",
+      "icon": "☀️",
+      "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "Factorial bets on AI to reshape business management across the region",
-      "link": "https://cyprus-mail.com/2026/07/29/factorial-bets-on-ai-to-reshape-business-management-across-the-region",
+      "title": "Three Greek firefighters killed as wildfires strike further east in Europe, arson arrests in Bordeaux fire",
+      "link": "https://cyprus-mail.com/2026/07/30/three-greek-firefighters-killed-as-wildfires-strike-further-east-in-europe",
       "summary": ""
     },
     {
-      "title": "Guterres dinner marks small step forward as Cyprus talks resume",
-      "link": "https://en.philenews.com/politics/guterres-cyprus-talks-statement-christodoulides-erhurman/",
+      "title": "“And a Wake-up”: an exploration generational Cypriot guilt",
+      "link": "https://en.philenews.com/whats-on/and-a-wake-up-an-exploration-generational-cypriot-guilt/",
       "summary": ""
     },
     {
-      "title": "Three arrested as police step up overnight crime prevention operations",
-      "link": "https://cyprus-mail.com/2026/07/29/three-arrested-as-police-step-up-overnight-crime-prevention-operations",
+      "title": "US launches fresh strikes on Iran as regional war widens",
+      "link": "https://cyprus-mail.com/2026/07/30/us-launches-fresh-strikes-on-iran-as-regional-war-widens",
       "summary": ""
     },
     {
-      "title": "Larnaca developer arrested over €12m fraud claims, lawyer hits back",
-      "link": "https://en.philenews.com/local/larnaca-developer-savvas-kakos-arrested-fraud-claims/",
+      "title": "Cyprus at the Commonwealth Games: History, boycotts, and best performances",
+      "link": "https://en.philenews.com/sports/cyprus-commonwealth-games-history-boycott-records/",
       "summary": ""
     },
     {
-      "title": "Cyprus braces for 40C heat as clear skies continue",
-      "link": "https://cyprus-mail.com/2026/07/29/cyprus-braces-for-40c-heat-as-clear-skies-continue",
+      "title": "Cyprus hoteliers and Paphos municipality pledge coordinated tourism actions",
+      "link": "https://cyprus-mail.com/2026/07/30/cyprus-hoteliers-and-paphos-municipality-pledge-coordinated-tourism-actions",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Watch: The moment quake hit Japan",
-      "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Iran and US trade strikes, shattering brief lull in fighting",
-      "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
-      "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+      "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
+      "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump administration bans new Chinese humanoid robots",
-      "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
+      "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-      "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+      "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Mosquitoes are rapidly activating enzymes against common insecticide, researchers warn",
-    "link": "https://phys.org/news/2026-07-mosquitoes-rapidly-enzymes-common-insecticide.html",
-    "summary": "Traditionally, public health programs have relied on chemicals for mosquito management, which may be why combating mosquitoes is becoming more difficult. Over time, insecticides trigger biochemical and genetic variations that confer a survival advantage on certain mosquito populations.",
+    "title": "Chicken kidney sponge could be 'outstanding' at cleaning up polluted ports",
+    "link": "https://phys.org/news/2026-07-chicken-kidney-sponge-outstanding-polluted.html",
+    "summary": "Ports rank among the most disturbed marine environments. Pollutants like trash, oil and toxins from antifouling paints tend to accumulate in enclosed harbors. Invasive species arriving in ballast water may displace native wildlife, while ship propellers, sonars and dredging cause noise pollution that can interfere with animal communication. There is thus a great need for effective ways to clean up harbors. One promising method is renaturalization, in which hardy species that can survive under these conditions are deliberately introduced to act as pioneers.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-29T05:57:06.527Z"
+  "generated_at": "2026-07-30T05:12:22.537Z"
 }
