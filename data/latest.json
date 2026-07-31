@@ -3,7 +3,7 @@
     "today": {
       "date": "2026-07-31",
       "code": 1,
-      "max": 35,
+      "max": 34,
       "min": 26,
       "desc": "Mainly clear",
       "icon": "🌤️",
@@ -21,28 +21,28 @@
   },
   "local": [
     {
-      "title": "Today’s weather: Sunny at up to 40 degrees",
-      "link": "https://cyprus-mail.com/2026/07/31/todays-weather-sunny-at-up-to-40-degrees",
+      "title": "Trial of British father continues in Paphos",
+      "link": "https://cyprus-mail.com/2026/07/31/trial-of-british-father-continues-in-paphos",
       "summary": ""
     },
     {
-      "title": "ETYFA launches tender to complete Vasilikos LNG terminal",
-      "link": "https://en.philenews.com/insider/etyfa-tender-vasilikos-lng-terminal-completion/",
+      "title": "British father’s trial over young son’s death opens today",
+      "link": "https://en.philenews.com/local/british-father-trial-paphos-hotel-child-death/",
       "summary": ""
     },
     {
-      "title": "Paphos records Cyprus’ highest prices for new houses",
-      "link": "https://cyprus-mail.com/2026/07/31/paphos-records-cyprus-highest-prices-for-new-houses",
+      "title": "President meets with Fitto at the presidential palace",
+      "link": "https://cyprus-mail.com/2026/07/31/president-meets-with-fitto-at-the-presidential-palace",
       "summary": ""
     },
     {
-      "title": "Phedonos trial adjourned to September 10",
-      "link": "https://en.philenews.com/local/phedonos-trial-adjourned-september-10-live/",
+      "title": "Japan quake snarls auto and chip supply chains as toll hits 34",
+      "link": "https://en.philenews.com/international/japan-quake-snarls-auto-and-chip-supply-chains-as-toll-hits-34/",
       "summary": ""
     },
     {
-      "title": "Alpha Bank opens innovation challenge to European startups",
-      "link": "https://cyprus-mail.com/2026/07/31/alpha-bank-opens-innovation-challenge-to-european-startups",
+      "title": "Yellow weather warning for high temperatures issued for Friday",
+      "link": "https://cyprus-mail.com/2026/07/31/yellow-weather-warning-for-high-temperatures-issued-for-friday",
       "summary": ""
     }
   ],
@@ -53,7 +53,7 @@
       "summary": ""
     },
     {
-      "title": "Rushdi Abualouf: If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+      "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
       "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
@@ -79,5 +79,5 @@
     "summary": "A University of California San Diego research team has found a better way to understand and stabilize hydroxyapatite, the calcium phosphate mineral that makes up much of our teeth and bones. By adding tiny amounts of europium, a rare-earth element that mimics calcium, the team discovered a way to make the material potentially more useful for medical imaging.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-31T05:38:50.565Z"
+  "generated_at": "2026-07-31T06:17:56.153Z"
 }
