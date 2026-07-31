@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-30",
-      "code": 0,
-      "max": 36,
-      "min": 28,
-      "desc": "Clear skies",
-      "icon": "☀️",
+      "date": "2026-07-31",
+      "code": 1,
+      "max": 35,
+      "min": 26,
+      "desc": "Mainly clear",
+      "icon": "🌤️",
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "code": 0,
       "max": 34,
-      "min": 25,
+      "min": 24,
       "desc": "Clear skies",
       "icon": "☀️",
       "masthead": "Fine weather"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Yellow weather warning issued for high temperatures",
-      "link": "https://cyprus-mail.com/2026/07/30/yellow-weather-warning-issued-for-high-temperatures-3",
+      "title": "Today’s weather: Sunny at up to 40 degrees",
+      "link": "https://cyprus-mail.com/2026/07/31/todays-weather-sunny-at-up-to-40-degrees",
       "summary": ""
     },
     {
-      "title": "Fitto to visit Cyprus for talks with Christodoulides and Erhurman",
-      "link": "https://en.philenews.com/politics/fitto-visits-cyprus-christodoulides-erhurman/",
+      "title": "ETYFA launches tender to complete Vasilikos LNG terminal",
+      "link": "https://en.philenews.com/insider/etyfa-tender-vasilikos-lng-terminal-completion/",
       "summary": ""
     },
     {
-      "title": "Today’s weather: 40 degrees Celsius again",
-      "link": "https://cyprus-mail.com/2026/07/30/todays-weather-40-degrees-celsius-again-2",
+      "title": "Paphos records Cyprus’ highest prices for new houses",
+      "link": "https://cyprus-mail.com/2026/07/31/paphos-records-cyprus-highest-prices-for-new-houses",
       "summary": ""
     },
     {
-      "title": "What Guterres’s open window means for Cyprus talks",
-      "link": "https://en.philenews.com/politics/guterres-open-window-cyprus-talks/",
+      "title": "Phedonos trial adjourned to September 10",
+      "link": "https://en.philenews.com/local/phedonos-trial-adjourned-september-10-live/",
       "summary": ""
     },
     {
-      "title": "Russian strikes on Ukraine kill 13; Poland scrambles fighter jets",
-      "link": "https://cyprus-mail.com/2026/07/30/russian-strikes-on-ukraine-kill-13-poland-scrambles-fighter-jets",
+      "title": "Alpha Bank opens innovation challenge to European startups",
+      "link": "https://cyprus-mail.com/2026/07/31/alpha-bank-opens-innovation-challenge-to-european-startups",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+      "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+      "title": "Rushdi Abualouf: If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+      "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
-      "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+      "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-      "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+      "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-      "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+      "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+      "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Chicken kidney sponge could be 'outstanding' at cleaning up polluted ports",
-    "link": "https://phys.org/news/2026-07-chicken-kidney-sponge-outstanding-polluted.html",
-    "summary": "Ports rank among the most disturbed marine environments. Pollutants like trash, oil and toxins from antifouling paints tend to accumulate in enclosed harbors. Invasive species arriving in ballast water may displace native wildlife, while ship propellers, sonars and dredging cause noise pollution that can interfere with animal communication. There is thus a great need for effective ways to clean up harbors. One promising method is renaturalization, in which hardy species that can survive under these conditions are deliberately introduced to act as pioneers.",
+    "title": "Learning to better understand bone-like minerals",
+    "link": "https://phys.org/news/2026-07-bone-minerals.html",
+    "summary": "A University of California San Diego research team has found a better way to understand and stabilize hydroxyapatite, the calcium phosphate mineral that makes up much of our teeth and bones. By adding tiny amounts of europium, a rare-earth element that mimics calcium, the team discovered a way to make the material potentially more useful for medical imaging.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-30T05:47:01.134Z"
+  "generated_at": "2026-07-31T05:38:50.565Z"
 }
