@@ -1,16 +1,16 @@
 {
   "weather": {
     "today": {
-      "date": "2026-07-31",
-      "code": 1,
+      "date": "2026-08-01",
+      "code": 0,
       "max": 34,
-      "min": 26,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
+      "min": 25,
+      "desc": "Clear skies",
+      "icon": "☀️",
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "code": 0,
       "max": 34,
       "min": 24,
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Trial of British father continues in Paphos",
-      "link": "https://cyprus-mail.com/2026/07/31/trial-of-british-father-continues-in-paphos",
+      "title": "Small states must treat artificial intelligence as a strategic economic imperative",
+      "link": "https://cyprus-mail.com/2026/08/01/small-states-must-treat-artificial-intelligence-as-a-strategic-economic-imperative",
       "summary": ""
     },
     {
-      "title": "British father’s trial over young son’s death opens today",
-      "link": "https://en.philenews.com/local/british-father-trial-paphos-hotel-child-death/",
+      "title": "Two arrested at Larnaca airport over Nicosia attempted murder",
+      "link": "https://en.philenews.com/local/larnaca-airport-arrests-nicosia-attempted-murder/",
       "summary": ""
     },
     {
-      "title": "President meets with Fitto at the presidential palace",
-      "link": "https://cyprus-mail.com/2026/07/31/president-meets-with-fitto-at-the-presidential-palace",
+      "title": "International transport dominates EU waterway freight share",
+      "link": "https://cyprus-mail.com/2026/08/01/international-transport-dominates-eu-waterway-freight-share",
       "summary": ""
     },
     {
-      "title": "Japan quake snarls auto and chip supply chains as toll hits 34",
-      "link": "https://en.philenews.com/international/japan-quake-snarls-auto-and-chip-supply-chains-as-toll-hits-34/",
+      "title": "Christodoulides delays cabinet reshuffle as final portfolios hang in balance",
+      "link": "https://en.philenews.com/politics/cyprus-government-cabinet-reshuffle-delayed-christodoulides/",
       "summary": ""
     },
     {
-      "title": "Yellow weather warning for high temperatures issued for Friday",
-      "link": "https://cyprus-mail.com/2026/07/31/yellow-weather-warning-for-high-temperatures-issued-for-friday",
+      "title": "European road freight transport volume rises in 2025",
+      "link": "https://cyprus-mail.com/2026/08/01/european-road-freight-transport-volume-rises-in-2025",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-      "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+      "title": "Fifa scraps controversial World Cup investment plan",
+      "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Body of US climber the latest recovered after Pakistan avalanche",
       "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-      "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Learning to better understand bone-like minerals",
-    "link": "https://phys.org/news/2026-07-bone-minerals.html",
-    "summary": "A University of California San Diego research team has found a better way to understand and stabilize hydroxyapatite, the calcium phosphate mineral that makes up much of our teeth and bones. By adding tiny amounts of europium, a rare-earth element that mimics calcium, the team discovered a way to make the material potentially more useful for medical imaging.",
+    "title": "Fish pathogens once limited to Asia and US emerge in Brazilian farms",
+    "link": "https://phys.org/news/2026-07-fish-pathogens-limited-asia-emerge.html",
+    "summary": "For the first time in Brazil, scientists have identified the presence of bacteria that cause columnaris disease, a serious disease in farmed fish intended for human consumption. Previously, different species of the genus Flavobacterium had only been detected in fish farms in Asia and the United States.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-07-31T06:17:56.153Z"
+  "generated_at": "2026-08-01T05:31:33.736Z"
 }
