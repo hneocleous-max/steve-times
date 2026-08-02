@@ -2,11 +2,11 @@
   "weather": {
     "today": {
       "date": "2026-08-02",
-      "code": 1,
+      "code": 0,
       "max": 34,
       "min": 24,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
+      "desc": "Clear skies",
+      "icon": "☀️",
       "masthead": "Fine weather"
     },
     "tomorrow": {
@@ -21,28 +21,28 @@
   },
   "local": [
     {
+      "title": "Cyprus Business Now: weekly wrap-up",
+      "link": "https://cyprus-mail.com/2026/08/02/cyprus-business-now-weekly-wrap-up-172",
+      "summary": ""
+    },
+    {
+      "title": "Private Polls Trigger Early Political Battle Lines for Cyprus Presidential Race Following Guterres Visit",
+      "link": "https://en.philenews.com/politics/cyprus-presidential-race-internal-polls-christodoulides-demetriou/",
+      "summary": ""
+    },
+    {
+      "title": "Did Gueterres bungle the Cyprus Peace Conference in 2017?",
+      "link": "https://cyprus-mail.com/2026/08/02/did-gueterres-bungle-the-cyprus-peace-conference-in-2017",
+      "summary": ""
+    },
+    {
+      "title": "UN experts draft Cyprus convergence document as Guterres keeps talks alive despite friction",
+      "link": "https://en.philenews.com/politics/un-experts-draft-cyprus-talks-convergence-document-guterres/",
+      "summary": ""
+    },
+    {
       "title": "Connected to whom? The invisible danger of smart home devices",
       "link": "https://cyprus-mail.com/2026/08/02/connected-to-whom-the-invisible-danger-of-smart-home-devices",
-      "summary": ""
-    },
-    {
-      "title": "Cyprus leads Europe on drinking water access but not on trust in tap water",
-      "link": "https://en.philenews.com/local/limassol-water-chief-tap-water-safe-public-distrust/",
-      "summary": ""
-    },
-    {
-      "title": "Can AI fill Cyprus’ worker gap?",
-      "link": "https://cyprus-mail.com/2026/08/02/can-ai-fill-cyprus-worker-gap",
-      "summary": ""
-    },
-    {
-      "title": "Fire crews tackle three Nicosia district blazes as huge plume of black smoke rises from Gerolakkos",
-      "link": "https://en.philenews.com/local/cyprus-nicosia-district-fires-meniko-ergates-gerolakkos/",
-      "summary": ""
-    },
-    {
-      "title": "Our View: The Cyprus problem has become a geopolitical issue",
-      "link": "https://cyprus-mail.com/2026/08/02/our-view-the-cyprus-problem-has-become-a-geopolitical-issue",
       "summary": ""
     }
   ],
@@ -79,5 +79,5 @@
     "summary": "Researchers at the Indian Institute of Technology Gandhinagar (IITGN) and the Regional Centre for Biotechnology, Faridabad, have developed and tested a new class of fluorescent probes that enable scientists to visualize xylem, the specialized tissue responsible for transporting water and minerals through plants. The work, published in Plant and Cell Physiology, introduces a faster, more specific and sensitive staining method than conventional dyes, creating avenues to strengthen research on plant development, vascular biology and crop resilience.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-02T05:33:12.275Z"
+  "generated_at": "2026-08-02T06:07:07.907Z"
 }
