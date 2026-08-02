@@ -1,18 +1,18 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-01",
-      "code": 0,
+      "date": "2026-08-02",
+      "code": 1,
       "max": 34,
-      "min": 25,
-      "desc": "Clear skies",
-      "icon": "☀️",
+      "min": 24,
+      "desc": "Mainly clear",
+      "icon": "🌤️",
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "code": 0,
-      "max": 34,
+      "max": 33,
       "min": 24,
       "desc": "Clear skies",
       "icon": "☀️",
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Cyprus Business Now: Eurobank, Shell, surplus, inflation, borrowers, real estate",
-      "link": "https://cyprus-mail.com/2026/08/01/cyprus-business-now-eurobank-shell-surplus-inflation-borrowers-real-estate",
+      "title": "Connected to whom? The invisible danger of smart home devices",
+      "link": "https://cyprus-mail.com/2026/08/02/connected-to-whom-the-invisible-danger-of-smart-home-devices",
       "summary": ""
     },
     {
-      "title": "Tax Department issues eviction threat to First Division football clubs over €1m debt",
-      "link": "https://en.philenews.com/local/tax-department-issues-eviction-threat-to-first-division-football-clubs-over-e1m-debt/",
+      "title": "Cyprus leads Europe on drinking water access but not on trust in tap water",
+      "link": "https://en.philenews.com/local/limassol-water-chief-tap-water-safe-public-distrust/",
       "summary": ""
     },
     {
-      "title": "Small states must treat artificial intelligence as a strategic economic imperative",
-      "link": "https://cyprus-mail.com/2026/08/01/small-states-must-treat-artificial-intelligence-as-a-strategic-economic-imperative",
+      "title": "Can AI fill Cyprus’ worker gap?",
+      "link": "https://cyprus-mail.com/2026/08/02/can-ai-fill-cyprus-worker-gap",
       "summary": ""
     },
     {
-      "title": "Two arrested at Larnaca airport over Nicosia attempted murder",
-      "link": "https://en.philenews.com/local/larnaca-airport-arrests-nicosia-attempted-murder/",
+      "title": "Fire crews tackle three Nicosia district blazes as huge plume of black smoke rises from Gerolakkos",
+      "link": "https://en.philenews.com/local/cyprus-nicosia-district-fires-meniko-ergates-gerolakkos/",
       "summary": ""
     },
     {
-      "title": "International transport dominates EU waterway freight share",
-      "link": "https://cyprus-mail.com/2026/08/01/international-transport-dominates-eu-waterway-freight-share",
+      "title": "Our View: The Cyprus problem has become a geopolitical issue",
+      "link": "https://cyprus-mail.com/2026/08/02/our-view-the-cyprus-problem-has-become-a-geopolitical-issue",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Fifa scraps controversial World Cup investment plan",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+      "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
-      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
-      "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "title": "The Sopranos star Vincent Pastore dies aged 80",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Fish pathogens once limited to Asia and US emerge in Brazilian farms",
-    "link": "https://phys.org/news/2026-07-fish-pathogens-limited-asia-emerge.html",
-    "summary": "For the first time in Brazil, scientists have identified the presence of bacteria that cause columnaris disease, a serious disease in farmed fish intended for human consumption. Previously, different species of the genus Flavobacterium had only been detected in fish farms in Asia and the United States.",
+    "title": "Fluorescent probes offer sharper view of plant tissues",
+    "link": "https://phys.org/news/2026-07-fluorescent-probes-sharper-view-tissues.html",
+    "summary": "Researchers at the Indian Institute of Technology Gandhinagar (IITGN) and the Regional Centre for Biotechnology, Faridabad, have developed and tested a new class of fluorescent probes that enable scientists to visualize xylem, the specialized tissue responsible for transporting water and minerals through plants. The work, published in Plant and Cell Physiology, introduces a faster, more specific and sensitive staining method than conventional dyes, creating avenues to strengthen research on plant development, vascular biology and crop resilience.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-01T06:03:56.716Z"
+  "generated_at": "2026-08-02T05:33:12.275Z"
 }
