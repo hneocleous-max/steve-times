@@ -11,38 +11,38 @@
     },
     "tomorrow": {
       "date": "2026-08-04",
-      "code": 1,
+      "code": 0,
       "max": 33,
       "min": 23,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
+      "desc": "Clear skies",
+      "icon": "☀️",
       "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "Yellow weather warning in place for high temperatures",
-      "link": "https://cyprus-mail.com/2026/08/03/yellow-weather-warning-in-place-for-high-temperatures",
+      "title": "Man arrested for growing cannabis in house",
+      "link": "https://cyprus-mail.com/2026/08/03/man-arrested-for-growing-cannabis-in-house",
       "summary": ""
     },
     {
-      "title": "Police probe claims defence approached witness in Phaidonos trial",
-      "link": "https://en.philenews.com/local/phaidonos-trial-police-probe-witness-approach-claims/",
+      "title": "Ancestral offerings and rituals of gratitude open the month of Pachamama in Bolivia",
+      "link": "https://en.philenews.com/photos/ancestral-offerings-and-rituals-of-gratitude-open-the-month-of-pachamama-in-bolivia/",
       "summary": ""
     },
     {
-      "title": "Euro area firms embrace AI but deep adoption still limited",
-      "link": "https://cyprus-mail.com/2026/08/03/euro-area-firms-embrace-ai-but-deep-adoption-still-limited",
+      "title": "The productions of the upcoming Cyprus Choreography Showcase",
+      "link": "https://cyprus-mail.com/2026/08/03/the-productions-of-the-upcoming-cyprus-choreography-showcase",
       "summary": ""
     },
     {
-      "title": "Fire service boosts patrols over arson fears after five blazes",
-      "link": "https://en.philenews.com/local/cyprus-fire-service-patrols-arson-suspicions/",
+      "title": "Cyprus Seeds showcases research start-ups at DOERS Summit 2026",
+      "link": "https://en.philenews.com/insider/cyprus-seeds-doers-summit-2026-limassol/",
       "summary": ""
     },
     {
-      "title": "Today’s weather: Hot, sunny, 40 degrees again",
-      "link": "https://cyprus-mail.com/2026/08/03/todays-weather-hot-sunny-40-degrees-again",
+      "title": "Trump says Iran talks to take place on Monday, sets no deadline for deal",
+      "link": "https://cyprus-mail.com/2026/08/03/trump-says-iran-talks-to-take-place-on-monday-sets-no-deadline-for-deal",
       "summary": ""
     }
   ],
@@ -79,5 +79,5 @@
     "summary": "A study published in the Journal of Statistical Mechanics: Theory and Experiment (JSTAT), inspired by the behavior of bacterial colonies observed in previous experiments, uses mathematical models to describe the expansion of competing populations. The aim is to understand which factors determine the success of one population over another.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-03T05:46:17.202Z"
+  "generated_at": "2026-08-03T06:29:02.323Z"
 }
