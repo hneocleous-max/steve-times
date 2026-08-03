@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "code": 0,
-      "max": 34,
-      "min": 24,
+      "max": 33,
+      "min": 23,
       "desc": "Clear skies",
       "icon": "☀️",
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-08-03",
-      "code": 0,
+      "date": "2026-08-04",
+      "code": 1,
       "max": 33,
-      "min": 24,
-      "desc": "Clear skies",
-      "icon": "☀️",
+      "min": 23,
+      "desc": "Mainly clear",
+      "icon": "🌤️",
       "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "Cyprus Business Now: weekly wrap-up",
-      "link": "https://cyprus-mail.com/2026/08/02/cyprus-business-now-weekly-wrap-up-172",
+      "title": "Yellow weather warning in place for high temperatures",
+      "link": "https://cyprus-mail.com/2026/08/03/yellow-weather-warning-in-place-for-high-temperatures",
       "summary": ""
     },
     {
-      "title": "Private Polls Trigger Early Political Battle Lines for Cyprus Presidential Race Following Guterres Visit",
-      "link": "https://en.philenews.com/politics/cyprus-presidential-race-internal-polls-christodoulides-demetriou/",
+      "title": "Police probe claims defence approached witness in Phaidonos trial",
+      "link": "https://en.philenews.com/local/phaidonos-trial-police-probe-witness-approach-claims/",
       "summary": ""
     },
     {
-      "title": "Did Gueterres bungle the Cyprus Peace Conference in 2017?",
-      "link": "https://cyprus-mail.com/2026/08/02/did-gueterres-bungle-the-cyprus-peace-conference-in-2017",
+      "title": "Euro area firms embrace AI but deep adoption still limited",
+      "link": "https://cyprus-mail.com/2026/08/03/euro-area-firms-embrace-ai-but-deep-adoption-still-limited",
       "summary": ""
     },
     {
-      "title": "UN experts draft Cyprus convergence document as Guterres keeps talks alive despite friction",
-      "link": "https://en.philenews.com/politics/un-experts-draft-cyprus-talks-convergence-document-guterres/",
+      "title": "Fire service boosts patrols over arson fears after five blazes",
+      "link": "https://en.philenews.com/local/cyprus-fire-service-patrols-arson-suspicions/",
       "summary": ""
     },
     {
-      "title": "Connected to whom? The invisible danger of smart home devices",
-      "link": "https://cyprus-mail.com/2026/08/02/connected-to-whom-the-invisible-danger-of-smart-home-devices",
+      "title": "Today’s weather: Hot, sunny, 40 degrees again",
+      "link": "https://cyprus-mail.com/2026/08/03/todays-weather-hot-sunny-40-degrees-again",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump suggests new talks with Iran to begin on Monday",
+      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-      "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+      "title": "Massive Attack respond after Singapore ban over Palestine display",
+      "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "The Sopranos star Vincent Pastore dies aged 80",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+      "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Fluorescent probes offer sharper view of plant tissues",
-    "link": "https://phys.org/news/2026-07-fluorescent-probes-sharper-view-tissues.html",
-    "summary": "Researchers at the Indian Institute of Technology Gandhinagar (IITGN) and the Regional Centre for Biotechnology, Faridabad, have developed and tested a new class of fluorescent probes that enable scientists to visualize xylem, the specialized tissue responsible for transporting water and minerals through plants. The work, published in Plant and Cell Physiology, introduces a faster, more specific and sensitive staining method than conventional dyes, creating avenues to strengthen research on plant development, vascular biology and crop resilience.",
+    "title": "How fitness, speed and position shape competition in expanding populations",
+    "link": "https://phys.org/news/2026-07-position-competition-populations.html",
+    "summary": "A study published in the Journal of Statistical Mechanics: Theory and Experiment (JSTAT), inspired by the behavior of bacterial colonies observed in previous experiments, uses mathematical models to describe the expansion of competing populations. The aim is to understand which factors determine the success of one population over another.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-02T06:07:07.907Z"
+  "generated_at": "2026-08-03T05:46:17.202Z"
 }
