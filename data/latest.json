@@ -1,7 +1,7 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "code": 0,
       "max": 33,
       "min": 23,
@@ -10,74 +10,74 @@
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-08-04",
-      "code": 0,
-      "max": 33,
+      "date": "2026-08-05",
+      "code": 1,
+      "max": 32,
       "min": 23,
-      "desc": "Clear skies",
-      "icon": "☀️",
+      "desc": "Mainly clear",
+      "icon": "🌤️",
       "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "Man arrested for growing cannabis in house",
-      "link": "https://cyprus-mail.com/2026/08/03/man-arrested-for-growing-cannabis-in-house",
+      "title": "Eurozone and Cyprus business borrowing costs rise while mortgage rates stabilise",
+      "link": "https://cyprus-mail.com/2026/08/04/euro-area-borrowing-costs-rise-cyprus-lags-on-deposit-rate-pass-through",
       "summary": ""
     },
     {
-      "title": "Ancestral offerings and rituals of gratitude open the month of Pachamama in Bolivia",
-      "link": "https://en.philenews.com/photos/ancestral-offerings-and-rituals-of-gratitude-open-the-month-of-pachamama-in-bolivia/",
+      "title": "Weekend guide: Where to brunch, dine and explore across Cyprus",
+      "link": "https://en.philenews.com/whats-on/eat-drink/weekend-guide-where-to-brunch-dine-and-explore-across-cyprus/",
       "summary": ""
     },
     {
-      "title": "The productions of the upcoming Cyprus Choreography Showcase",
-      "link": "https://cyprus-mail.com/2026/08/03/the-productions-of-the-upcoming-cyprus-choreography-showcase",
+      "title": "Police arrest 19 in nationwide overnight operation",
+      "link": "https://cyprus-mail.com/2026/08/04/police-arrest-19-in-nationwide-overnight-operation",
       "summary": ""
     },
     {
-      "title": "Cyprus Seeds showcases research start-ups at DOERS Summit 2026",
-      "link": "https://en.philenews.com/insider/cyprus-seeds-doers-summit-2026-limassol/",
+      "title": "Cyprus police officers to start wearing body cameras on duty",
+      "link": "https://en.philenews.com/local/cyprus-police-body-cameras-officers-duty/",
       "summary": ""
     },
     {
-      "title": "Trump says Iran talks to take place on Monday, sets no deadline for deal",
-      "link": "https://cyprus-mail.com/2026/08/03/trump-says-iran-talks-to-take-place-on-monday-sets-no-deadline-for-deal",
+      "title": "Clear skies continue as temperatures reach 40C",
+      "link": "https://cyprus-mail.com/2026/08/04/clear-skies-continue-as-temperatures-reach-40c",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Trump suggests new talks with Iran to begin on Monday",
+      "title": "EU calls for stronger borders after Ceuta migrant crossings",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
       "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-      "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+      "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+      "link": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Massive Attack respond after Singapore ban over Palestine display",
-      "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-      "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+      "title": "France wildfires reveal hundreds of WW2 shells in village",
+      "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "How fitness, speed and position shape competition in expanding populations",
-    "link": "https://phys.org/news/2026-07-position-competition-populations.html",
-    "summary": "A study published in the Journal of Statistical Mechanics: Theory and Experiment (JSTAT), inspired by the behavior of bacterial colonies observed in previous experiments, uses mathematical models to describe the expansion of competing populations. The aim is to understand which factors determine the success of one population over another.",
+    "title": "Mechanical shortcut' rapidly carries organic particles into the deep ocean",
+    "link": "https://phys.org/news/2026-08-mechanical-shortcut-rapidly-particles-deep.html",
+    "summary": "The processes that capture carbon from the atmosphere and store it on the seabed are crucial for climate balance. However, assessing these mechanisms is often complicated because it requires measurements ranging from the surface to the deep ocean.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-03T06:29:02.323Z"
+  "generated_at": "2026-08-04T05:18:07.013Z"
 }
