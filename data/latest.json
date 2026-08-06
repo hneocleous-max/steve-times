@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-05",
-      "code": 1,
-      "max": 32,
-      "min": 23,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
-    },
-    "tomorrow": {
       "date": "2026-08-06",
-      "code": 1,
+      "code": 2,
       "max": 32,
       "min": 24,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
+    },
+    "tomorrow": {
+      "date": "2026-08-07",
+      "code": 2,
+      "max": 33,
+      "min": 25,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "A little cloud, plenty of sunshine and highs of 39C",
-      "link": "https://cyprus-mail.com/2026/08/05/a-little-cloud-plenty-of-sunshine-and-highs-of-39c",
+      "title": "Google AI shake-up puts Greek Cypriot Hassabis in top science role",
+      "link": "https://cyprus-mail.com/2026/08/06/google-ai-shake-up-puts-greek-cypriot-hassabis-in-top-science-role",
       "summary": ""
     },
     {
-      "title": "Government and PASYDY to review civil service reform",
-      "link": "https://en.philenews.com/politics/cyprus-government-pasydy-civil-service-reform-review/",
+      "title": "Dog loose on Kokkinotrimithia-Nicosia motorway near Pournara",
+      "link": "https://en.philenews.com/local/dog-kokkinotrimithia-nicosia-motorway-pournara/",
       "summary": ""
     },
     {
-      "title": "More than 100 drivers booked for speeding in nationwide police operation",
-      "link": "https://cyprus-mail.com/2026/08/05/more-than-100-drivers-booked-for-speeding-in-nationwide-police-operation",
+      "title": "Cyprus industrial producer prices edge up in June",
+      "link": "https://cyprus-mail.com/2026/08/06/cyprus-industrial-producer-prices-edge-up-in-june",
       "summary": ""
     },
     {
-      "title": "Justice Ministry lines up backup site for new prison amid Mathiatis objections",
-      "link": "https://en.philenews.com/insider/cyprus-new-prison-backup-site-agios-sozomenos/",
+      "title": "Student attacked and robbed in Old Nicosia",
+      "link": "https://en.philenews.com/local/student-attacked-and-robbed-in-old-nicosia/",
       "summary": ""
     },
     {
-      "title": "Two arrested after police seize more than 2kg of cannabis in Nicosia",
-      "link": "https://cyprus-mail.com/2026/08/05/two-arrested-after-police-seize-more-than-2kg-of-cannabis-in-nicosia",
+      "title": "Cyprus Business Now: hotels, banks, shipping, unemployment, Freedom24",
+      "link": "https://cyprus-mail.com/2026/08/06/cyprus-business-now-hotels-banks-shipping-unemployment-freedom24",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "title": "Infantino sorry for errors but stays Fifa president",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Russian ballistic missile strike on Kyiv kills at least 14, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
+      "link": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+      "title": "Nigerian security forces rescue more than 300 abductees",
+      "link": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-      "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Metal-free process makes plant dyes more durable for textiles",
-    "link": "https://phys.org/news/2026-08-metal-free-dyes-durable-textiles.html",
-    "summary": "Research in the International Journal of Materials and Product Technology describes a metal-free dye-fixing process that could help make natural plant dyes more practical for high-performance textiles, addressing a longstanding obstacle to their wider use in sustainable clothing.",
+    "title": "Powerhouses for fake meat: Muscle protein can now be grown in chloroplasts of lettuce and tobacco plants",
+    "link": "https://phys.org/news/2026-08-powerhouses-fake-meat-muscle-protein.html",
+    "summary": "Livestock farming requires valuable land to grow fodder, uses vast amounts of freshwater and contributes to global warming through methane and nitrous oxide emissions. And, for many consumers it is important to prevent animal suffering. For these reasons, the global market for meat alternatives is currently worth €6.7 billion to €8.1 billion per year and is projected to grow 8.1% to 12.3% each year over the next decade.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-05T05:50:23.087Z"
+  "generated_at": "2026-08-06T05:20:11.446Z"
 }
