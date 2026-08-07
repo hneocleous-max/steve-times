@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-06",
-      "code": 2,
-      "max": 32,
-      "min": 24,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
+      "date": "2026-08-07",
+      "code": 3,
+      "max": 34,
+      "min": 25,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-08-07",
-      "code": 2,
-      "max": 33,
-      "min": 25,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
+      "date": "2026-08-08",
+      "code": 45,
+      "max": 38,
+      "min": 26,
+      "desc": "Foggy",
+      "icon": "🌫️",
+      "masthead": "Fog about"
     }
   },
   "local": [
     {
-      "title": "Man dies after Kyrenia stabbing",
-      "link": "https://cyprus-mail.com/2026/08/06/man-dies-after-kyrenia-stabbing",
+      "title": "OceanPal sells remaining vessels to Paliou affiliate in pivot to crypto and AI",
+      "link": "https://cyprus-mail.com/2026/08/07/oceanpal-sells-remaining-vessels-to-paliou-affiliate-in-pivot-to-crypto-and-ai",
       "summary": ""
     },
     {
-      "title": "What Meridiam’s Great Sea Interconnector takeover means for the Cyprus link",
-      "link": "https://en.philenews.com/insider/meridiam-gsi-majority-stake-analysis-cyprus/",
+      "title": "Weekend guide: Cocktails, beach dining and stargazing under the Troodos sky",
+      "link": "https://en.philenews.com/living-in-cyprus/weekend-agenda-four-weekend-ideas-cyprus/",
       "summary": ""
     },
     {
-      "title": "FIFA apologises over failed $4.2bn World Cup rights plan",
-      "link": "https://cyprus-mail.com/2026/08/06/fifa-apologises-over-failed-4-2bn-world-cup-rights-plan",
+      "title": "UK services sector returns to growth as business confidence rebounds",
+      "link": "https://cyprus-mail.com/2026/08/07/uk-services-sector-returns-to-growth-as-business-confidence-rebounds",
       "summary": ""
     },
     {
-      "title": "Dog loose on Kokkinotrimithia-Nicosia motorway near Pournara",
-      "link": "https://en.philenews.com/local/dog-kokkinotrimithia-nicosia-motorway-pournara/",
+      "title": "More than one-third of ambulance workload involved non-urgent transfers, report finds",
+      "link": "https://en.philenews.com/local/cyprus-ambulance-service-128178-incidents-non-urgent-transfers-response-times/",
       "summary": ""
     },
     {
-      "title": "Dog walks onto motorway, police urge caution",
-      "link": "https://cyprus-mail.com/2026/08/06/dog-walks-onto-motorway-police-urge-caution",
+      "title": "Israel scientists target invasive pest devastating Cyprus’ prickly pears",
+      "link": "https://cyprus-mail.com/2026/08/07/israel-scientists-target-invasive-pest-devastating-cyprus-prickly-pears",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Infantino sorry for errors but stays Fifa president",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
-      "link": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
+      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Nigerian security forces rescue more than 300 abductees",
-      "link": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
+      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-      "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Powerhouses for fake meat: Muscle protein can now be grown in chloroplasts of lettuce and tobacco plants",
-    "link": "https://phys.org/news/2026-08-powerhouses-fake-meat-muscle-protein.html",
-    "summary": "Livestock farming requires valuable land to grow fodder, uses vast amounts of freshwater and contributes to global warming through methane and nitrous oxide emissions. And, for many consumers it is important to prevent animal suffering. For these reasons, the global market for meat alternatives is currently worth €6.7 billion to €8.1 billion per year and is projected to grow 8.1% to 12.3% each year over the next decade.",
+    "title": "AI for homework—parents more willing to pay subscriptions for their children as peer pressure rises",
+    "link": "https://phys.org/news/2026-08-ai-homework-parents-pay-subscriptions.html",
+    "summary": "Many parents have mixed feelings about the unrestricted use of artificial intelligence (AI) for schoolwork. They are concerned about the potential impact on their child's ability to learn but also don't want them to be left behind if other young people are using AI.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-06T05:54:46.508Z"
+  "generated_at": "2026-08-07T04:27:47.515Z"
 }
