@@ -2,12 +2,12 @@
   "weather": {
     "today": {
       "date": "2026-08-08",
-      "code": 45,
-      "max": 36,
+      "code": 2,
+      "max": 35,
       "min": 26,
-      "desc": "Foggy",
-      "icon": "🌫️",
-      "masthead": "Fog about"
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     },
     "tomorrow": {
       "date": "2026-08-09",
@@ -21,6 +21,16 @@
   },
   "local": [
     {
+      "title": "DeepSeek undercuts OpenAI and Anthropic on benchmark running costs",
+      "link": "https://cyprus-mail.com/2026/08/08/deepseek-undercuts-openai-and-anthropic-on-benchmark-running-costs",
+      "summary": ""
+    },
+    {
+      "title": "Yellow warning issued as temperatures hit 40C in Cyprus",
+      "link": "https://en.philenews.com/local/cyprus-yellow-warning-high-temperatures-40c-live/",
+      "summary": ""
+    },
+    {
       "title": "Global funds bet on South Korean chipmakers after leverage-driven July collapse",
       "link": "https://cyprus-mail.com/2026/08/08/global-funds-bet-on-south-korean-chipmakers-after-leverage-driven-july-collapse",
       "summary": ""
@@ -33,16 +43,6 @@
     {
       "title": "UK manufacturing expands for ninth month but growth slows down",
       "link": "https://cyprus-mail.com/2026/08/08/uk-manufacturing-expands-for-ninth-month-but-growth-slows-down",
-      "summary": ""
-    },
-    {
-      "title": "Larnaca Airport arrivals road reopens after nearly three years (photos+videos)",
-      "link": "https://en.philenews.com/local/larnaca-airport-arrivals-road-reopens/",
-      "summary": ""
-    },
-    {
-      "title": "‘Beachfluencer’ campaign urges beachgoers to clean up",
-      "link": "https://cyprus-mail.com/2026/08/08/beachfluencer-campaign-urges-beachgoers-to-clean-up",
       "summary": ""
     }
   ],
@@ -79,5 +79,5 @@
     "summary": "Scientists have made a surprising finding about how an asexually reproducing stick insect has evolved. Research led by Dr. Darren Parker, lecturer in evolutionary biology at Bangor University, studied the genes of several species of Timema (a type of stick insect), which have not engaged in sexual reproduction for 1 million years—the longest known asexual period for any insect.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-08T03:35:46.416Z"
+  "generated_at": "2026-08-08T04:13:32.501Z"
 }
