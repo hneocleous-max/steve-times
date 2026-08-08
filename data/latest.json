@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-07",
-      "code": 3,
-      "max": 34,
-      "min": 25,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
-    },
-    "tomorrow": {
       "date": "2026-08-08",
       "code": 45,
-      "max": 38,
+      "max": 36,
       "min": 26,
       "desc": "Foggy",
       "icon": "🌫️",
       "masthead": "Fog about"
+    },
+    "tomorrow": {
+      "date": "2026-08-09",
+      "code": 0,
+      "max": 37,
+      "min": 25,
+      "desc": "Clear skies",
+      "icon": "☀️",
+      "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "Sir Stelios keeps his seat in £5.7bn easyJet takeover",
-      "link": "https://cyprus-mail.com/2026/08/07/sir-stelios-keeps-his-seat-in-5-7bn-easyjet-takeover",
+      "title": "Global funds bet on South Korean chipmakers after leverage-driven July collapse",
+      "link": "https://cyprus-mail.com/2026/08/08/global-funds-bet-on-south-korean-chipmakers-after-leverage-driven-july-collapse",
       "summary": ""
     },
     {
-      "title": "Weekend guide: Cocktails, beach dining and stargazing under the Troodos sky",
-      "link": "https://en.philenews.com/living-in-cyprus/weekend-agenda-four-weekend-ideas-cyprus/",
+      "title": "Paphos monk arrested following murder attempt at monastery",
+      "link": "https://en.philenews.com/local/paphos-monastery-knife-attack-monk-arrested/",
       "summary": ""
     },
     {
-      "title": "Cyprus Business Now: banks, inflation, real estate, Hassabis, GDP, Sainni",
-      "link": "https://cyprus-mail.com/2026/08/07/cyprus-business-now-banks-inflation-real-estate-hassabis-gdp-sainni",
+      "title": "UK manufacturing expands for ninth month but growth slows down",
+      "link": "https://cyprus-mail.com/2026/08/08/uk-manufacturing-expands-for-ninth-month-but-growth-slows-down",
       "summary": ""
     },
     {
-      "title": "More than one-third of ambulance workload involved non-urgent transfers, report finds",
-      "link": "https://en.philenews.com/local/cyprus-ambulance-service-128178-incidents-non-urgent-transfers-response-times/",
+      "title": "Larnaca Airport arrivals road reopens after nearly three years (photos+videos)",
+      "link": "https://en.philenews.com/local/larnaca-airport-arrivals-road-reopens/",
       "summary": ""
     },
     {
-      "title": "OceanPal sells remaining vessels to Paliou affiliate in pivot to crypto and AI",
-      "link": "https://cyprus-mail.com/2026/08/07/oceanpal-sells-remaining-vessels-to-paliou-affiliate-in-pivot-to-crypto-and-ai",
+      "title": "‘Beachfluencer’ campaign urges beachgoers to clean up",
+      "link": "https://cyprus-mail.com/2026/08/08/beachfluencer-campaign-urges-beachgoers-to-clean-up",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-      "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+      "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+      "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-      "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-      "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "AI for homework—parents more willing to pay subscriptions for their children as peer pressure rises",
-    "link": "https://phys.org/news/2026-08-ai-homework-parents-pay-subscriptions.html",
-    "summary": "Many parents have mixed feelings about the unrestricted use of artificial intelligence (AI) for schoolwork. They are concerned about the potential impact on their child's ability to learn but also don't want them to be left behind if other young people are using AI.",
+    "title": "One million years without sex fails to erase stick insects' unused biological system",
+    "link": "https://phys.org/news/2026-08-million-years-sex-erase-insects.html",
+    "summary": "Scientists have made a surprising finding about how an asexually reproducing stick insect has evolved. Research led by Dr. Darren Parker, lecturer in evolutionary biology at Bangor University, studied the genes of several species of Timema (a type of stick insect), which have not engaged in sexual reproduction for 1 million years—the longest known asexual period for any insect.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-07T04:58:19.770Z"
+  "generated_at": "2026-08-08T03:35:46.416Z"
 }
