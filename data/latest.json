@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-08",
-      "code": 2,
-      "max": 35,
-      "min": 26,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-08-09",
-      "code": 0,
+      "code": 1,
       "max": 37,
       "min": 25,
-      "desc": "Clear skies",
-      "icon": "☀️",
+      "desc": "Mainly clear",
+      "icon": "🌤️",
+      "masthead": "Fine weather"
+    },
+    "tomorrow": {
+      "date": "2026-08-10",
+      "code": 1,
+      "max": 36,
+      "min": 25,
+      "desc": "Mainly clear",
+      "icon": "🌤️",
       "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "DeepSeek undercuts OpenAI and Anthropic on benchmark running costs",
-      "link": "https://cyprus-mail.com/2026/08/08/deepseek-undercuts-openai-and-anthropic-on-benchmark-running-costs",
+      "title": "UK job postings fall 11 per cent as graduate demand drops to 2020 low",
+      "link": "https://cyprus-mail.com/2026/08/09/uk-job-postings-fall-11-per-cent-as-graduate-demand-drops-to-2020-low",
       "summary": ""
     },
     {
-      "title": "Yellow warning issued as temperatures hit 40C in Cyprus",
-      "link": "https://en.philenews.com/local/cyprus-yellow-warning-high-temperatures-40c-live/",
+      "title": "Two e-scooter riders crash into sea rocks in Paphos",
+      "link": "https://en.philenews.com/local/paphos-e-scooter-riders-crash-sea-rocks/",
       "summary": ""
     },
     {
-      "title": "Global funds bet on South Korean chipmakers after leverage-driven July collapse",
-      "link": "https://cyprus-mail.com/2026/08/08/global-funds-bet-on-south-korean-chipmakers-after-leverage-driven-july-collapse",
+      "title": "Shein offers cash payouts and extra shares to investors ahead of IPO",
+      "link": "https://cyprus-mail.com/2026/08/09/shein-offers-cash-payouts-and-extra-shares-to-investors-ahead-of-ipo",
       "summary": ""
     },
     {
-      "title": "Paphos monk arrested following murder attempt at monastery",
-      "link": "https://en.philenews.com/local/paphos-monastery-knife-attack-monk-arrested/",
+      "title": "Man arrested after two separate stabbing attacks in Rotterdam",
+      "link": "https://en.philenews.com/international/rotterdam-stabbing-attacks-arrest/",
       "summary": ""
     },
     {
-      "title": "UK manufacturing expands for ninth month but growth slows down",
-      "link": "https://cyprus-mail.com/2026/08/08/uk-manufacturing-expands-for-ninth-month-but-growth-slows-down",
+      "title": "WHO report scrutinises role of personal doctors in Gesy",
+      "link": "https://cyprus-mail.com/2026/08/09/who-report-scrutinises-role-of-personal-doctors-in-gesy",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+      "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-      "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "title": "Messi's father Jorge dies aged 68 after illness",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-      "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "One million years without sex fails to erase stick insects' unused biological system",
-    "link": "https://phys.org/news/2026-08-million-years-sex-erase-insects.html",
-    "summary": "Scientists have made a surprising finding about how an asexually reproducing stick insect has evolved. Research led by Dr. Darren Parker, lecturer in evolutionary biology at Bangor University, studied the genes of several species of Timema (a type of stick insect), which have not engaged in sexual reproduction for 1 million years—the longest known asexual period for any insect.",
+    "title": "'Flying focus' laser overcomes key limitation in plasma-based particle accelerators",
+    "link": "https://phys.org/news/2026-08-flying-focus-laser-key-limitation.html",
+    "summary": "In a new Nature Physics study, researchers accelerated electrons to more than twice the energy predicted by the traditional dephasing limit for laser-plasma accelerators operating over the same distance. This was made possible by a specially engineered laser pulse called a flying focus, which counteracts a longstanding limitation known as \"dephasing.\"",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-08T04:13:32.501Z"
+  "generated_at": "2026-08-09T03:46:10.134Z"
 }
