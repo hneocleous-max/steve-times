@@ -3,7 +3,7 @@
     "today": {
       "date": "2026-08-09",
       "code": 1,
-      "max": 37,
+      "max": 38,
       "min": 25,
       "desc": "Mainly clear",
       "icon": "🌤️",
@@ -12,7 +12,7 @@
     "tomorrow": {
       "date": "2026-08-10",
       "code": 1,
-      "max": 36,
+      "max": 35,
       "min": 25,
       "desc": "Mainly clear",
       "icon": "🌤️",
@@ -79,5 +79,5 @@
     "summary": "In a new Nature Physics study, researchers accelerated electrons to more than twice the energy predicted by the traditional dephasing limit for laser-plasma accelerators operating over the same distance. This was made possible by a specially engineered laser pulse called a flying focus, which counteracts a longstanding limitation known as \"dephasing.\"",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-09T03:46:10.134Z"
+  "generated_at": "2026-08-09T04:21:03.841Z"
 }
