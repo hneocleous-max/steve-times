@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-09",
+      "date": "2026-08-10",
       "code": 1,
-      "max": 38,
+      "max": 36,
       "min": 25,
       "desc": "Mainly clear",
       "icon": "🌤️",
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "code": 1,
       "max": 35,
-      "min": 25,
+      "min": 26,
       "desc": "Mainly clear",
       "icon": "🌤️",
       "masthead": "Fine weather"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "UK job postings fall 11 per cent as graduate demand drops to 2020 low",
-      "link": "https://cyprus-mail.com/2026/08/09/uk-job-postings-fall-11-per-cent-as-graduate-demand-drops-to-2020-low",
+      "title": "Technology and urgent shipments lift air cargo demand",
+      "link": "https://cyprus-mail.com/2026/08/10/technology-and-urgent-shipments-lift-air-cargo-demand",
       "summary": ""
     },
     {
-      "title": "Two e-scooter riders crash into sea rocks in Paphos",
-      "link": "https://en.philenews.com/local/paphos-e-scooter-riders-crash-sea-rocks/",
+      "title": "Netanyahu says Israel won’t pull out of Gaza before Hamas disarms",
+      "link": "https://en.philenews.com/international/netanyahu-says-israel-wont-pull-out-of-gaza-before-hamas-disarms/",
       "summary": ""
     },
     {
-      "title": "Shein offers cash payouts and extra shares to investors ahead of IPO",
-      "link": "https://cyprus-mail.com/2026/08/09/shein-offers-cash-payouts-and-extra-shares-to-investors-ahead-of-ipo",
+      "title": "Streaming platforms have room to boost ad revenues, says research firm",
+      "link": "https://cyprus-mail.com/2026/08/10/streaming-platforms-have-room-to-boost-ad-revenues-says-research-firm",
       "summary": ""
     },
     {
-      "title": "Man arrested after two separate stabbing attacks in Rotterdam",
-      "link": "https://en.philenews.com/international/rotterdam-stabbing-attacks-arrest/",
+      "title": "Cyprus Paralympian says intruder broke into her Limassol home and stole scooter",
+      "link": "https://en.philenews.com/local/maria-markou-limassol-home-break-in-scooter/",
       "summary": ""
     },
     {
-      "title": "WHO report scrutinises role of personal doctors in Gesy",
-      "link": "https://cyprus-mail.com/2026/08/09/who-report-scrutinises-role-of-personal-doctors-in-gesy",
+      "title": "GSI’s strategic benefits extend well beyond economics",
+      "link": "https://cyprus-mail.com/2026/08/10/gsis-strategic-benefits-extend-well-beyond-economics",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-      "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-      "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "title": "Evidence that South African special forces murdered top detective shared with BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Messi's father Jorge dies aged 68 after illness",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+      "title": "Drones spotted over German base days after Leipzig bomb incident",
+      "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+      "title": "Ancient Roman shipwreck discovered off Sicily coast",
+      "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "'Flying focus' laser overcomes key limitation in plasma-based particle accelerators",
-    "link": "https://phys.org/news/2026-08-flying-focus-laser-key-limitation.html",
-    "summary": "In a new Nature Physics study, researchers accelerated electrons to more than twice the energy predicted by the traditional dephasing limit for laser-plasma accelerators operating over the same distance. This was made possible by a specially engineered laser pulse called a flying focus, which counteracts a longstanding limitation known as \"dephasing.\"",
+    "title": "How dogs evolved differently across the globe to match human traits",
+    "link": "https://phys.org/news/2026-08-dogs-evolved-differently-globe-human.html",
+    "summary": "We call them \"man's best friend,\" and the evidence supports it. Dogs have been found buried alongside humans in graves dating back 14,000 years. They appear in ancient art from every continent, and they feature in the mythology, religion and folklore of virtually every culture. Archaeological evidence shows they have helped us hunt, protected our homes, hauled our possessions, herded our livestock and provided companionship through the entirety of recorded history.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-09T04:21:03.841Z"
+  "generated_at": "2026-08-10T03:59:39.331Z"
 }
