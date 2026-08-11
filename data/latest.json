@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-10",
-      "code": 1,
-      "max": 36,
-      "min": 25,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
+      "date": "2026-08-11",
+      "code": 2,
+      "max": 34,
+      "min": 26,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     },
     "tomorrow": {
-      "date": "2026-08-11",
-      "code": 1,
+      "date": "2026-08-12",
+      "code": 2,
       "max": 35,
       "min": 26,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "Geopolitics, artificial intelligence and inflation reshape investment outlook",
-      "link": "https://cyprus-mail.com/2026/08/10/geopolitics-and-inflation-reshape-investment-outlook",
+      "title": "UK job market reaches turning point as permanent staff recruitment stops falling",
+      "link": "https://cyprus-mail.com/2026/08/11/uk-job-market-reaches-turning-point-as-permanent-staff-recruitment-stops-falling",
       "summary": ""
     },
     {
-      "title": "Netanyahu says Israel won’t pull out of Gaza before Hamas disarms",
-      "link": "https://en.philenews.com/international/netanyahu-says-israel-wont-pull-out-of-gaza-before-hamas-disarms/",
+      "title": "Larnaca dog owners object to restricted vehicle access at Spyros Beach",
+      "link": "https://en.philenews.com/local/larnaca-dog-beach-vehicle-access-restrictions/",
       "summary": ""
     },
     {
-      "title": "Greek households see income and wealth rise, bank says",
-      "link": "https://cyprus-mail.com/2026/08/10/greek-households-see-income-and-wealth-rise-bank-says",
+      "title": "Kyndryl and Microsoft partner to expand sovereign cloud services",
+      "link": "https://cyprus-mail.com/2026/08/11/kyndryl-and-microsoft-partner-to-expand-sovereign-cloud-services",
       "summary": ""
     },
     {
-      "title": "Cyprus Paralympian says intruder broke into her Limassol home and stole scooter",
-      "link": "https://en.philenews.com/local/maria-markou-limassol-home-break-in-scooter/",
+      "title": "Pension cut scenario for high earners still on table, sources say",
+      "link": "https://en.philenews.com/insider/cyprus-pension-reform-high-earners-cut-scenario/",
       "summary": ""
     },
     {
-      "title": "Technology and urgent shipments lift air cargo demand",
-      "link": "https://cyprus-mail.com/2026/08/10/technology-and-urgent-shipments-lift-air-cargo-demand",
+      "title": "Schools should train people for ‘tomorrow’s jobs’",
+      "link": "https://cyprus-mail.com/2026/08/11/schools-should-train-people-for-tomorrows-jobs",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "title": "At least 132 killed in Colombia's largest  earthquake in years",
+      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "title": "Canada flight cancelled after child refuses to wear seat belt",
+      "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Evidence that South African special forces murdered top detective shared with BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+      "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Drones spotted over German base days after Leipzig bomb incident",
-      "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Ancient Roman shipwreck discovered off Sicily coast",
-      "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "How dogs evolved differently across the globe to match human traits",
-    "link": "https://phys.org/news/2026-08-dogs-evolved-differently-globe-human.html",
-    "summary": "We call them \"man's best friend,\" and the evidence supports it. Dogs have been found buried alongside humans in graves dating back 14,000 years. They appear in ancient art from every continent, and they feature in the mythology, religion and folklore of virtually every culture. Archaeological evidence shows they have helped us hunt, protected our homes, hauled our possessions, herded our livestock and provided companionship through the entirety of recorded history.",
+    "title": "Ancient Maltese seafarers likely navigated by the stars",
+    "link": "https://phys.org/news/2026-08-ancient-maltese-seafarers-stars.html",
+    "summary": "Malta might be the last place one would expect a convergence of archeoastronomy and early cosmology. Today, it's better known as a billionaire tax haven and a favorite production location for big-budget Hollywood movies.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-10T04:42:56.236Z"
+  "generated_at": "2026-08-11T03:47:44.649Z"
 }
