@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-12",
-      "code": 1,
-      "max": 35,
-      "min": 26,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
-    },
-    "tomorrow": {
       "date": "2026-08-13",
       "code": 2,
       "max": 34,
@@ -17,67 +8,76 @@
       "desc": "Partly cloudy",
       "icon": "⛅",
       "masthead": "Fair skies"
+    },
+    "tomorrow": {
+      "date": "2026-08-14",
+      "code": 3,
+      "max": 34,
+      "min": 27,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "Our View: Time education minister looked at rising teacher numbers",
-      "link": "https://cyprus-mail.com/2026/08/12/our-view-time-education-minister-looked-at-rising-teacher-numbers",
+      "title": "Total darkness, then sunset as full eclipse wows spectators in Spain",
+      "link": "https://cyprus-mail.com/2026/08/13/total-darkness-then-sunset-as-full-eclipse-wows-spectators-in-spain",
       "summary": ""
     },
     {
-      "title": "Nafsika Hatzichristou wins critics’ prize at Cyprus animation festival",
-      "link": "https://en.philenews.com/whats-on/nafsika-hatzichristou-wins-critics-prize-animafest-cyprus/",
+      "title": "Stumbling back home across the border, 52 years later",
+      "link": "https://en.philenews.com/opinion/stumbling-back-home-across-the-border-52-years-later/",
       "summary": ""
     },
     {
-      "title": "Cyprus Business Now: wildfire app, tourism, banks, state workforce, CSE, Freedom",
-      "link": "https://cyprus-mail.com/2026/08/12/cyprus-business-now-wildfire-app-tourism-banks-state-workforce-cse",
+      "title": "AI cloud provider CoreWeave reports $104bn backlog and raises capex target",
+      "link": "https://cyprus-mail.com/2026/08/13/ai-cloud-provider-coreweave-reports-104bn-backlog-and-raises-capex-target",
       "summary": ""
     },
     {
-      "title": "Larnaca’s Zinonos Kitieos Street transformed as upgrade nears completion (photos)",
-      "link": "https://en.philenews.com/local/larnaca-zinonos-kitieos-street-upgrade-complete/",
+      "title": "Cyprus weather: 40C inland with isolated showers in the mountains",
+      "link": "https://en.philenews.com/local/cyprus-weather-40c-showers-thunderstorms-weekend/",
       "summary": ""
     },
     {
-      "title": "eToro tops Q2 expectations, agrees to acquire TradeZero for up to $231 million",
-      "link": "https://cyprus-mail.com/2026/08/12/etoro-tops-q2-expectations-agrees-to-acquire-tradezero-for-up-to-231-million",
+      "title": "What’s on this weekend",
+      "link": "https://cyprus-mail.com/2026/08/13/whats-on-this-weekend-144",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-      "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump says he switched planes after Nato summit because of possible threat",
-      "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-      "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+      "title": "Three men will be executed on the same day as death penalties rise in US",
+      "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Baby Shark Boy set to make K-pop debut",
-      "link": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
+      "title": "Why are 'human fridges' being sold in Japan?",
+      "link": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Today's Mediterranean diet leans on olive oil, veggies and fish—But the ancients mainly ate bread",
-    "link": "https://phys.org/news/2026-08-today-mediterranean-diet-olive-oil.html",
-    "summary": "The Roman emperor Julian (332–363 CE) called bread the food that \"among us is thought to be the most nourishing.\"",
+    "title": "A 236-million-year-old fossil challenges the story of mammalian live birth",
+    "link": "https://phys.org/news/2026-08-million-year-fossil-story-mammalian.html",
+    "summary": "Some cynodonts may have been giving birth to live young much sooner in evolutionary history than previously assumed. A new Frontiers in Mammal Science study has offered the first compelling evidence that cynodonts may have been viviparous—a reproductive mode characterized by live birth.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-12T04:51:18.037Z"
+  "generated_at": "2026-08-13T04:14:46.719Z"
 }
