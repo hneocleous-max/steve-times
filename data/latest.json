@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-13",
-      "code": 2,
-      "max": 34,
-      "min": 26,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-08-14",
       "code": 3,
       "max": 34,
@@ -17,67 +8,76 @@
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
+    },
+    "tomorrow": {
+      "date": "2026-08-15",
+      "code": 2,
+      "max": 34,
+      "min": 26,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "Fairfax explores potential acquisition of Greek food group Evergood",
-      "link": "https://cyprus-mail.com/2026/08/13/997995",
+      "title": "iPhone users spend 40 per cent more on microdrama apps than Android users",
+      "link": "https://cyprus-mail.com/2026/08/14/iphone-users-spend-40-per-cent-more-on-microdrama-apps-than-android-users",
       "summary": ""
     },
     {
-      "title": "Stumbling back home across the border, 52 years later",
-      "link": "https://en.philenews.com/opinion/stumbling-back-home-across-the-border-52-years-later/",
+      "title": "Stormy holiday on the way, as hail and showers take over from heatwave",
+      "link": "https://en.philenews.com/local/stormy-holiday-on-the-way-as-hail-and-showers-take-over-from-heatwave/",
       "summary": ""
     },
     {
-      "title": "Cyprus Business Noe: tourism, banks, AI, crypto, building permits, AI",
-      "link": "https://cyprus-mail.com/2026/08/13/cyprus-business-noe-tourism-banks-ai-crypto-building-permits-ai",
+      "title": "‘For me, he was the father I lost’ says son of hero Tasos Markou",
+      "link": "https://cyprus-mail.com/2026/08/14/for-me-he-was-the-father-i-lost-says-son-of-hero-tasos-markou",
       "summary": ""
     },
     {
-      "title": "Cyprus weather: 40C inland with isolated showers in the mountains",
-      "link": "https://en.philenews.com/local/cyprus-weather-40c-showers-thunderstorms-weekend/",
+      "title": "From Fidias to Makarios and political decay",
+      "link": "https://en.philenews.com/politics/from-fidias-to-makarios-and-political-decay/",
       "summary": ""
     },
     {
-      "title": "Total darkness, then sunset as full eclipse wows spectators in Spain",
-      "link": "https://cyprus-mail.com/2026/08/13/total-darkness-then-sunset-as-full-eclipse-wows-spectators-in-spain",
+      "title": "Our View: Selective targeting of crowdfunding does not look good",
+      "link": "https://cyprus-mail.com/2026/08/14/our-view-selective-targeting-of-crowdfunding-does-not-look-good",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-      "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Three men will be executed on the same day as death penalties rise in US",
-      "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Why are 'human fridges' being sold in Japan?",
-      "link": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
+      "title": "Person fined after using foghorn to wake sleeping polar bear",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "A 236-million-year-old fossil challenges the story of mammalian live birth",
-    "link": "https://phys.org/news/2026-08-million-year-fossil-story-mammalian.html",
-    "summary": "Some cynodonts may have been giving birth to live young much sooner in evolutionary history than previously assumed. A new Frontiers in Mammal Science study has offered the first compelling evidence that cynodonts may have been viviparous—a reproductive mode characterized by live birth.",
+    "title": "Why has Britain's grass turned yellow? A plant scientist explains what happens next",
+    "link": "https://phys.org/news/2026-08-britain-grass-yellow-scientist.html",
+    "summary": "Fields, parks and lawns across Europe have turned to straw this summer. Landscapes thousands of years old have been revealed as green outlines against yellow backgrounds, where ancient underground walls and ditches retain enough water to sustain pockets of grass above them. Lawns and parklands have been especially affected because what water is available is being directed to homes and farms.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-13T04:55:50.189Z"
+  "generated_at": "2026-08-14T04:11:08.023Z"
 }
