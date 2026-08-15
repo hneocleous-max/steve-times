@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "code": 3,
-      "max": 34,
+      "max": 33,
       "min": 27,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "code": 2,
       "max": 34,
-      "min": 26,
+      "min": 24,
       "desc": "Partly cloudy",
       "icon": "⛅",
       "masthead": "Fair skies"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Cyprus Business Now: Paralimni, fuel prices, banks, CSE, Demetra",
-      "link": "https://cyprus-mail.com/2026/08/14/cyprus-business-now-paralimni-fuel-prices-banks-cse-demetra",
+      "title": "Moni residents in sea sewage battle",
+      "link": "https://cyprus-mail.com/2026/08/15/moni-residents-in-sea-sewage-battle",
       "summary": ""
     },
     {
-      "title": "More than 70 drivers speeding, 8 under the influence with 17 arrests, including knife possession",
-      "link": "https://en.philenews.com/local/more-than-70-drivers-speeding-8-under-the-influence-with-17-arrests-including-knife-possession/",
+      "title": "Three police officers suspended over Paphos attack",
+      "link": "https://en.philenews.com/local/three-police-officers-suspended-over-paphos-attack/",
       "summary": ""
     },
     {
-      "title": "iPhone users spend 40 per cent more on microdrama apps than Android users",
-      "link": "https://cyprus-mail.com/2026/08/14/iphone-users-spend-40-per-cent-more-on-microdrama-apps-than-android-users",
+      "title": "Our View: Despite his words, president has lost all sense of urgency",
+      "link": "https://cyprus-mail.com/2026/08/15/our-view-despite-his-words-president-has-lost-all-sense-of-urgency",
       "summary": ""
     },
     {
-      "title": "Stormy holiday on the way, as hail and showers take over from heatwave",
-      "link": "https://en.philenews.com/local/stormy-holiday-on-the-way-as-hail-and-showers-take-over-from-heatwave/",
+      "title": "Attempted murder in Nicosia as woman locked and badly beaten at Nicosia home",
+      "link": "https://en.philenews.com/local/attempted-murder-in-nicosia-as-woman-locked-and-badly-beaten-at-nicosia-home/",
       "summary": ""
     },
     {
-      "title": "‘For me, he was the father I lost’ says son of hero Tasos Markou",
-      "link": "https://cyprus-mail.com/2026/08/14/for-me-he-was-the-father-i-lost-says-son-of-hero-tasos-markou",
+      "title": "‘Let us never accept a future which was imposed by force’, Letymbiotis says",
+      "link": "https://cyprus-mail.com/2026/08/14/let-us-never-accept-a-future-which-was-imposed-by-force-letymbiotis-says",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+      "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+      "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-      "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Person fined after using foghorn to wake sleeping polar bear",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Why has Britain's grass turned yellow? A plant scientist explains what happens next",
-    "link": "https://phys.org/news/2026-08-britain-grass-yellow-scientist.html",
-    "summary": "Fields, parks and lawns across Europe have turned to straw this summer. Landscapes thousands of years old have been revealed as green outlines against yellow backgrounds, where ancient underground walls and ditches retain enough water to sustain pockets of grass above them. Lawns and parklands have been especially affected because what water is available is being directed to homes and farms.",
+    "title": "'Starwashing': How space companies use the greenwashing playbook while causing environmental damage",
+    "link": "https://phys.org/news/2026-08-starwashing-space-companies-greenwashing-playbook.html",
+    "summary": "From launchpads to low Earth orbit and beyond, space companies and their affiliates are deploying a familiar marketing tactic—with a new twist. In a space economy projected to reach US$1.8 trillion by 2035, they sell space exploration narratives by appealing to a desire to expand humankind beyond Earth—while downplaying or omitting the negative repercussions for Earth and the space environment. Welcome to the age of starwashing.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-14T04:52:21.642Z"
+  "generated_at": "2026-08-15T02:54:21.453Z"
 }
