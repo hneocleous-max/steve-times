@@ -11,18 +11,18 @@
     },
     "tomorrow": {
       "date": "2026-08-17",
-      "code": 45,
+      "code": 2,
       "max": 31,
       "min": 23,
-      "desc": "Foggy",
-      "icon": "🌫️",
-      "masthead": "Fog about"
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "Expert calls for reality check on Great Sea Interconnector",
-      "link": "https://cyprus-mail.com/2026/08/16/expert-calls-for-reality-check-on-great-sea-interconnector",
+      "title": "Almost a third of parents struggle with airport checks, survey shows",
+      "link": "https://cyprus-mail.com/2026/08/16/almost-a-third-of-parents-struggle-with-airport-checks-survey-shows",
       "summary": ""
     },
     {
@@ -31,8 +31,8 @@
       "summary": ""
     },
     {
-      "title": "Traditional flavours coming to Kathikas and Fasoula",
-      "link": "https://cyprus-mail.com/2026/08/15/traditional-flavours-coming-to-kathikas-and-fasoula",
+      "title": "Expert calls for reality check on Great Sea Interconnector",
+      "link": "https://cyprus-mail.com/2026/08/16/expert-calls-for-reality-check-on-great-sea-interconnector",
       "summary": ""
     },
     {
@@ -41,8 +41,8 @@
       "summary": ""
     },
     {
-      "title": "Man arrested with 23kg of cannabis at Larnaca airport",
-      "link": "https://cyprus-mail.com/2026/08/15/man-arrested-with-23kg-of-cannabis-at-larnaca-airport",
+      "title": "Traditional flavours coming to Kathikas and Fasoula",
+      "link": "https://cyprus-mail.com/2026/08/15/traditional-flavours-coming-to-kathikas-and-fasoula",
       "summary": ""
     }
   ],
@@ -79,5 +79,5 @@
     "summary": "Tiny viruses that infect bacteria could one day help us tackle infections that antibiotics can no longer treat. But first, scientists need to understand how these viruses work, and artificial intelligence could provide them with a powerful way to do that.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-16T03:02:41.001Z"
+  "generated_at": "2026-08-16T03:52:19.036Z"
 }
