@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-15",
-      "code": 3,
-      "max": 33,
-      "min": 27,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
-    },
-    "tomorrow": {
       "date": "2026-08-16",
       "code": 2,
-      "max": 34,
-      "min": 24,
+      "max": 33,
+      "min": 25,
       "desc": "Partly cloudy",
       "icon": "⛅",
       "masthead": "Fair skies"
+    },
+    "tomorrow": {
+      "date": "2026-08-17",
+      "code": 45,
+      "max": 31,
+      "min": 23,
+      "desc": "Foggy",
+      "icon": "🌫️",
+      "masthead": "Fog about"
     }
   },
   "local": [
     {
-      "title": "Intel raises $20 billion in upsized share sale to fund foundry push",
-      "link": "https://cyprus-mail.com/2026/08/15/intel-raises-20-billion-in-upsized-share-sale-to-fund-foundry-push",
+      "title": "Expert calls for reality check on Great Sea Interconnector",
+      "link": "https://cyprus-mail.com/2026/08/16/expert-calls-for-reality-check-on-great-sea-interconnector",
       "summary": ""
     },
     {
-      "title": "Summer storms, hail and heat up to 37°C set to hit Cyprus",
-      "link": "https://en.philenews.com/local/cyprus-weather-forecast-rain-hail-temperatures/",
+      "title": "Tragedy at Larnaca CTO beach as mother drowns and two young daughters are hospitalized",
+      "link": "https://en.philenews.com/local/larnaca-cto-beach-drowning-mother-dead-children-hospitalized/",
       "summary": ""
     },
     {
-      "title": "Moni residents in sea sewage battle",
-      "link": "https://cyprus-mail.com/2026/08/15/moni-residents-in-sea-sewage-battle",
+      "title": "Traditional flavours coming to Kathikas and Fasoula",
+      "link": "https://cyprus-mail.com/2026/08/15/traditional-flavours-coming-to-kathikas-and-fasoula",
       "summary": ""
     },
     {
-      "title": "Three police officers suspended over Paphos attack",
-      "link": "https://en.philenews.com/local/three-police-officers-suspended-over-paphos-attack/",
+      "title": "17 year old jet ski operator hospitalized after collision with water sports inflatable off Protaras",
+      "link": "https://en.philenews.com/local/protaras-water-sports-accident-17yo-jet-ski-operator-hospitalized/",
       "summary": ""
     },
     {
-      "title": "Our View: Despite his words, president has lost all sense of urgency",
-      "link": "https://cyprus-mail.com/2026/08/15/our-view-despite-his-words-president-has-lost-all-sense-of-urgency",
+      "title": "Man arrested with 23kg of cannabis at Larnaca airport",
+      "link": "https://cyprus-mail.com/2026/08/15/man-arrested-with-23kg-of-cannabis-at-larnaca-airport",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-      "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
-      "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-      "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "'Starwashing': How space companies use the greenwashing playbook while causing environmental damage",
-    "link": "https://phys.org/news/2026-08-starwashing-space-companies-greenwashing-playbook.html",
-    "summary": "From launchpads to low Earth orbit and beyond, space companies and their affiliates are deploying a familiar marketing tactic—with a new twist. In a space economy projected to reach US$1.8 trillion by 2035, they sell space exploration narratives by appealing to a desire to expand humankind beyond Earth—while downplaying or omitting the negative repercussions for Earth and the space environment. Welcome to the age of starwashing.",
+    "title": "Nature has spent billions of years fighting bacteria. AI could help us learn its secrets",
+    "link": "https://phys.org/news/2026-08-nature-spent-billions-years-bacteria.html",
+    "summary": "Tiny viruses that infect bacteria could one day help us tackle infections that antibiotics can no longer treat. But first, scientists need to understand how these viruses work, and artificial intelligence could provide them with a powerful way to do that.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-15T03:43:50.781Z"
+  "generated_at": "2026-08-16T03:02:41.001Z"
 }
