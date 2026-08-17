@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-16",
-      "code": 2,
-      "max": 33,
-      "min": 25,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-08-17",
-      "code": 2,
+      "code": 45,
       "max": 31,
       "min": 23,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
+      "desc": "Foggy",
+      "icon": "🌫️",
+      "masthead": "Fog about"
+    },
+    "tomorrow": {
+      "date": "2026-08-18",
+      "code": 3,
+      "max": 32,
+      "min": 25,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "Almost a third of parents struggle with airport checks, survey shows",
-      "link": "https://cyprus-mail.com/2026/08/16/almost-a-third-of-parents-struggle-with-airport-checks-survey-shows",
+      "title": "Cyprus moves to end illegal burning and dumping of agricultural plastics",
+      "link": "https://cyprus-mail.com/2026/08/17/cyprus-moves-to-end-illegal-burning-and-dumping-of-agricultural-plastics",
       "summary": ""
     },
     {
-      "title": "Tragedy at Larnaca CTO beach as mother drowns and two young daughters are hospitalized",
-      "link": "https://en.philenews.com/local/larnaca-cto-beach-drowning-mother-dead-children-hospitalized/",
+      "title": "Iran parliament approves bill restricting interviews with US and Israeli media",
+      "link": "https://en.philenews.com/international/iran-bill-interviews-us-israeli-media-prison/",
       "summary": ""
     },
     {
-      "title": "Expert calls for reality check on Great Sea Interconnector",
-      "link": "https://cyprus-mail.com/2026/08/16/expert-calls-for-reality-check-on-great-sea-interconnector",
+      "title": "Watford beat Southampton as Spygate scandal hangs over Saints",
+      "link": "https://cyprus-mail.com/2026/08/16/watford-beat-southampton-as-spygate-scandal-hangs-over-saints",
       "summary": ""
     },
     {
-      "title": "17 year old jet ski operator hospitalized after collision with water sports inflatable off Protaras",
-      "link": "https://en.philenews.com/local/protaras-water-sports-accident-17yo-jet-ski-operator-hospitalized/",
+      "title": "Russia and Ukraine trade deadly strikes as NATO jet downs drone over Romania",
+      "link": "https://en.philenews.com/international/russia-ukraine-strikes-nato-drone-romania/",
       "summary": ""
     },
     {
-      "title": "Traditional flavours coming to Kathikas and Fasoula",
-      "link": "https://cyprus-mail.com/2026/08/15/traditional-flavours-coming-to-kathikas-and-fasoula",
+      "title": "Porsche’s Wehrlein claims second Formula E title as Barnard wins London finale",
+      "link": "https://cyprus-mail.com/2026/08/16/porsches-wehrlein-claims-second-formula-e-title-as-barnard-wins-london-finale",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Nature has spent billions of years fighting bacteria. AI could help us learn its secrets",
-    "link": "https://phys.org/news/2026-08-nature-spent-billions-years-bacteria.html",
-    "summary": "Tiny viruses that infect bacteria could one day help us tackle infections that antibiotics can no longer treat. But first, scientists need to understand how these viruses work, and artificial intelligence could provide them with a powerful way to do that.",
+    "title": "Giant crocodylians dominated the food chain in Miocene South America, fossil evidence suggests",
+    "link": "https://phys.org/news/2026-08-giant-crocodylians-dominated-food-chain.html",
+    "summary": "South America was a frightening place during the Miocene. More than 10 million years ago, a vast lake covered much of the continent, home to giant turtles and crocodylians.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-16T03:52:19.036Z"
+  "generated_at": "2026-08-17T03:02:48.624Z"
 }
