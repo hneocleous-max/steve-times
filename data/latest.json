@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-17",
-      "code": 45,
-      "max": 31,
-      "min": 23,
-      "desc": "Foggy",
-      "icon": "🌫️",
-      "masthead": "Fog about"
+      "date": "2026-08-18",
+      "code": 2,
+      "max": 32,
+      "min": 24,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     },
     "tomorrow": {
-      "date": "2026-08-18",
-      "code": 3,
+      "date": "2026-08-19",
+      "code": 2,
       "max": 32,
       "min": 25,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "Consumers set to benefit as EU right to repair laws transform product lifespans",
-      "link": "https://cyprus-mail.com/2026/08/17/consumers-set-to-benefit-as-eu-right-to-repair-laws-transform-product-lifespans",
+      "title": "Larnaca’s upgraded Pattichio Park opens to the public",
+      "link": "https://cyprus-mail.com/2026/08/18/larnacas-upgraded-pattichio-park-opens-to-the-public",
       "summary": ""
     },
     {
-      "title": "Inside SignalGeneriX: where Cyprus designs, produces and exports its own defence tech",
-      "link": "https://en.philenews.com/insider/signalgenerix-rfhunter-cyprus-defence-technology/",
+      "title": "Cypriots keep hospitality venues busy as tourist visits drop by up to 20%",
+      "link": "https://en.philenews.com/insider/cypriots-restaurants-tourist-visits-fall-20-percent/",
       "summary": ""
     },
     {
-      "title": "Cyprus moves to end illegal burning and dumping of agricultural plastics",
-      "link": "https://cyprus-mail.com/2026/08/17/cyprus-moves-to-end-illegal-burning-and-dumping-of-agricultural-plastics",
+      "title": "Our View: Why are authorities doing nothing about sewerage in the sea?",
+      "link": "https://cyprus-mail.com/2026/08/18/our-view-why-are-authorities-doing-nothing-about-sewerage-in-the-sea",
       "summary": ""
     },
     {
-      "title": "Iran parliament approves bill restricting interviews with US and Israeli media",
-      "link": "https://en.philenews.com/international/iran-bill-interviews-us-israeli-media-prison/",
+      "title": "Rain, thunderstorms and possible hail forecast on Tuesday",
+      "link": "https://en.philenews.com/local/cyprus-weather-rain-thunderstorms-hail-forecast/",
       "summary": ""
     },
     {
-      "title": "Watford beat Southampton as Spygate scandal hangs over Saints",
-      "link": "https://cyprus-mail.com/2026/08/16/watford-beat-southampton-as-spygate-scandal-hangs-over-saints",
+      "title": "Trump approval falls to 33%, lowest of his presidency",
+      "link": "https://cyprus-mail.com/2026/08/17/trump-approval-falls-to-33-lowest-of-his-presidency",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+      "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "title": "Russia warns UK over supplying drones to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "title": "BBC breaks down Trump's latest shift on North and South Korea",
+      "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "title": "Norway's king admitted to hospital and put on sick leave",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Giant crocodylians dominated the food chain in Miocene South America, fossil evidence suggests",
-    "link": "https://phys.org/news/2026-08-giant-crocodylians-dominated-food-chain.html",
-    "summary": "South America was a frightening place during the Miocene. More than 10 million years ago, a vast lake covered much of the continent, home to giant turtles and crocodylians.",
+    "title": "Molecular memory: How a mother's age echoes in her offspring's cells",
+    "link": "https://phys.org/news/2026-08-molecular-memory-mother-age-echoes.html",
+    "summary": "In humans and many other animals, a mother's age can affect the physical and behavioral characteristics of the next generation. Scientists call these changes maternal age effects, and while they are widespread across the animal kingdom, researchers still don't fully understand how or why they occur.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-17T03:54:06.101Z"
+  "generated_at": "2026-08-18T02:58:04.510Z"
 }
