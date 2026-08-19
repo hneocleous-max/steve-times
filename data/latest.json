@@ -2,47 +2,47 @@
   "weather": {
     "today": {
       "date": "2026-08-19",
-      "code": 2,
+      "code": 1,
       "max": 32,
       "min": 25,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
+      "desc": "Mainly clear",
+      "icon": "🌤️",
+      "masthead": "Fine weather"
     },
     "tomorrow": {
       "date": "2026-08-20",
-      "code": 0,
+      "code": 1,
       "max": 33,
       "min": 24,
-      "desc": "Clear skies",
-      "icon": "☀️",
+      "desc": "Mainly clear",
+      "icon": "🌤️",
       "masthead": "Fine weather"
     }
   },
   "local": [
+    {
+      "title": "Global video surveillance market reaches $27 billion as AI reshapes sector",
+      "link": "https://cyprus-mail.com/2026/08/19/global-video-surveillance-market-reaches-27-billion-as-ai-reshapes-sector",
+      "summary": ""
+    },
+    {
+      "title": "Dionysus Mansion: the modern face of Cypriot cuisine",
+      "link": "https://en.philenews.com/whats-on/eat-drink/dionysus-mansion-the-modern-face-of-cypriot-cuisine/",
+      "summary": ""
+    },
     {
       "title": "Nvidia to provide up to $105 billion guarantee for OpenAI’s Ohio data center",
       "link": "https://cyprus-mail.com/2026/08/19/nvidia-to-provide-up-to-105-billion-guarantee-for-openais-ohio-data-center",
       "summary": ""
     },
     {
-      "title": "Cyprus weather: mostly clear with isolated storms possible Wednesday",
-      "link": "https://en.philenews.com/local/cyprus-weather-isolated-storms-wednesday-forecast/",
+      "title": "Coffee and community: LOYAL comedy captures Cypriot diaspora life in North London",
+      "link": "https://en.philenews.com/whats-on/loyal-north-london-cypriot-uk-diaspora-comedy/",
       "summary": ""
     },
     {
       "title": "Anthropic revenue run rate tops $65 billion, source says",
       "link": "https://cyprus-mail.com/2026/08/19/anthropic-revenue-run-rate-tops-65-billion-source-says",
-      "summary": ""
-    },
-    {
-      "title": "Overnight pharmacies on Tuesday, August 18, 2026",
-      "link": "https://en.philenews.com/local/on-duty-pharmacies-cyprus-august-18-2026/",
-      "summary": ""
-    },
-    {
-      "title": "Decisions expected next week over Kalo Chorio firing range blaze",
-      "link": "https://cyprus-mail.com/2026/08/19/decisions-expected-next-week-over-kalo-chorio-firing-range-blaze",
       "summary": ""
     }
   ],
@@ -68,8 +68,8 @@
       "summary": ""
     },
     {
-      "title": "Brazil's President Lula hails oil discovery near Amazon river",
-      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "title": "Husband and mother-in-law charged over Indian bride's death",
+      "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
@@ -79,5 +79,5 @@
     "summary": "Researchers at the University of Oldenburg's Institute of Physics are working on techniques for precision control of electric fields of light, which allow the dynamics of individual electrons to be manipulated in experiments. Now a team from the Attosecond Microscopy research group, led by Dr. Jan Vogelsang, has taken a decisive step toward this goal.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-19T03:00:07.158Z"
+  "generated_at": "2026-08-19T03:51:03.580Z"
 }
