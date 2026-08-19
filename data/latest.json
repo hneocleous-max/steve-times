@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-18",
-      "code": 2,
-      "max": 32,
-      "min": 24,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-08-19",
       "code": 2,
       "max": 32,
@@ -17,67 +8,76 @@
       "desc": "Partly cloudy",
       "icon": "⛅",
       "masthead": "Fair skies"
+    },
+    "tomorrow": {
+      "date": "2026-08-20",
+      "code": 0,
+      "max": 33,
+      "min": 24,
+      "desc": "Clear skies",
+      "icon": "☀️",
+      "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "Larnaca’s upgraded Pattichio Park opens to the public",
-      "link": "https://cyprus-mail.com/2026/08/18/larnacas-upgraded-pattichio-park-opens-to-the-public",
+      "title": "Nvidia to provide up to $105 billion guarantee for OpenAI’s Ohio data center",
+      "link": "https://cyprus-mail.com/2026/08/19/nvidia-to-provide-up-to-105-billion-guarantee-for-openais-ohio-data-center",
       "summary": ""
     },
     {
-      "title": "Modern offices pull ahead in Nicosia as older buildings face obsolescence",
-      "link": "https://en.philenews.com/insider/nicosia-office-market-modern-buildings-premium-rents/",
+      "title": "Cyprus weather: mostly clear with isolated storms possible Wednesday",
+      "link": "https://en.philenews.com/local/cyprus-weather-isolated-storms-wednesday-forecast/",
       "summary": ""
     },
     {
-      "title": "Our View: Why are authorities doing nothing about sewerage in the sea?",
-      "link": "https://cyprus-mail.com/2026/08/18/our-view-why-are-authorities-doing-nothing-about-sewerage-in-the-sea",
+      "title": "Anthropic revenue run rate tops $65 billion, source says",
+      "link": "https://cyprus-mail.com/2026/08/19/anthropic-revenue-run-rate-tops-65-billion-source-says",
       "summary": ""
     },
     {
-      "title": "‘Every generation has to live and deal with what came before.’ : Cypriot author on shared guilt",
-      "link": "https://en.philenews.com/whats-on/pamborides-and-a-wake-up-cyprus-1974-shared-guilt/",
+      "title": "Overnight pharmacies on Tuesday, August 18, 2026",
+      "link": "https://en.philenews.com/local/on-duty-pharmacies-cyprus-august-18-2026/",
       "summary": ""
     },
     {
-      "title": "Trump approval falls to 33%, lowest of his presidency",
-      "link": "https://cyprus-mail.com/2026/08/17/trump-approval-falls-to-33-lowest-of-his-presidency",
+      "title": "Decisions expected next week over Kalo Chorio firing range blaze",
+      "link": "https://cyprus-mail.com/2026/08/19/decisions-expected-next-week-over-kalo-chorio-firing-range-blaze",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-      "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Russia warns UK over supplying drones to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "title": "Meta hooked children on Facebook and Instagram, US court hears",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "BBC breaks down Trump's latest shift on North and South Korea",
-      "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+      "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+      "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Norway's king admitted to hospital and put on sick leave",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "If your career feels chaotic, try this research-based 'workout routine'",
-    "link": "https://phys.org/news/2026-08-career-chaotic-based-workout-routine.html",
-    "summary": "People's ability to successfully navigate career changes depends on their adaptability and flexibility—skills that can be developed through training transition \"muscles,\" according to Sarah Wittman, assistant professor of management at Costello College of Business and of industrial-organizational psychology (by courtesy) at George Mason University.",
+    "title": "Laser stability method advances precision control of electrons with light",
+    "link": "https://phys.org/news/2026-08-laser-stability-method-advances-precision.html",
+    "summary": "Researchers at the University of Oldenburg's Institute of Physics are working on techniques for precision control of electric fields of light, which allow the dynamics of individual electrons to be manipulated in experiments. Now a team from the Attosecond Microscopy research group, led by Dr. Jan Vogelsang, has taken a decisive step toward this goal.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-18T03:49:06.958Z"
+  "generated_at": "2026-08-19T03:00:07.158Z"
 }
