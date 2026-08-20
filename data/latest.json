@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-19",
-      "code": 1,
-      "max": 32,
-      "min": 25,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
-    },
-    "tomorrow": {
       "date": "2026-08-20",
       "code": 1,
       "max": 33,
@@ -17,67 +8,76 @@
       "desc": "Mainly clear",
       "icon": "🌤️",
       "masthead": "Fine weather"
+    },
+    "tomorrow": {
+      "date": "2026-08-21",
+      "code": 0,
+      "max": 36,
+      "min": 26,
+      "desc": "Clear skies",
+      "icon": "☀️",
+      "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "Global video surveillance market reaches $27 billion as AI reshapes sector",
-      "link": "https://cyprus-mail.com/2026/08/19/global-video-surveillance-market-reaches-27-billion-as-ai-reshapes-sector",
+      "title": "Shopkeepers demand Makarios avenue reopen to traffic",
+      "link": "https://cyprus-mail.com/2026/08/20/shopkeepers-demand-makarios-avenue-reopen-to-traffic",
       "summary": ""
     },
     {
-      "title": "Dionysus Mansion: the modern face of Cypriot cuisine",
-      "link": "https://en.philenews.com/whats-on/eat-drink/dionysus-mansion-the-modern-face-of-cypriot-cuisine/",
+      "title": "Biker accused of running down officer, fleeing scene, loses court challenge",
+      "link": "https://en.philenews.com/local/larnaca-biker-officer-crash-arrest-warrant-supreme-court/",
       "summary": ""
     },
     {
-      "title": "Nvidia to provide up to $105 billion guarantee for OpenAI’s Ohio data center",
-      "link": "https://cyprus-mail.com/2026/08/19/nvidia-to-provide-up-to-105-billion-guarantee-for-openais-ohio-data-center",
+      "title": "Our View: IPC the only option for Greek Cypriot property owners",
+      "link": "https://cyprus-mail.com/2026/08/20/our-view-ipc-the-only-option-for-greek-cypriot-property-owners",
       "summary": ""
     },
     {
-      "title": "Coffee and community: LOYAL comedy captures Cypriot diaspora life in North London",
-      "link": "https://en.philenews.com/whats-on/loyal-north-london-cypriot-uk-diaspora-comedy/",
+      "title": "COP31: Ankara’s Cyprus snub triggers Brussels warning",
+      "link": "https://en.philenews.com/international/cyprus-cop31-turkiye-brussels-exclusion-preparations/",
       "summary": ""
     },
     {
-      "title": "Anthropic revenue run rate tops $65 billion, source says",
-      "link": "https://cyprus-mail.com/2026/08/19/anthropic-revenue-run-rate-tops-65-billion-source-says",
+      "title": "Ousted Ukraine defence minister calls for wartime elections",
+      "link": "https://cyprus-mail.com/2026/08/19/ousted-ukraine-defence-minister-calls-for-wartime-elections",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Meta hooked children on Facebook and Instagram, US court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+      "title": "Giant whales move into Greenland waters as ice disappears",
+      "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Husband and mother-in-law charged over Indian bride's death",
-      "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
+      "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
+      "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Laser stability method advances precision control of electrons with light",
-    "link": "https://phys.org/news/2026-08-laser-stability-method-advances-precision.html",
-    "summary": "Researchers at the University of Oldenburg's Institute of Physics are working on techniques for precision control of electric fields of light, which allow the dynamics of individual electrons to be manipulated in experiments. Now a team from the Attosecond Microscopy research group, led by Dr. Jan Vogelsang, has taken a decisive step toward this goal.",
+    "title": "Fine-particle pollution may undermine plants' ability to absorb carbon and conserve water",
+    "link": "https://phys.org/news/2026-08-fine-particle-pollution-undermine-ability.html",
+    "summary": "Researchers at the Faculty of Social Sciences at the University of Hong Kong (HKU) have discovered that fine particulate pollution (PM2.5) significantly impairs plants' ability to use water efficiently and absorb carbon dioxide.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-19T03:51:03.580Z"
+  "generated_at": "2026-08-20T02:59:13.415Z"
 }
