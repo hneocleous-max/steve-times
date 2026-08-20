@@ -3,7 +3,7 @@
     "today": {
       "date": "2026-08-20",
       "code": 1,
-      "max": 33,
+      "max": 34,
       "min": 24,
       "desc": "Mainly clear",
       "icon": "🌤️",
@@ -13,13 +13,23 @@
       "date": "2026-08-21",
       "code": 0,
       "max": 36,
-      "min": 26,
+      "min": 25,
       "desc": "Clear skies",
       "icon": "☀️",
       "masthead": "Fine weather"
     }
   },
   "local": [
+    {
+      "title": "What’s on this weekend",
+      "link": "https://cyprus-mail.com/2026/08/20/whats-on-this-weekend-145",
+      "summary": ""
+    },
+    {
+      "title": "Theta Mediterranean: seafood by the water in Pervolia",
+      "link": "https://en.philenews.com/whats-on/eat-drink/theta-mediterranean-seafood-by-the-water-in-pervolia/",
+      "summary": ""
+    },
     {
       "title": "Shopkeepers demand Makarios avenue reopen to traffic",
       "link": "https://cyprus-mail.com/2026/08/20/shopkeepers-demand-makarios-avenue-reopen-to-traffic",
@@ -33,16 +43,6 @@
     {
       "title": "Our View: IPC the only option for Greek Cypriot property owners",
       "link": "https://cyprus-mail.com/2026/08/20/our-view-ipc-the-only-option-for-greek-cypriot-property-owners",
-      "summary": ""
-    },
-    {
-      "title": "COP31: Ankara’s Cyprus snub triggers Brussels warning",
-      "link": "https://en.philenews.com/international/cyprus-cop31-turkiye-brussels-exclusion-preparations/",
-      "summary": ""
-    },
-    {
-      "title": "Ousted Ukraine defence minister calls for wartime elections",
-      "link": "https://cyprus-mail.com/2026/08/19/ousted-ukraine-defence-minister-calls-for-wartime-elections",
       "summary": ""
     }
   ],
@@ -68,16 +68,16 @@
       "summary": ""
     },
     {
-      "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
-      "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "title": "Former Liberian vice president charged in drug-trafficking probe",
+      "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Fine-particle pollution may undermine plants' ability to absorb carbon and conserve water",
-    "link": "https://phys.org/news/2026-08-fine-particle-pollution-undermine-ability.html",
-    "summary": "Researchers at the Faculty of Social Sciences at the University of Hong Kong (HKU) have discovered that fine particulate pollution (PM2.5) significantly impairs plants' ability to use water efficiently and absorb carbon dioxide.",
+    "title": "Levitating molten metal on ISS could refine ultra-strong metallic glass",
+    "link": "https://phys.org/news/2026-08-levitating-molten-metal-iss-refine.html",
+    "summary": "The research team led by materials scientist Ralf Busch from Saarland University is preparing for its first science-in-space mission. If everything goes to plan, from 31 August the researchers will spend one week remotely studying metallic-glass alloys in experiments carried out on board the International Space Station, ISS. Working with the European Space Agency, ESA, and the German Aerospace Center, DLR, the team will investigate the properties of these alloys using hot, levitating droplets.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-20T02:59:13.415Z"
+  "generated_at": "2026-08-20T03:50:43.811Z"
 }
