@@ -3,7 +3,7 @@
     "today": {
       "date": "2026-08-21",
       "code": 0,
-      "max": 35,
+      "max": 36,
       "min": 26,
       "desc": "Clear skies",
       "icon": "☀️",
@@ -11,18 +11,18 @@
     },
     "tomorrow": {
       "date": "2026-08-22",
-      "code": 0,
+      "code": 1,
       "max": 35,
       "min": 24,
-      "desc": "Clear skies",
-      "icon": "☀️",
+      "desc": "Mainly clear",
+      "icon": "🌤️",
       "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "Tourism revenue drives balance of payments growth in Greece",
-      "link": "https://cyprus-mail.com/2026/08/21/tourism-revenue-drives-balance-of-payments-growth-in-greece",
+      "title": "Major lenders seen well placed for years of stronger performance",
+      "link": "https://cyprus-mail.com/2026/08/21/major-lenders-seen-well-placed-for-years-of-stronger-performance",
       "summary": ""
     },
     {
@@ -31,8 +31,8 @@
       "summary": ""
     },
     {
-      "title": "Nicosia launches competition to regenerate historic Municipal Gardens",
-      "link": "https://cyprus-mail.com/2026/08/21/nicosia-launches-competition-to-regenerate-historic-municipal-gardens",
+      "title": "Limassol to host EU maritime ministers from Cyprus, Greece, Malta and Italy",
+      "link": "https://cyprus-mail.com/2026/08/21/limassol-to-host-eu-maritime-ministers-from-cyprus-greece-malta-and-italy",
       "summary": ""
     },
     {
@@ -41,8 +41,8 @@
       "summary": ""
     },
     {
-      "title": "Our View: Government cannot ignore rising inflation",
-      "link": "https://cyprus-mail.com/2026/08/21/our-view-government-cannot-ignore-rising-inflation",
+      "title": "Tourism revenue drives balance of payments growth in Greece",
+      "link": "https://cyprus-mail.com/2026/08/21/tourism-revenue-drives-balance-of-payments-growth-in-greece",
       "summary": ""
     }
   ],
@@ -74,10 +74,10 @@
     }
   ],
   "discovery": {
-    "title": "AI-driven literature mining speeds discovery of heat-stable lead-free dielectric materials",
-    "link": "https://phys.org/news/2026-08-ai-driven-literature-discovery-stable.html",
-    "summary": "Artificial intelligence has analyzed data scattered across hundreds of research papers to discover new lead-free dielectric materials that maintain stable performance even at high temperatures. The study presents a new approach that could transform materials discovery from a trial-and-error process into a data-driven one.",
+    "title": "Global access to food crops is affected by transport costs and economic inequality",
+    "link": "https://phys.org/news/2026-08-global-access-food-crops-affected.html",
+    "summary": "Producing enough food is only one part of ensuring global food security. A new study shows that transport networks and economic inequality are important factors in determining global food accessibility. A research team led by the University of Oulu, together with researchers from Aalto University and Pellervo Economic Research (PTT), Finland, developed a new spatial accessibility framework to examine how effectively global transport systems connect food supply with demand under different economic and disruption scenarios.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-21T03:05:42.829Z"
+  "generated_at": "2026-08-21T03:54:06.941Z"
 }
