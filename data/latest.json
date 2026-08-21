@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-20",
-      "code": 1,
-      "max": 34,
-      "min": 24,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
+      "date": "2026-08-21",
+      "code": 0,
+      "max": 35,
+      "min": 26,
+      "desc": "Clear skies",
+      "icon": "☀️",
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "code": 0,
-      "max": 36,
-      "min": 25,
+      "max": 35,
+      "min": 24,
       "desc": "Clear skies",
       "icon": "☀️",
       "masthead": "Fine weather"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "What’s on this weekend",
-      "link": "https://cyprus-mail.com/2026/08/20/whats-on-this-weekend-145",
+      "title": "Tourism revenue drives balance of payments growth in Greece",
+      "link": "https://cyprus-mail.com/2026/08/21/tourism-revenue-drives-balance-of-payments-growth-in-greece",
       "summary": ""
     },
     {
-      "title": "Theta Mediterranean: seafood by the water in Pervolia",
-      "link": "https://en.philenews.com/whats-on/eat-drink/theta-mediterranean-seafood-by-the-water-in-pervolia/",
+      "title": "Cyprus weather forecast: mostly clear skies, temperatures reaching 41 degrees inland",
+      "link": "https://en.philenews.com/local/cyprus-weather-forecast-friday-august-21-clear-skies/",
       "summary": ""
     },
     {
-      "title": "Shopkeepers demand Makarios avenue reopen to traffic",
-      "link": "https://cyprus-mail.com/2026/08/20/shopkeepers-demand-makarios-avenue-reopen-to-traffic",
+      "title": "Nicosia launches competition to regenerate historic Municipal Gardens",
+      "link": "https://cyprus-mail.com/2026/08/21/nicosia-launches-competition-to-regenerate-historic-municipal-gardens",
       "summary": ""
     },
     {
-      "title": "Biker accused of running down officer, fleeing scene, loses court challenge",
-      "link": "https://en.philenews.com/local/larnaca-biker-officer-crash-arrest-warrant-supreme-court/",
+      "title": "Two dengue fever cases confirmed in Cyprus after healthcare worker infected via patient’s blood",
+      "link": "https://en.philenews.com/local/dengue-fever-cases-cyprus-july-healthcare-worker/",
       "summary": ""
     },
     {
-      "title": "Our View: IPC the only option for Greek Cypriot property owners",
-      "link": "https://cyprus-mail.com/2026/08/20/our-view-ipc-the-only-option-for-greek-cypriot-property-owners",
+      "title": "Our View: Government cannot ignore rising inflation",
+      "link": "https://cyprus-mail.com/2026/08/21/our-view-government-cannot-ignore-rising-inflation",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Giant whales move into Greenland waters as ice disappears",
-      "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+      "title": "Why the US economy is ringing alarm bells",
+      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Former Liberian vice president charged in drug-trafficking probe",
-      "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+      "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Levitating molten metal on ISS could refine ultra-strong metallic glass",
-    "link": "https://phys.org/news/2026-08-levitating-molten-metal-iss-refine.html",
-    "summary": "The research team led by materials scientist Ralf Busch from Saarland University is preparing for its first science-in-space mission. If everything goes to plan, from 31 August the researchers will spend one week remotely studying metallic-glass alloys in experiments carried out on board the International Space Station, ISS. Working with the European Space Agency, ESA, and the German Aerospace Center, DLR, the team will investigate the properties of these alloys using hot, levitating droplets.",
+    "title": "AI-driven literature mining speeds discovery of heat-stable lead-free dielectric materials",
+    "link": "https://phys.org/news/2026-08-ai-driven-literature-discovery-stable.html",
+    "summary": "Artificial intelligence has analyzed data scattered across hundreds of research papers to discover new lead-free dielectric materials that maintain stable performance even at high temperatures. The study presents a new approach that could transform materials discovery from a trial-and-error process into a data-driven one.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-20T03:50:43.811Z"
+  "generated_at": "2026-08-21T03:05:42.829Z"
 }
