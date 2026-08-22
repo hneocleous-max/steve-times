@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-21",
-      "code": 0,
-      "max": 36,
-      "min": 26,
-      "desc": "Clear skies",
-      "icon": "☀️",
-      "masthead": "Fine weather"
-    },
-    "tomorrow": {
       "date": "2026-08-22",
       "code": 1,
       "max": 35,
@@ -17,67 +8,76 @@
       "desc": "Mainly clear",
       "icon": "🌤️",
       "masthead": "Fine weather"
+    },
+    "tomorrow": {
+      "date": "2026-08-23",
+      "code": 0,
+      "max": 34,
+      "min": 25,
+      "desc": "Clear skies",
+      "icon": "☀️",
+      "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "Major lenders seen well placed for years of stronger performance",
-      "link": "https://cyprus-mail.com/2026/08/21/major-lenders-seen-well-placed-for-years-of-stronger-performance",
+      "title": "Pressure to cancel Kyrenia festival ‘lays foundation for division of island’",
+      "link": "https://cyprus-mail.com/2026/08/22/pressure-to-cancel-kyrenia-festival-lays-foundation-for-division-of-island",
       "summary": ""
     },
     {
-      "title": "Cyprus weather forecast: mostly clear skies, temperatures reaching 41 degrees inland",
-      "link": "https://en.philenews.com/local/cyprus-weather-forecast-friday-august-21-clear-skies/",
+      "title": "Cyprus weather: mostly clear with highs of 39C inland on Saturday",
+      "link": "https://en.philenews.com/local/cyprus-weather-forecast-saturday-august-22/",
       "summary": ""
     },
     {
-      "title": "Limassol to host EU maritime ministers from Cyprus, Greece, Malta and Italy",
-      "link": "https://cyprus-mail.com/2026/08/21/limassol-to-host-eu-maritime-ministers-from-cyprus-greece-malta-and-italy",
+      "title": "Our View: Cars won’t revive Makarios avenue",
+      "link": "https://cyprus-mail.com/2026/08/22/our-view-cars-wont-revive-makarios-avenue",
       "summary": ""
     },
     {
-      "title": "Two dengue fever cases confirmed in Cyprus after healthcare worker infected via patient’s blood",
-      "link": "https://en.philenews.com/local/dengue-fever-cases-cyprus-july-healthcare-worker/",
+      "title": "A new era in the labour market: Transparency, equality and investment in skills",
+      "link": "https://en.philenews.com/insider/a-new-era-in-the-labour-market-transparency-equality-and-investment-in-skills/",
       "summary": ""
     },
     {
-      "title": "Tourism revenue drives balance of payments growth in Greece",
-      "link": "https://cyprus-mail.com/2026/08/21/tourism-revenue-drives-balance-of-payments-growth-in-greece",
+      "title": "Arsenal sweep Coventry aside to start title defence with 3-0 win",
+      "link": "https://cyprus-mail.com/2026/08/22/arsenal-sweep-coventry-aside-to-start-title-defence-with-3-0-win",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-      "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
-      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Why the US economy is ringing alarm bells",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-      "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "title": "One killed in sword attack at Swedish school",
+      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Global access to food crops is affected by transport costs and economic inequality",
-    "link": "https://phys.org/news/2026-08-global-access-food-crops-affected.html",
-    "summary": "Producing enough food is only one part of ensuring global food security. A new study shows that transport networks and economic inequality are important factors in determining global food accessibility. A research team led by the University of Oulu, together with researchers from Aalto University and Pellervo Economic Research (PTT), Finland, developed a new spatial accessibility framework to examine how effectively global transport systems connect food supply with demand under different economic and disruption scenarios.",
+    "title": "Bipartisan majorities in US favor banning glyphosate",
+    "link": "https://phys.org/news/2026-08-bipartisan-majorities-favor-glyphosate.html",
+    "summary": "Two-thirds of Americans favor banning the use of the herbicide glyphosate, the active ingredient in the popular weedkiller Roundup, on crops grown in the United States, according to a nationally representative survey conducted by the Annenberg Public Policy Center (APPC) of the University of Pennsylvania.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-21T03:54:06.941Z"
+  "generated_at": "2026-08-22T02:56:38.196Z"
 }
