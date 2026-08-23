@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "code": 1,
-      "max": 35,
+      "max": 33,
       "min": 24,
       "desc": "Mainly clear",
       "icon": "🌤️",
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-08-23",
-      "code": 0,
-      "max": 34,
-      "min": 25,
-      "desc": "Clear skies",
-      "icon": "☀️",
-      "masthead": "Fine weather"
+      "date": "2026-08-24",
+      "code": 2,
+      "max": 32,
+      "min": 26,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "Pressure to cancel Kyrenia festival ‘lays foundation for division of island’",
-      "link": "https://cyprus-mail.com/2026/08/22/pressure-to-cancel-kyrenia-festival-lays-foundation-for-division-of-island",
+      "title": "Can Cyprus’ sunken treasure ever be found?",
+      "link": "https://cyprus-mail.com/2026/08/23/can-cyprus-sunken-treasure-ever-be-found",
       "summary": ""
     },
     {
-      "title": "Cyprus weather: mostly clear with highs of 39C inland on Saturday",
-      "link": "https://en.philenews.com/local/cyprus-weather-forecast-saturday-august-22/",
+      "title": "Mostly clear Sunday, highs of 39 degrees inland",
+      "link": "https://en.philenews.com/local/mostly-clear-sunday-highs-of-39-degrees-inland/",
       "summary": ""
     },
     {
-      "title": "Our View: Cars won’t revive Makarios avenue",
-      "link": "https://cyprus-mail.com/2026/08/22/our-view-cars-wont-revive-makarios-avenue",
+      "title": "Egypt teenager Abdelkarim pushing for Barca place after prolific pre-season",
+      "link": "https://cyprus-mail.com/2026/08/22/egypt-teenager-abdelkarim-pushing-for-barca-place-after-prolific-pre-season",
       "summary": ""
     },
     {
-      "title": "A new era in the labour market: Transparency, equality and investment in skills",
-      "link": "https://en.philenews.com/insider/a-new-era-in-the-labour-market-transparency-equality-and-investment-in-skills/",
+      "title": "Cyprus tells UN Turkey’s occupied-area gas pipeline deal is illegal",
+      "link": "https://en.philenews.com/politics/cyprus-un-complaint-turkey-north-gas-pipeline-live/",
       "summary": ""
     },
     {
-      "title": "Arsenal sweep Coventry aside to start title defence with 3-0 win",
-      "link": "https://cyprus-mail.com/2026/08/22/arsenal-sweep-coventry-aside-to-start-title-defence-with-3-0-win",
+      "title": "Seven dead in UK after vehicle travelling wrong way hits police car",
+      "link": "https://cyprus-mail.com/2026/08/22/seven-dead-in-uk-after-vehicle-travelling-wrong-way-hits-police-car",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "One killed in sword attack at Swedish school",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Syria says Israeli strike near Damascus violation of international law",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Bipartisan majorities in US favor banning glyphosate",
-    "link": "https://phys.org/news/2026-08-bipartisan-majorities-favor-glyphosate.html",
-    "summary": "Two-thirds of Americans favor banning the use of the herbicide glyphosate, the active ingredient in the popular weedkiller Roundup, on crops grown in the United States, according to a nationally representative survey conducted by the Annenberg Public Policy Center (APPC) of the University of Pennsylvania.",
+    "title": "How we found Haida Gwaii's first marbled murrelet nest in more than 30 years",
+    "link": "https://phys.org/news/2026-08-haida-gwaii-marbled-murrelet-years.html",
+    "summary": "Scrambling through dense salal in the dark, weaving between the majestic western red cedars of northern Haida Gwaii, I could barely imagine where we were just days before—crossing Dixon Entrance off the coast in an open skiff, pushing head-on through ocean swells and salt spray.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-22T03:46:01.835Z"
+  "generated_at": "2026-08-23T03:05:04.973Z"
 }
