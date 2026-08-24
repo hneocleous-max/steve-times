@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-23",
-      "code": 1,
-      "max": 33,
-      "min": 24,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
-    },
-    "tomorrow": {
       "date": "2026-08-24",
       "code": 2,
       "max": 32,
@@ -17,67 +8,76 @@
       "desc": "Partly cloudy",
       "icon": "⛅",
       "masthead": "Fair skies"
+    },
+    "tomorrow": {
+      "date": "2026-08-25",
+      "code": 3,
+      "max": 32,
+      "min": 26,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "Can Cyprus’ sunken treasure ever be found?",
-      "link": "https://cyprus-mail.com/2026/08/23/can-cyprus-sunken-treasure-ever-be-found",
+      "title": "AR display shipments set to overtake VR as smartglasses grow lighter",
+      "link": "https://cyprus-mail.com/2026/08/24/ar-display-shipments-set-to-overtake-vr-as-smartglasses-grow-lighter",
       "summary": ""
     },
     {
-      "title": "Stou Rousia: three locations serving traditional Cypriot cuisine",
-      "link": "https://en.philenews.com/whats-on/eat-drink/stou-rousia-cypriot-taverna-larnaca-nicosia-kato-drys/",
+      "title": "Larnaca motorcyclist dies in fatal head-on collision on Kelli–Troulloi road",
+      "link": "https://en.philenews.com/local/larnaca-motorcyclist-killed-head-on-crash-kelli-troulloi/",
       "summary": ""
     },
     {
-      "title": "Egypt teenager Abdelkarim pushing for Barca place after prolific pre-season",
-      "link": "https://cyprus-mail.com/2026/08/22/egypt-teenager-abdelkarim-pushing-for-barca-place-after-prolific-pre-season",
+      "title": "The Cypriot vine helping Australia beat the heat",
+      "link": "https://cyprus-mail.com/2026/08/24/the-cypriot-vine-helping-australia-beat-the-heat",
       "summary": ""
     },
     {
-      "title": "Mostly clear Sunday, highs of 39 degrees inland",
-      "link": "https://en.philenews.com/local/mostly-clear-sunday-highs-of-39-degrees-inland/",
+      "title": "Scooter rider seriously injured in Limassol crash involving motorcycle and bus",
+      "link": "https://en.philenews.com/local/limassol-scooter-motorcycle-bus-crash/",
       "summary": ""
     },
     {
-      "title": "Seven dead in UK after vehicle travelling wrong way hits police car",
-      "link": "https://cyprus-mail.com/2026/08/22/seven-dead-in-uk-after-vehicle-travelling-wrong-way-hits-police-car",
+      "title": "Digital nomads: opportunity or challenge for the Cypriot economy?",
+      "link": "https://cyprus-mail.com/2026/08/24/digital-nomads-opportunity-or-challenge-for-the-cypriot-economy",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "title": "Guinea rubbish landfill collapse kills 30",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+      "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Syria says Israeli strike near Damascus violation of international law",
-      "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+      "title": "France links sharp rise in drownings to heatwaves",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "How we found Haida Gwaii's first marbled murrelet nest in more than 30 years",
-    "link": "https://phys.org/news/2026-08-haida-gwaii-marbled-murrelet-years.html",
-    "summary": "Scrambling through dense salal in the dark, weaving between the majestic western red cedars of northern Haida Gwaii, I could barely imagine where we were just days before—crossing Dixon Entrance off the coast in an open skiff, pushing head-on through ocean swells and salt spray.",
+    "title": "Protein degradation rate helps explain why humans develop more slowly than mice",
+    "link": "https://phys.org/news/2026-08-protein-degradation-humans-slowly-mice.html",
+    "summary": "Humans develop at a slower rate than other mammalian species, like mice, but scientists are still trying to understand the molecular basis of these differences. Now, researchers from the Ebisuya Group at EMBL Barcelona and PoL-TU Dresden and from the Savitski Team at EMBL Heidelberg show that across 4,000 proteins shared between humans and mice, there is a clear tendency for protein degradation in humans to be slower than in mice.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-23T03:53:54.088Z"
+  "generated_at": "2026-08-24T03:06:09.302Z"
 }
