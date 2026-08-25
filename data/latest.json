@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-24",
-      "code": 2,
-      "max": 32,
-      "min": 26,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-08-25",
       "code": 3,
-      "max": 32,
+      "max": 33,
       "min": 26,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
+    },
+    "tomorrow": {
+      "date": "2026-08-26",
+      "code": 2,
+      "max": 33,
+      "min": 24,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "EU jobs market absorbs downturns better than US, study finds",
-      "link": "https://cyprus-mail.com/2026/08/24/eu-jobs-market-absorbs-downturns-better-than-us-study-finds",
+      "title": "Why better communication matters for seafarers",
+      "link": "https://cyprus-mail.com/2026/08/25/why-better-communication-matters-for-seafarers",
       "summary": ""
     },
     {
-      "title": "Kingfisher: a model of modern Cypriot seafood dining",
-      "link": "https://en.philenews.com/whats-on/eat-drink/kingfisher-paphos-seafood-restaurant-top-notch/",
+      "title": "Things to do on Tuesday, August 25",
+      "link": "https://en.philenews.com/whats-on/eat-drink/things-to-do-on-tuesday-august-25/",
       "summary": ""
     },
     {
-      "title": "AR display shipments set to overtake VR as smartglasses grow lighter",
-      "link": "https://cyprus-mail.com/2026/08/24/ar-display-shipments-set-to-overtake-vr-as-smartglasses-grow-lighter",
+      "title": "Cyprus’ visa waiver bid stalls as US reviews scheme",
+      "link": "https://cyprus-mail.com/2026/08/25/cyprus-visa-waiver-bid-stalls-as-us-reviews-scheme",
       "summary": ""
     },
     {
-      "title": "Larnaca motorcyclist dies in fatal head-on collision on Kelli–Troulloi road",
-      "link": "https://en.philenews.com/local/larnaca-motorcyclist-killed-head-on-crash-kelli-troulloi/",
+      "title": "Cyprus stays mostly sunny with isolated mountain showers possible through Friday",
+      "link": "https://en.philenews.com/local/cyprus-stays-mostly-sunny-with-isolated-mountain-showers-possible-through-friday/",
       "summary": ""
     },
     {
-      "title": "The Cypriot vine helping Australia beat the heat",
-      "link": "https://cyprus-mail.com/2026/08/24/the-cypriot-vine-helping-australia-beat-the-heat",
+      "title": "Our View: Keeping Lara beach in its natural state is non-negotiable",
+      "link": "https://cyprus-mail.com/2026/08/25/our-view-keeping-lara-beach-in-its-natural-state-is-non-negotiable",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
       "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Shein aims for almost $27bn valuation in stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "title": "French tourist dies in Death Valley after car gets stuck in mud",
+      "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Guinea rubbish landfill collapse kills 30",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
-      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "title": "Moment tornado tears through southern France",
+      "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Protein degradation rate helps explain why humans develop more slowly than mice",
-    "link": "https://phys.org/news/2026-08-protein-degradation-humans-slowly-mice.html",
-    "summary": "Humans develop at a slower rate than other mammalian species, like mice, but scientists are still trying to understand the molecular basis of these differences. Now, researchers from the Ebisuya Group at EMBL Barcelona and PoL-TU Dresden and from the Savitski Team at EMBL Heidelberg show that across 4,000 proteins shared between humans and mice, there is a clear tendency for protein degradation in humans to be slower than in mice.",
+    "title": "Hotel stigma may drive Chinese hospitality graduates away from careers",
+    "link": "https://phys.org/news/2026-08-hotel-stigma-chinese-hospitality-careers.html",
+    "summary": "Research published in the International Journal of Environment and Sustainable Development analyzed interviews with more than 300 Chinese hotel interns to examine how perceptions of hotel work affect whether graduates pursue a career in the industry. The findings suggest that negative perceptions deter graduate interns from pursuing careers in hospitality.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-24T03:57:56.895Z"
+  "generated_at": "2026-08-25T03:01:14.997Z"
 }
