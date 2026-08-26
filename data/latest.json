@@ -11,38 +11,38 @@
     },
     "tomorrow": {
       "date": "2026-08-27",
-      "code": 1,
-      "max": 32,
+      "code": 2,
+      "max": 33,
       "min": 25,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
+    {
+      "title": "Cyprus launches €1.7 million grant scheme for international trade fairs",
+      "link": "https://cyprus-mail.com/2026/08/26/cyprus-launches-e1-7-million-grant-scheme-for-international-trade-fairs",
+      "summary": ""
+    },
+    {
+      "title": "Four Cypriots summit Mount Elbrus, raise Anti-Cancer Society flag",
+      "link": "https://en.philenews.com/local/cypriots-summit-mount-elbrus-anti-cancer-society/",
+      "summary": ""
+    },
     {
       "title": "Seafarers are not expendable, warns shipping executive",
       "link": "https://cyprus-mail.com/2026/08/26/seafarers-are-not-expendable-warns-shipping-executive",
       "summary": ""
     },
     {
-      "title": "Binge it or skip it: Scarpetta – Between past and present, a divisive puzzle",
-      "link": "https://en.philenews.com/whats-on/binge-it-or-skip-it-scarpetta-between-past-and-present-a-divisive-puzzle/",
+      "title": "Up to 20,000 Israelis now call Cyprus home as emigration rises",
+      "link": "https://en.philenews.com/living-in-cyprus/israelis-moving-to-cyprus-emigration-relocation-guide/",
       "summary": ""
     },
     {
       "title": "Tenant accuses Nicosia EOA of inaction over ‘dangerous’ building",
       "link": "https://cyprus-mail.com/2026/08/26/tenant-accuses-nicosia-eoa-of-inaction-over-dangerous-building",
-      "summary": ""
-    },
-    {
-      "title": "EAC advances battery storage projects to cut renewable energy curtailments",
-      "link": "https://en.philenews.com/insider/eac-battery-storage-projects-renewable-curtailments/",
-      "summary": ""
-    },
-    {
-      "title": "Our View: Religious indoctrination has no place in schools",
-      "link": "https://cyprus-mail.com/2026/08/26/our-view-religious-indoctrination-has-no-place-in-schools",
       "summary": ""
     }
   ],
@@ -74,10 +74,10 @@
     }
   ],
   "discovery": {
-    "title": "From nuisance to new resource: Prickly pear could support fuels, foods and rural growers",
-    "link": "https://phys.org/news/2026-08-nuisance-resource-pear-fuels-foods.html",
-    "summary": "Texans often view prickly pear cactus as a nuisance, but researchers with Texas A&M AgriLife Research are seeking opportunity. Susanne Talcott, Ph.D., a molecular researcher and professor in the Texas A&M Department of Food Science and Technology, leads a multidisciplinary team studying how prickly pear cactus can serve as a source of biofuels and functional food ingredients.",
+    "title": "Reusable stencils create clean carbon nanotube patterns in single-stage process",
+    "link": "https://phys.org/news/2026-08-reusable-stencils-carbon-nanotube-patterns.html",
+    "summary": "Researchers from Skoltech and their colleagues from Harbin Institute of Technology in China and ITMO University in Russia have devised a way to deposit elaborate geometric patterns of carbon nanotubes without wasting material. Such patterns are used in advanced optical devices and mechanical strain sensors for structural integrity monitoring.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-26T03:08:02.273Z"
+  "generated_at": "2026-08-26T03:56:24.581Z"
 }
