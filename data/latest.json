@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-25",
-      "code": 3,
-      "max": 33,
-      "min": 26,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
-    },
-    "tomorrow": {
       "date": "2026-08-26",
-      "code": 2,
+      "code": 1,
       "max": 33,
       "min": 24,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
+      "desc": "Mainly clear",
+      "icon": "🌤️",
+      "masthead": "Fine weather"
+    },
+    "tomorrow": {
+      "date": "2026-08-27",
+      "code": 1,
+      "max": 32,
+      "min": 25,
+      "desc": "Mainly clear",
+      "icon": "🌤️",
+      "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "Rising tariffs and import fees weigh on Shein Hong Kong flotation",
-      "link": "https://cyprus-mail.com/2026/08/25/rising-tariffs-and-import-fees-weigh-on-shein-hong-kong-flotation",
+      "title": "Seafarers are not expendable, warns shipping executive",
+      "link": "https://cyprus-mail.com/2026/08/26/seafarers-are-not-expendable-warns-shipping-executive",
       "summary": ""
     },
     {
-      "title": "Yiannis Providakis: “Good cooking starts with a good product”",
-      "link": "https://en.philenews.com/whats-on/eat-drink/yiannis-providakis-kuzuba-nicosia-interview/",
+      "title": "Binge it or skip it: Scarpetta – Between past and present, a divisive puzzle",
+      "link": "https://en.philenews.com/whats-on/binge-it-or-skip-it-scarpetta-between-past-and-present-a-divisive-puzzle/",
       "summary": ""
     },
     {
-      "title": "Why better communication matters for seafarers",
-      "link": "https://cyprus-mail.com/2026/08/25/why-better-communication-matters-for-seafarers",
+      "title": "Tenant accuses Nicosia EOA of inaction over ‘dangerous’ building",
+      "link": "https://cyprus-mail.com/2026/08/26/tenant-accuses-nicosia-eoa-of-inaction-over-dangerous-building",
       "summary": ""
     },
     {
-      "title": "Things to do on Tuesday, August 25",
-      "link": "https://en.philenews.com/whats-on/eat-drink/things-to-do-on-tuesday-august-25/",
+      "title": "EAC advances battery storage projects to cut renewable energy curtailments",
+      "link": "https://en.philenews.com/insider/eac-battery-storage-projects-renewable-curtailments/",
       "summary": ""
     },
     {
-      "title": "Cyprus’ visa waiver bid stalls as US reviews scheme",
-      "link": "https://cyprus-mail.com/2026/08/25/cyprus-visa-waiver-bid-stalls-as-us-reviews-scheme",
+      "title": "Our View: Religious indoctrination has no place in schools",
+      "link": "https://cyprus-mail.com/2026/08/26/our-view-religious-indoctrination-has-no-place-in-schools",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "French tourist dies in Death Valley after car gets stuck in mud",
-      "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+      "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Moment tornado tears through southern France",
-      "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+      "title": "Brain disease in dead NFL players 'higher than previously shown'",
+      "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Access to bilingual education lags behind in Andalusia's rural areas, study reveals",
-    "link": "https://phys.org/news/2026-08-access-bilingual-lags-andalusia-rural.html",
-    "summary": "Over the past two decades, bilingual education programs have significantly expanded within the Spanish education system, with the aim of improving foreign language learning—primarily English—while making it more accessible for all. Although more and more schools are offering bilingual education, they are unevenly distributed across the country, generating inequalities among students.",
+    "title": "From nuisance to new resource: Prickly pear could support fuels, foods and rural growers",
+    "link": "https://phys.org/news/2026-08-nuisance-resource-pear-fuels-foods.html",
+    "summary": "Texans often view prickly pear cactus as a nuisance, but researchers with Texas A&M AgriLife Research are seeking opportunity. Susanne Talcott, Ph.D., a molecular researcher and professor in the Texas A&M Department of Food Science and Technology, leads a multidisciplinary team studying how prickly pear cactus can serve as a source of biofuels and functional food ingredients.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-25T03:52:17.677Z"
+  "generated_at": "2026-08-26T03:08:02.273Z"
 }
