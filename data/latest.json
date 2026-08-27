@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-26",
-      "code": 1,
-      "max": 33,
-      "min": 24,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
-    },
-    "tomorrow": {
       "date": "2026-08-27",
       "code": 2,
-      "max": 33,
-      "min": 25,
+      "max": 32,
+      "min": 24,
       "desc": "Partly cloudy",
       "icon": "⛅",
       "masthead": "Fair skies"
+    },
+    "tomorrow": {
+      "date": "2026-08-28",
+      "code": 3,
+      "max": 33,
+      "min": 25,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "Cyprus launches €1.7 million grant scheme for international trade fairs",
-      "link": "https://cyprus-mail.com/2026/08/26/cyprus-launches-e1-7-million-grant-scheme-for-international-trade-fairs",
+      "title": "The era of the Mutant Saga is here",
+      "link": "https://cyprus-mail.com/2026/08/27/the-era-of-the-mutant-saga-is-here",
       "summary": ""
     },
     {
-      "title": "Four Cypriots summit Mount Elbrus, raise Anti-Cancer Society flag",
-      "link": "https://en.philenews.com/local/cypriots-summit-mount-elbrus-anti-cancer-society/",
+      "title": "E-scooters face seizure of up to 90 days under new decree",
+      "link": "https://en.philenews.com/local/cyprus-e-scooter-seizure-decree-nicosia-parking/",
       "summary": ""
     },
     {
-      "title": "Seafarers are not expendable, warns shipping executive",
-      "link": "https://cyprus-mail.com/2026/08/26/seafarers-are-not-expendable-warns-shipping-executive",
+      "title": "Cyprus deposits jump €562m as loans fall €69m",
+      "link": "https://cyprus-mail.com/2026/08/27/cyprus-deposits-jump-e562m-as-loans-fall-e69m",
       "summary": ""
     },
     {
-      "title": "Up to 20,000 Israelis now call Cyprus home as emigration rises",
-      "link": "https://en.philenews.com/living-in-cyprus/israelis-moving-to-cyprus-emigration-relocation-guide/",
+      "title": "Woman, 45, freed after “military court” fines her €273 in occupied north",
+      "link": "https://en.philenews.com/local/woman-freed-military-court-fine-occupied-north/",
       "summary": ""
     },
     {
-      "title": "Tenant accuses Nicosia EOA of inaction over ‘dangerous’ building",
-      "link": "https://cyprus-mail.com/2026/08/26/tenant-accuses-nicosia-eoa-of-inaction-over-dangerous-building",
+      "title": "Police: ‘Sandy’ claims will be judged in court",
+      "link": "https://cyprus-mail.com/2026/08/27/police-sandy-claims-will-be-judged-in-court",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+      "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about deadly Nepal-Tibet floods",
+      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
+      "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Mass arrests in global crackdown on West African cyber-crime networks",
-      "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+      "title": "Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health",
+      "link": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Brain disease in dead NFL players 'higher than previously shown'",
-      "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+      "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+      "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Reusable stencils create clean carbon nanotube patterns in single-stage process",
-    "link": "https://phys.org/news/2026-08-reusable-stencils-carbon-nanotube-patterns.html",
-    "summary": "Researchers from Skoltech and their colleagues from Harbin Institute of Technology in China and ITMO University in Russia have devised a way to deposit elaborate geometric patterns of carbon nanotubes without wasting material. Such patterns are used in advanced optical devices and mechanical strain sensors for structural integrity monitoring.",
+    "title": "Geomimicry offers a new framework for engineering sustainable materials",
+    "link": "https://phys.org/news/2026-08-geomimicry-framework-sustainable-materials.html",
+    "summary": "When engineers look to nature for inspiration, they often turn to living systems. The flight of birds has influenced aircraft design, gecko feet inspired new adhesives and lotus leaves led to the development of self-cleaning surfaces.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-26T03:56:24.581Z"
+  "generated_at": "2026-08-27T12:36:12.671Z"
 }
