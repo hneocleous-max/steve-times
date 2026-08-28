@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-27",
-      "code": 2,
-      "max": 32,
-      "min": 24,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-08-28",
       "code": 3,
       "max": 33,
-      "min": 25,
+      "min": 24,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
+    },
+    "tomorrow": {
+      "date": "2026-08-29",
+      "code": 95,
+      "max": 29,
+      "min": 25,
+      "desc": "Thunderstorms",
+      "icon": "⛈️",
+      "masthead": "Stormy weather"
     }
   },
   "local": [
     {
-      "title": "Ratko Mladic, former general convicted of Bosnia genocide, dies",
-      "link": "https://cyprus-mail.com/2026/08/27/ratko-mladic-former-general-convicted-of-bosnia-genocide-dies",
+      "title": "Amathus Mayor demands action over multiple sources of sea pollution",
+      "link": "https://cyprus-mail.com/2026/08/28/amathus-mayor-demands-action-over-multiple-sources-of-sea-pollution",
       "summary": ""
     },
     {
-      "title": "Truck-car collision spills soil on Nicosia–Larnaca highway (photos+videos)",
-      "link": "https://en.philenews.com/local/truck-and-car-collide-on-nicosia-larnaca-highway-two-hurt-live/",
+      "title": "One strike, three powers: the new Israel–Türkiye tension in Syria",
+      "link": "https://en.philenews.com/international/israel-turkiye-tensions-syria-abu-al-duhur-strike/",
       "summary": ""
     },
     {
-      "title": "E-scooter offences could bring 90-day impoundment",
-      "link": "https://cyprus-mail.com/2026/08/27/e-scooter-offences-could-bring-90-day-impoundment",
+      "title": "EU air traffic union calls on Cyprus, Turkey, EU to engage to keep island’s skies safe",
+      "link": "https://cyprus-mail.com/2026/08/28/eu-air-traffic-union-calls-on-cyprus-turkey-eu-to-engage-to-keep-islands-skies-safe",
       "summary": ""
     },
     {
-      "title": "Heavy rain and hail hit mountain areas as heat warning stays (videos)",
-      "link": "https://en.philenews.com/local/rain-hail-bring-relief-as-heat-warning-stays-in-force/",
+      "title": "Orange warning for storms issued as temperatures to plunge 10 degrees",
+      "link": "https://en.philenews.com/local/orange-warning-for-storms-issued-as-temperatures-plunge-10-degrees/",
       "summary": ""
     },
     {
-      "title": "China donates €6,000 to Committee on Missing Persons",
-      "link": "https://cyprus-mail.com/2026/08/27/china-donates-e6000-to-committee-on-missing-persons",
+      "title": "Cyprus airports recorded 97,096 flights in 2025",
+      "link": "https://cyprus-mail.com/2026/08/28/cyprus-airports-recorded-97096-flights-in-2025",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
-      "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
+      "link": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "What we know about deadly Nepal-Tibet floods",
-      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+      "title": "Who is Norway's new King Haakon VIII?",
+      "link": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
+      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
-      "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
+      "title": "Trump signs order to rename Lake Ontario as Lake America",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health",
-      "link": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
+      "title": "World's youngest reigning traditional monarch dies aged 34",
+      "link": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Degraded DNA reveals two extinct Galapagos giant tortoise lineages",
-    "link": "https://phys.org/news/2026-08-degraded-dna-reveals-extinct-galapagos.html",
-    "summary": "Using a new combination of computational tools to analyze ancient DNA, Yale researchers have discovered two ancient, extinct giant tortoise lineages that once lived on the Galapagos Islands.",
+    "title": "Giving shorebirds space on the beach makes a big difference",
+    "link": "https://phys.org/news/2026-08-shorebirds-space-beach-big-difference.html",
+    "summary": "When Ashley Dayer was walking on the beach with her 8-year-old son recently, he stopped her before she got too close to a group of shorebirds. \"Momma, stop. We have to walk around the shorebirds,\" he told her. Dayer smiled. That moment was the perfect example of the human behavior change she and conservation partners have spent more than a decade trying to encourage along beaches used by both people and imperiled shorebirds.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-27T13:59:35.497Z"
+  "generated_at": "2026-08-28T14:07:30.120Z"
 }
