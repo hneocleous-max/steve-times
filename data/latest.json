@@ -11,38 +11,38 @@
     },
     "tomorrow": {
       "date": "2026-08-30",
-      "code": 3,
+      "code": 2,
       "max": 34,
-      "min": 24,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
+      "min": 25,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "Federer embraces Hall of Fame moment and reflects on legacy beyond titles",
-      "link": "https://cyprus-mail.com/2026/08/29/federer-embraces-hall-of-fame-moment-and-reflects-on-legacy-beyond-titles",
+      "title": "Power grid battered as storms sweep through region",
+      "link": "https://cyprus-mail.com/2026/08/29/power-grid-battered-as-storms-sweep-through-region",
       "summary": ""
     },
     {
-      "title": "Lightning sparks fire and power cut in Avgorou as storms hit Cyprus",
-      "link": "https://en.philenews.com/local/lightning-fire-power-cut-avgorou-cyprus-storms-2/",
+      "title": "Russian drone strike sparks deadly fire and explosions at explosives storage site near Kyiv",
+      "link": "https://en.philenews.com/international/russian-drone-strike-explosives-storage-fire-kyiv/",
       "summary": ""
     },
     {
-      "title": "Doubles for Haaland, Cherki as Man City cruise to  win over Palace",
-      "link": "https://cyprus-mail.com/2026/08/29/doubles-for-haaland-cherki-as-man-city-cruise-to-win-over-palace",
+      "title": "Liverpool agree £123m deal for PSG’s Barcola",
+      "link": "https://cyprus-mail.com/2026/08/29/liverpool-agree-123m-deal-for-psgs-barcola",
       "summary": ""
     },
     {
-      "title": "Lightning sparks fire and power cut in Avgorou as severe storms hit Cyprus (Videos)",
-      "link": "https://en.philenews.com/local/lightning-fire-power-cut-avgorou-cyprus-storms/",
+      "title": "Around 10 storm-related incidents reported in Nicosia district",
+      "link": "https://en.philenews.com/local/nicosia-storm-incidents-fallen-trees-lightning-fires/",
       "summary": ""
     },
     {
-      "title": "Trump says US is taking partial control of Venezuela’s vast oil reserves",
-      "link": "https://cyprus-mail.com/2026/08/29/trump-says-us-is-taking-partial-control-of-venezuelas-vast-oil-reserves",
+      "title": "Two arrested over drug find in Paphos",
+      "link": "https://cyprus-mail.com/2026/08/29/two-arrested-over-drug-find-in-paphos",
       "summary": ""
     }
   ],
@@ -50,6 +50,11 @@
     {
       "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
       "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
@@ -66,11 +71,6 @@
       "title": "Norway mourns King Harald as Haakon VIII ascends throne",
       "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
       "summary": ""
-    },
-    {
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-      "summary": ""
     }
   ],
   "discovery": {
@@ -79,5 +79,5 @@
     "summary": "As many cities developed, streams that once flowed on the surface were buried underground to make way for growing infrastructure. However, as heavier rainfall, extreme weather and aging infrastructure place growing pressure on cities, these buried streams could become part of the solution.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-29T08:46:00.518Z"
+  "generated_at": "2026-08-29T09:53:06.081Z"
 }
