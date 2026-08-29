@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-28",
+      "date": "2026-08-29",
+      "code": 80,
+      "max": 29,
+      "min": 24,
+      "desc": "Light showers",
+      "icon": "🌦️",
+      "masthead": "Passing showers"
+    },
+    "tomorrow": {
+      "date": "2026-08-30",
       "code": 3,
-      "max": 33,
+      "max": 34,
       "min": 24,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
-    },
-    "tomorrow": {
-      "date": "2026-08-29",
-      "code": 95,
-      "max": 29,
-      "min": 25,
-      "desc": "Thunderstorms",
-      "icon": "⛈️",
-      "masthead": "Stormy weather"
     }
   },
   "local": [
     {
-      "title": "Pafos FC to host Hearts, travel to Atalanta in Conference League",
-      "link": "https://cyprus-mail.com/2026/08/28/pafos-fc-to-host-hearts-travel-to-atalanta-in-conference-league",
+      "title": "Federer embraces Hall of Fame moment and reflects on legacy beyond titles",
+      "link": "https://cyprus-mail.com/2026/08/29/federer-embraces-hall-of-fame-moment-and-reflects-on-legacy-beyond-titles",
       "summary": ""
     },
     {
-      "title": "One strike, three powers: the new Israel–Türkiye tension in Syria",
-      "link": "https://en.philenews.com/international/israel-turkiye-tensions-syria-abu-al-duhur-strike/",
+      "title": "Lightning sparks fire and power cut in Avgorou as storms hit Cyprus",
+      "link": "https://en.philenews.com/local/lightning-fire-power-cut-avgorou-cyprus-storms-2/",
       "summary": ""
     },
     {
-      "title": "Limassol to expand CCTV installations to combat crime",
-      "link": "https://cyprus-mail.com/2026/08/28/limassol-to-expand-cctv-installations-to-combat-crime",
+      "title": "Doubles for Haaland, Cherki as Man City cruise to  win over Palace",
+      "link": "https://cyprus-mail.com/2026/08/29/doubles-for-haaland-cherki-as-man-city-cruise-to-win-over-palace",
       "summary": ""
     },
     {
-      "title": "Orange warning for storms issued as temperatures to plunge 10 degrees",
-      "link": "https://en.philenews.com/local/orange-warning-for-storms-issued-as-temperatures-plunge-10-degrees/",
+      "title": "Lightning sparks fire and power cut in Avgorou as severe storms hit Cyprus (Videos)",
+      "link": "https://en.philenews.com/local/lightning-fire-power-cut-avgorou-cyprus-storms/",
       "summary": ""
     },
     {
-      "title": "Municipalities warn over pay-as-you-throw funding gaps",
-      "link": "https://cyprus-mail.com/2026/08/28/municipalities-warn-over-pay-as-you-throw-funding-gaps",
+      "title": "Trump says US is taking partial control of Venezuela’s vast oil reserves",
+      "link": "https://cyprus-mail.com/2026/08/29/trump-says-us-is-taking-partial-control-of-venezuelas-vast-oil-reserves",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
-      "link": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump signs order to rename Lake Ontario as Lake America",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+      "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "World's youngest reigning traditional monarch dies aged 34",
-      "link": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
+      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
+      "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Dutch court sentences man to life over Rwanda genocide",
-      "link": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss",
+      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+      "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Self-blinking 'fairy lights' allow DNA to be imaged at almost double-helix-width resolution",
-    "link": "https://phys.org/news/2026-08-fairy-dna-imaged-helix-width.html",
-    "summary": "Researchers have developed fluorescent molecules that permit imaging of how DNA is packaged inside living cells at unprecedented resolution and, in preserved cells, at a resolution close to the width of the double helix itself.",
+    "title": "Many cities buried urban streams. Here's how to bring them back",
+    "link": "https://phys.org/news/2026-08-cities-urban-streams.html",
+    "summary": "As many cities developed, streams that once flowed on the surface were buried underground to make way for growing infrastructure. However, as heavier rainfall, extreme weather and aging infrastructure place growing pressure on cities, these buried streams could become part of the solution.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-28T15:10:54.655Z"
+  "generated_at": "2026-08-29T08:46:00.518Z"
 }
