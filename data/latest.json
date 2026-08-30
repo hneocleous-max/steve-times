@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-29",
-      "code": 80,
-      "max": 29,
-      "min": 24,
-      "desc": "Light showers",
-      "icon": "🌦️",
-      "masthead": "Passing showers"
-    },
-    "tomorrow": {
       "date": "2026-08-30",
       "code": 2,
-      "max": 34,
-      "min": 25,
+      "max": 33,
+      "min": 23,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
+    },
+    "tomorrow": {
+      "date": "2026-08-31",
+      "code": 2,
+      "max": 33,
+      "min": 23,
       "desc": "Partly cloudy",
       "icon": "⛅",
       "masthead": "Fair skies"
@@ -21,28 +21,28 @@
   },
   "local": [
     {
-      "title": "Power grid battered as storms sweep through region",
-      "link": "https://cyprus-mail.com/2026/08/29/power-grid-battered-as-storms-sweep-through-region",
+      "title": "Erdogan extends wishes to Turkish Cypriots on Turkey’s Victory Day",
+      "link": "https://cyprus-mail.com/2026/08/30/erdogan-extends-wishes-to-turkish-cypriots-on-turkeys-victory-day",
       "summary": ""
     },
     {
-      "title": "Russian drone strike sparks deadly fire and explosions at explosives storage site near Kyiv",
-      "link": "https://en.philenews.com/international/russian-drone-strike-explosives-storage-fire-kyiv/",
+      "title": "Dimi Mavropoulos saved his daughter before he was swept away in Cape Greco tragedy, friend says",
+      "link": "https://en.philenews.com/local/cape-greco-tragedy-dimi-mavropoulos-saved-daughter-final-moments/",
       "summary": ""
     },
     {
-      "title": "Liverpool agree £123m deal for PSG’s Barcola",
-      "link": "https://cyprus-mail.com/2026/08/29/liverpool-agree-123m-deal-for-psgs-barcola",
+      "title": "How Cyprus is becoming a base for exporting senior data expertise",
+      "link": "https://cyprus-mail.com/2026/08/30/how-cyprus-is-becoming-a-base-for-exporting-senior-data-expertise",
       "summary": ""
     },
     {
-      "title": "Around 10 storm-related incidents reported in Nicosia district",
-      "link": "https://en.philenews.com/local/nicosia-storm-incidents-fallen-trees-lightning-fires/",
+      "title": "One dead, several injured, in Swiss shooting incident, police say",
+      "link": "https://en.philenews.com/international/one-dead-several-injured-in-swiss-shooting-incident-police-say/",
       "summary": ""
     },
     {
-      "title": "Two arrested over drug find in Paphos",
-      "link": "https://cyprus-mail.com/2026/08/29/two-arrested-over-drug-find-in-paphos",
+      "title": "Today’s weather: Calm after the storm",
+      "link": "https://cyprus-mail.com/2026/08/30/todays-weather-calm-after-the-storm",
       "summary": ""
     }
   ],
@@ -53,31 +53,31 @@
       "summary": ""
     },
     {
-      "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
+      "title": "Manhunt after one killed and five injured in Swiss shooting, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
       "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "title": "Iceland EU referendum on a knife edge as counting continues",
+      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-      "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-      "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+      "title": "WhatsApp chat used to send cash for crime and extremism",
+      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Many cities buried urban streams. Here's how to bring them back",
-    "link": "https://phys.org/news/2026-08-cities-urban-streams.html",
-    "summary": "As many cities developed, streams that once flowed on the surface were buried underground to make way for growing infrastructure. However, as heavier rainfall, extreme weather and aging infrastructure place growing pressure on cities, these buried streams could become part of the solution.",
+    "title": "Scientists melted a diamond and cracked a secret of ice giants",
+    "link": "https://phys.org/news/2026-08-scientists-diamond-secret-ice-giants.html",
+    "summary": "Some of the strangest weather in the solar system doesn't happen on Earth or even in Jupiter's Great Red Spot—it happens in the interiors of ice giants like Neptune and Uranus. Specifically, scientists have long believed that, at certain pressures and temperatures, it literally rains diamonds inside these planets. For the first time, scientists have mimicked the process they believe creates this phenomenon.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-29T09:53:06.081Z"
+  "generated_at": "2026-08-30T08:03:14.384Z"
 }
