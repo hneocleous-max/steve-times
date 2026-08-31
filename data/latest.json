@@ -1,16 +1,16 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-30",
-      "code": 2,
+      "date": "2026-08-31",
+      "code": 1,
       "max": 33,
       "min": 23,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
+      "desc": "Mainly clear",
+      "icon": "🌤️",
+      "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "code": 2,
       "max": 33,
       "min": 23,
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Man arrested after lighting lighter at petrol station",
-      "link": "https://cyprus-mail.com/2026/08/30/man-arrested-after-lighting-lighter-at-petrol-station",
+      "title": "Kesidis wins gold for Cyprus, bronze for table tennis team",
+      "link": "https://cyprus-mail.com/2026/08/31/kesidis-wins-gold-for-cyprus-bronze-for-table-tennis-team",
       "summary": ""
     },
     {
-      "title": "Why Cyprus electricity prices remain high despite renewables growth and energy reforms",
-      "link": "https://en.philenews.com/insider/cyprus-electricity-prices-renewables-storage-natural-gas-explained/",
+      "title": "Nepal teams seek hundreds trapped in hydropower tunnels after deadly floods",
+      "link": "https://en.philenews.com/international/nepal-teams-seek-hundreds-trapped-in-hydropower-tunnels-after-deadly-floods/",
       "summary": ""
     },
     {
-      "title": "19-year-old female arrested after trying to set car on fire",
-      "link": "https://cyprus-mail.com/2026/08/30/19-year-old-female-arrested-after-trying-to-set-car-on-fire",
+      "title": "Greece to sign $3.5 billion deal with Israel for air defence system",
+      "link": "https://cyprus-mail.com/2026/08/31/greece-to-sign-3-5-billion-deal-with-israel-for-air-defence-system",
       "summary": ""
     },
     {
-      "title": "Mavropoulos tragedy: Partner remains in hospital as police investigate Cape Greco boat disaster",
-      "link": "https://en.philenews.com/local/cape-greco-tragedy-police-investigate-mavropoulos-boat-death/",
+      "title": "Iran dismisses Trump’s post of attack on key energy hub of Kharg",
+      "link": "https://en.philenews.com/international/iran-dismisses-trumps-post-of-attack-on-key-energy-hub-of-kharg/",
       "summary": ""
     },
     {
-      "title": "Christodoulides: No to measures which normalise the current illegal state of affairs",
-      "link": "https://cyprus-mail.com/2026/08/30/christodoulides-no-to-measures-which-normalise-the-current-illegal-state-of-affairs",
+      "title": "Alcaraz and Sabalenka launch bids to retain US Open crowns",
+      "link": "https://cyprus-mail.com/2026/08/31/alcaraz-and-sabalenka-launch-bids-to-retain-us-open-crowns",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "title": "US and Iran trade strikes for first time in weeks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
+      "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "One dead and several missing after 'terrifying' flash flooding hits Grand Canyon",
+      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Iceland votes against restarting EU membership talks",
+      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
       "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
       "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
       "summary": ""
-    },
-    {
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Iceland on track to reject EU referendum as counting nears end",
-      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "WhatsApp chat used to send cash for crime and extremism",
-      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-      "summary": ""
     }
   ],
   "discovery": {
-    "title": "Scientists melted a diamond and cracked a secret of ice giants",
-    "link": "https://phys.org/news/2026-08-scientists-diamond-secret-ice-giants.html",
-    "summary": "Some of the strangest weather in the solar system doesn't happen on Earth or even in Jupiter's Great Red Spot—it happens in the interiors of ice giants like Neptune and Uranus. Specifically, scientists have long believed that, at certain pressures and temperatures, it literally rains diamonds inside these planets. For the first time, scientists have mimicked the process they believe creates this phenomenon.",
+    "title": "Grand Canyon flash flood leaves one dead, around 15 missing",
+    "link": "https://phys.org/news/2026-08-grand-canyon-dead.html",
+    "summary": "At least one person was killed and about 15 others were missing after a flash flood at the Grand Canyon, one of the most popular tourist sites in the United States, the National Park Service said in a statement Sunday.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-30T09:04:19.391Z"
+  "generated_at": "2026-08-31T08:20:25.521Z"
 }
