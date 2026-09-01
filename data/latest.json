@@ -1,7 +1,7 @@
 {
   "weather": {
     "today": {
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "code": 1,
       "max": 33,
       "min": 23,
@@ -10,74 +10,74 @@
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-09-01",
-      "code": 2,
+      "date": "2026-09-02",
+      "code": 0,
       "max": 33,
       "min": 23,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
+      "desc": "Clear skies",
+      "icon": "☀️",
+      "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "How four ERA stores changed hands for €1",
-      "link": "https://cyprus-mail.com/2026/08/31/how-four-era-stores-changed-hands-for-e1",
+      "title": "IKEA Cyprus plans price cuts as parent retailer targets cash-strapped shoppers",
+      "link": "https://cyprus-mail.com/2026/09/01/ikea-cyprus-plans-price-cuts-as-parent-retailer-targets-cash-strapped-shoppers",
       "summary": ""
     },
     {
-      "title": "Two fire outbreaks near Cape Greco extinguished by passing citizens",
-      "link": "https://en.philenews.com/local/thalassines-spilies-fire-extinguished-citizens/",
+      "title": "Pension reform: Thursday is the day for the 12% penalty, here’s what to expect",
+      "link": "https://en.philenews.com/insider/cyprus-pension-reform-12-percent-penalty-costing-thursday/",
       "summary": ""
     },
     {
-      "title": "Police book 550 for distracted driving",
-      "link": "https://cyprus-mail.com/2026/08/31/police-book-550-for-distracted-driving",
+      "title": "Ex-gang leader found guilty of murder in Tupac case",
+      "link": "https://cyprus-mail.com/2026/09/01/ex-gang-leader-found-guilty-of-murder-in-tupac-case",
       "summary": ""
     },
     {
-      "title": "Music by Moonlight: Acclaimed Italian Orchestra makes its debut in Cyprus",
-      "link": "https://en.philenews.com/whats-on/music-by-moonlight-acclaimed-italian-orchestra-makes-its-debut-in-cyprus/",
+      "title": "CY-Alert: why Saturday’s warning came after the storms began, and what to do if yours didn’t sound",
+      "link": "https://en.philenews.com/local/civil-defence-cy-alert-flood-warning-timing-explained/",
       "summary": ""
     },
     {
-      "title": "‘Music by Moonlight’: acclaimed Italian orchestra to make Cyprus debut at Minthis",
-      "link": "https://cyprus-mail.com/2026/08/31/music-by-moonlight-acclaimed-italian-orchestra-to-make-cyprus-debut-at-minthis",
+      "title": "Oil prices rise as US-Iran clashes reignite supply disruption fears",
+      "link": "https://cyprus-mail.com/2026/09/01/oil-prices-rise-as-us-iran-clashes-reignite-supply-disruption-fears",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "US and Iran trade strikes for first time in weeks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+      "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "'Moonies' church leader jailed for two years over bribery offences",
-      "link": "https://www.bbc.co.uk/news/articles/c8xkqjdk142o?at_medium=RSS&at_campaign=rss",
+      "title": "Nepal death toll nears 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
-      "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "title": "How catastrophic flash flood unfolded at remote Nepal-China border point",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Dolly Parton laid to rest alongside husband in Nashville",
-      "link": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+      "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
-      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Not tiger, not wolf: Australian thylacine skull reveals a far different hunting style",
-    "link": "https://phys.org/news/2026-08-tiger-wolf-australian-thylacine-skull.html",
-    "summary": "A new study led by Flinders University has flipped the historical narrative about Australia's thylacine, finding the native apex predator known as the \"Tasmanian tiger\" was significantly different from the wolves and wild dogs it was likened to before being hunted to extinction.",
+    "title": "Higher cutting could reduce annual bluegrass contamination in tall fescue seed",
+    "link": "https://phys.org/news/2026-08-higher-annual-bluegrass-contamination-tall.html",
+    "summary": "Harvesting tall fescue above annual bluegrass seed heads could help reduce contamination and seed-cleaning costs. Preliminary Oregon research found that cutting at 28 centimeters (11 inches) rather than 5 centimeters (2 inches) reduced annual bluegrass collected with the crop without consistently reducing tall fescue seed yield.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-08-31T09:32:15.286Z"
+  "generated_at": "2026-09-01T07:29:18.068Z"
 }
