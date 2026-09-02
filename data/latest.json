@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-01",
-      "code": 1,
-      "max": 33,
-      "min": 23,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
-    },
-    "tomorrow": {
       "date": "2026-09-02",
       "code": 0,
       "max": 33,
@@ -17,67 +8,76 @@
       "desc": "Clear skies",
       "icon": "☀️",
       "masthead": "Fine weather"
+    },
+    "tomorrow": {
+      "date": "2026-09-03",
+      "code": 1,
+      "max": 33,
+      "min": 24,
+      "desc": "Mainly clear",
+      "icon": "🌤️",
+      "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "Frou-Frou board to review half-year results later this month",
-      "link": "https://cyprus-mail.com/2026/09/01/frou-frou-board-to-review-half-year-results-later-this-month",
+      "title": "Hopes of finding survivors dim a week after catastrophic Nepal flood",
+      "link": "https://cyprus-mail.com/2026/09/02/hopes-of-finding-survivors-dim-a-week-after-catastrophic-nepal-flood",
       "summary": ""
     },
     {
-      "title": "Trump vows to hit Iran hard after first exchanges of fire in a month",
-      "link": "https://en.philenews.com/international/trump-vows-to-hit-iran-hard-after-first-exchanges-of-fire-in-a-month/",
+      "title": "Two Turkish-flagged commercial vessels collide off Istanbul, governor’s office says",
+      "link": "https://en.philenews.com/international/two-turkish-flagged-commercial-vessels-collide-off-istanbul-governors-office-says/",
       "summary": ""
     },
     {
-      "title": "Ellinas Finance announces board approval for compliance role",
-      "link": "https://cyprus-mail.com/2026/09/01/ellinas-finance-announces-board-approval-for-compliance-role",
+      "title": "Two Turkish-flagged commercial vessels collide off Istanbul, governor’s office says",
+      "link": "https://cyprus-mail.com/2026/09/02/two-turkish-flagged-commercial-vessels-collide-off-istanbul-governors-office-says",
       "summary": ""
     },
     {
-      "title": "On this day: an earthquake struck Japan, killing at least 142,000 people in 1923",
-      "link": "https://en.philenews.com/international/on-this-day-an-earthquake-struck-japan-killing-at-least-142000-people-in-1923/",
+      "title": "US and Iran exchange attacks as lull in war appears over",
+      "link": "https://en.philenews.com/international/us-and-iran-exchange-attacks-as-lull-in-war-appears-over/",
       "summary": ""
     },
     {
-      "title": "Questions raised over Kyrenia ferry captain’s licence, boat’s safety certificate",
-      "link": "https://cyprus-mail.com/2026/09/01/questions-raised-over-kyrenia-ferry-captains-licence-boats-safety-certificate",
+      "title": "Cyprus: Spending tomorrow-today",
+      "link": "https://cyprus-mail.com/2026/09/02/cyprus-spending-tomorrow-today",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-      "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+      "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+      "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "How catastrophic flash flood unfolded at remote Nepal-China border point",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
+      "title": "Israel expanding presence in Lebanon, officials say, as BBC visits occupied areas",
+      "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
-      "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+      "title": "South Korea jails disabled care home head for sexually assaulting residents",
+      "link": "https://www.bbc.co.uk/news/articles/cn74vzl52l4o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+      "title": "Bus crash on Egypt's Red Sea coast kills 16",
+      "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Higher cutting could reduce annual bluegrass contamination in tall fescue seed",
-    "link": "https://phys.org/news/2026-08-higher-annual-bluegrass-contamination-tall.html",
-    "summary": "Harvesting tall fescue above annual bluegrass seed heads could help reduce contamination and seed-cleaning costs. Preliminary Oregon research found that cutting at 28 centimeters (11 inches) rather than 5 centimeters (2 inches) reduced annual bluegrass collected with the crop without consistently reducing tall fescue seed yield.",
+    "title": "Scientists discover the key ingredients that make birdsong pretty",
+    "link": "https://phys.org/news/2026-08-scientists-key-ingredients-birdsong-pretty.html",
+    "summary": "What makes birdsong beautiful? Answering this question could help us understand how soundscapes make the natural world relaxing for humans, opening the door to improving parks, upgrading the design of stressful places like waiting rooms and promoting conservation through birds with especially lovely songs.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-01T08:28:56.536Z"
+  "generated_at": "2026-09-02T06:56:00.268Z"
 }
