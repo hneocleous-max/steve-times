@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-02",
-      "code": 0,
-      "max": 33,
-      "min": 23,
-      "desc": "Clear skies",
-      "icon": "☀️",
-      "masthead": "Fine weather"
-    },
-    "tomorrow": {
       "date": "2026-09-03",
       "code": 1,
       "max": 33,
@@ -17,67 +8,76 @@
       "desc": "Mainly clear",
       "icon": "🌤️",
       "masthead": "Fine weather"
+    },
+    "tomorrow": {
+      "date": "2026-09-04",
+      "code": 2,
+      "max": 32,
+      "min": 23,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "The European Union Health Data Space: Unlocking the value of e- Health Data through responsible governance",
-      "link": "https://cyprus-mail.com/2026/09/02/the-european-union-health-data-space-unlocking-the-value-of-e-health-data-through-responsible-governance",
+      "title": "British bases’ police pledge to crack down on illegal hunting",
+      "link": "https://cyprus-mail.com/2026/09/03/british-bases-police-pledge-to-crack-down-on-illegal-hunting",
       "summary": ""
     },
     {
-      "title": "Christodoulides offers condolences over Famagusta, Kyrenia deaths",
-      "link": "https://en.philenews.com/local/christodoulides-condolences-cape-greco-kyrenia/",
+      "title": "Education ministry support staff march on Presidential Palace today over rights",
+      "link": "https://en.philenews.com/local/education-ministry-support-staff-protest-march-presidential-palace/",
       "summary": ""
     },
     {
-      "title": "Denmark deploys conscripts to Greenland amid Trump pressure",
-      "link": "https://cyprus-mail.com/2026/09/02/denmark-deploys-conscripts-to-greenland-amid-trump-pressure",
+      "title": "Cyprus sends condolences to Egypt, Jordan after Sinai bus crash kills 22",
+      "link": "https://cyprus-mail.com/2026/09/03/cyprus-sends-condolences-to-egypt-jordan-after-sinai-bus-crash-kills-22",
       "summary": ""
     },
     {
-      "title": "Turkish ships join effort to recover Kyrenia shipwreck victims",
-      "link": "https://en.philenews.com/local/kyrenia-shipwreck-turkish-ships-recovery-operation/",
+      "title": "Trump suggests renaming Strait of Hormuz after himself amid Iran war",
+      "link": "https://en.philenews.com/international/trump-rename-strait-hormuz-trump-strait-iran-war/",
       "summary": ""
     },
     {
-      "title": "Christodoulides offers condolences over sunken ships",
-      "link": "https://cyprus-mail.com/2026/09/02/christodoulides-offers-condolences-over-sunken-ships",
+      "title": "Today’s weather: Clear morning, stormy afternoon",
+      "link": "https://cyprus-mail.com/2026/09/03/todays-weather-clear-morning-stormy-afternoon",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
-      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+      "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
-      "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Why do US troops have history with this Thai city?",
-      "link": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
+      "title": "Could Lindsay Clancy trial end in a mistrial? Here are the jury's options",
+      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "South Korea jails care home head for sexually assaulting disabled residents",
-      "link": "https://www.bbc.co.uk/news/articles/cn74vzl52l4o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Global warming will exceed limit, UN says in a report that maps path to get back below danger zone",
-    "link": "https://phys.org/news/2026-09-global-exceed-limit-path-danger.html",
-    "summary": "In a strategic retreat in the fight against climate change, the United Nations has acknowledged that Earth has lost its chance to prevent some of the worst of global warming's harms. So now the world must figure out how to get temperatures below the danger zone and back to safety, officials say.",
+    "title": "Biodegradable 'nanobone' could one day help regrow bone without painful grafts",
+    "link": "https://phys.org/news/2026-09-biodegradable-nanobone-day-regrow-bone.html",
+    "summary": "For children born with cleft lip and palate, repairing gaps in the jawbone often means waiting until they are 10 to 12 years old before undergoing invasive bone graft surgery. University of Sydney researchers have developed a biodegradable \"nanobone\" material that allows the body to harness its own healing properties to regrow bone, offering a potential future alternative to procedures that have changed little in more than 50 years.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-02T07:46:33.662Z"
+  "generated_at": "2026-09-03T06:59:40.799Z"
 }
