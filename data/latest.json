@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-03",
-      "code": 1,
-      "max": 33,
-      "min": 24,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
-    },
-    "tomorrow": {
       "date": "2026-09-04",
       "code": 2,
       "max": 32,
@@ -17,67 +8,76 @@
       "desc": "Partly cloudy",
       "icon": "⛅",
       "masthead": "Fair skies"
+    },
+    "tomorrow": {
+      "date": "2026-09-05",
+      "code": 2,
+      "max": 32,
+      "min": 25,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "Tiger Woods loses driver’s license for five years in plea deal, avoids jail time",
-      "link": "https://cyprus-mail.com/2026/09/03/tiger-woods-loses-drivers-license-for-five-years-in-plea-deal-avoids-jail-time",
+      "title": "What to do in Paphos in the first two weeks of September",
+      "link": "https://cyprus-mail.com/2026/09/04/what-to-do-in-paphos-in-the-first-two-weeks-of-september",
       "summary": ""
     },
     {
-      "title": "Up to 70 people may be wrongly listed as 1974 POWs, association says",
-      "link": "https://en.philenews.com/local/cyprus-1974-war-prisoners-list-fraud-claims-audit/",
+      "title": "Four-car collision closes lane at Polemidia roundabout",
+      "link": "https://en.philenews.com/local/polemidia-roundabout-collision-lane-closed-nicosia/",
       "summary": ""
     },
     {
-      "title": "Ten arrested in nationwide police checks",
-      "link": "https://cyprus-mail.com/2026/09/03/ten-arrested-in-nationwide-police-checks",
+      "title": "Cyprus sees fourth-highest EU rise in industrial producer prices",
+      "link": "https://cyprus-mail.com/2026/09/04/cyprus-sees-fourth-highest-eu-rise-in-industrial-producer-prices",
       "summary": ""
     },
     {
-      "title": "This is what the new Limassol Zoo proposal includes",
-      "link": "https://en.philenews.com/local/limassol-zoo-revised-proposal-council-armeftis/",
+      "title": "Costa meets Christodoulides in Nicosia over budget and Cyprus talks",
+      "link": "https://en.philenews.com/politics/costa-christodoulides-nicosia-eu-budget-cyprus-problem/",
       "summary": ""
     },
     {
-      "title": "Ninth body from Kyrenia ferry wreck identified, rescue efforts continue",
-      "link": "https://cyprus-mail.com/2026/09/03/ninth-body-from-kyrenia-ferry-wreck-identified-rescue-efforts-continue",
+      "title": "The Landmark Nicosia unveils its first stunning display residence",
+      "link": "https://cyprus-mail.com/2026/09/04/the-landmark-nicosia-unveils-its-first-stunning-display-residence",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+      "title": "Nepal says it will need billions in funding to rebuild after flash floods",
+      "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
-      "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+      "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
+      "link": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+      "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Could Lindsay Clancy trial end in a mistrial? Here are the jury's options",
-      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
+      "title": "US investigating if missile hit Iran wedding, Vance says",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+      "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Biodegradable 'nanobone' could one day help regrow bone without painful grafts",
-    "link": "https://phys.org/news/2026-09-biodegradable-nanobone-day-regrow-bone.html",
-    "summary": "For children born with cleft lip and palate, repairing gaps in the jawbone often means waiting until they are 10 to 12 years old before undergoing invasive bone graft surgery. University of Sydney researchers have developed a biodegradable \"nanobone\" material that allows the body to harness its own healing properties to regrow bone, offering a potential future alternative to procedures that have changed little in more than 50 years.",
+    "title": "Your house may be a haven for wildlife. It's time we design homes with nature in mind",
+    "link": "https://phys.org/news/2026-09-house-haven-wildlife-homes-nature.html",
+    "summary": "Ever found a bare-nosed wombat napping under your house or heard a possum thumping around in your attic?",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-03T07:55:11.954Z"
+  "generated_at": "2026-09-04T07:03:46.036Z"
 }
