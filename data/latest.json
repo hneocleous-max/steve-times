@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-04",
-      "code": 2,
+      "date": "2026-09-05",
+      "code": 45,
       "max": 32,
-      "min": 23,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
+      "min": 24,
+      "desc": "Foggy",
+      "icon": "🌫️",
+      "masthead": "Fog about"
     },
     "tomorrow": {
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "code": 2,
-      "max": 32,
-      "min": 25,
+      "max": 33,
+      "min": 24,
       "desc": "Partly cloudy",
       "icon": "⛅",
       "masthead": "Fair skies"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Fire in Liopetri started by child’s carelessness",
-      "link": "https://cyprus-mail.com/2026/09/04/fire-in-liopetri-started-by-childs-carelessness",
+      "title": "ECB expected to raise rates in September for final time",
+      "link": "https://cyprus-mail.com/2026/09/05/ecb-expected-to-raise-rates-in-september-for-final-time",
       "summary": ""
     },
     {
-      "title": "State does not control 80% of Cyprus electricity bill",
-      "link": "https://en.philenews.com/insider/state-cannot-control-80-percent-cyprus-electricity-bill/",
+      "title": "Elderly man critical after Nicosia collision",
+      "link": "https://en.philenews.com/local/79-year-old-critical-nicosia-traffic-collision/",
       "summary": ""
     },
     {
-      "title": "Barcola arrival boosts Liverpool as Iraola seeks first league win",
-      "link": "https://cyprus-mail.com/2026/09/04/barcola-arrival-boosts-liverpool-as-iraola-seeks-first-league-win",
+      "title": "US newspapers sue OpenAI, Microsoft, alleging copyright infringement",
+      "link": "https://cyprus-mail.com/2026/09/05/us-newspapers-sue-openai-microsoft-alleging-copyright-infringement",
       "summary": ""
     },
     {
-      "title": "Four-car collision closes lane at Polemidia roundabout",
-      "link": "https://en.philenews.com/local/polemidia-roundabout-collision-lane-closed-nicosia/",
+      "title": "Things to do on Saturday, September 5",
+      "link": "https://en.philenews.com/whats-on/things-to-do-on-saturday-september-5/",
       "summary": ""
     },
     {
-      "title": "Williams sisters return to Grand Slam action at US Open",
-      "link": "https://cyprus-mail.com/2026/09/04/williams-sisters-return-to-grand-slam-action-at-us-open",
+      "title": "Judge reinforces order barring immediate work on Trump arch in Washington",
+      "link": "https://cyprus-mail.com/2026/09/05/judge-reinforces-order-barring-immediate-work-on-trump-arch-in-washington",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Nepal says it will need billions in funding to rebuild after flash floods",
-      "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
+      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
-      "link": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
-      "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US investigating if missile hit Iran wedding, Vance says",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
-      "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+      "title": "At least two dead in blast at Bolivia military barracks",
+      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Your house may be a haven for wildlife. It's time we design homes with nature in mind",
-    "link": "https://phys.org/news/2026-09-house-haven-wildlife-homes-nature.html",
-    "summary": "Ever found a bare-nosed wombat napping under your house or heard a possum thumping around in your attic?",
+    "title": "Study reveals pupils most at risk of school suspension and what may help them",
+    "link": "https://phys.org/news/2026-09-reveals-pupils-school-suspension.html",
+    "summary": "School suspensions are associated with a complex combination of socioeconomic disadvantage, special educational needs, peer relationships and students' experiences of school, according to new research from The University of Manchester.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-04T07:51:01.866Z"
+  "generated_at": "2026-09-05T06:47:43.026Z"
 }
