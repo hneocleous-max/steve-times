@@ -21,8 +21,18 @@
   },
   "local": [
     {
-      "title": "US, Iranian forces fire at vessels in waters near Iran",
-      "link": "https://cyprus-mail.com/2026/09/06/us-iranian-forces-fire-at-vessels-in-waters-near-iran",
+      "title": "Financial firms face AI workforce gap as job cuts loom",
+      "link": "https://cyprus-mail.com/2026/09/06/financial-firms-face-ai-workforce-gap-as-job-cuts-loom",
+      "summary": ""
+    },
+    {
+      "title": "Alliances become new battleground in DISY presidential race",
+      "link": "https://en.philenews.com/politics/disy-presidential-race-alliances-averof-annita/",
+      "summary": ""
+    },
+    {
+      "title": "Armoured limousine purchase currently merely a proposal",
+      "link": "https://cyprus-mail.com/2026/09/06/armoured-limousine-purchase-currently-merely-a-proposal",
       "summary": ""
     },
     {
@@ -31,18 +41,8 @@
       "summary": ""
     },
     {
-      "title": "Zverev eases into last 16, Gauff through but US Open turns sour for home hopes",
-      "link": "https://cyprus-mail.com/2026/09/06/zverev-eases-into-last-16-gauff-through-but-us-open-turns-sour-for-home-hopes",
-      "summary": ""
-    },
-    {
-      "title": "Public service hiring overhaul targets two-year recruitment delays",
-      "link": "https://en.philenews.com/local/cyprus-public-service-hiring-overhaul-2027/",
-      "summary": ""
-    },
-    {
-      "title": "Indonesia’s Anak Krakatau eruption halts flights, schools, fishing",
-      "link": "https://cyprus-mail.com/2026/09/06/indonesias-anak-krakatau-eruption-halts-flights-schools-fishing",
+      "title": "US, Iranian forces fire at vessels in waters near Iran",
+      "link": "https://cyprus-mail.com/2026/09/06/us-iranian-forces-fire-at-vessels-in-waters-near-iran",
       "summary": ""
     }
   ],
@@ -74,10 +74,10 @@
     }
   ],
   "discovery": {
-    "title": "Breaking through AlphaFold's limits to predict how proteins change shape",
-    "link": "https://phys.org/news/2026-09-alphafold-limits-proteins.html",
-    "summary": "Conformational changes in proteins are vital to their function yet remain challenging for state-of-the-art artificial intelligence, such as AlphaFold3, to predict. Researchers at the Institute for Molecular Science (IMS), and the Graduate University for Advanced Studies, SOKENDAI introduced a repulsive force between predicted structures, allowing AlphaFold3 to sample the multiple conformational states that its default settings rarely capture.",
+    "title": "Haze emergency grips Malaysian Borneo town",
+    "link": "https://phys.org/news/2026-09-haze-emergency-malaysian-borneo-town.html",
+    "summary": "Acrid smoke hung heavily over the Malaysian town of Serian, seeping into homes and cloaking roadside stalls, as residents navigated an air-quality emergency fueled by transboundary haze from Indonesia's raging fires.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-06T06:58:04.320Z"
+  "generated_at": "2026-09-06T07:46:51.188Z"
 }
