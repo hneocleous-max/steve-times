@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-06",
-      "code": 2,
-      "max": 33,
-      "min": 24,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-09-07",
       "code": 0,
-      "max": 35,
-      "min": 24,
+      "max": 36,
+      "min": 25,
       "desc": "Clear skies",
       "icon": "☀️",
+      "masthead": "Fine weather"
+    },
+    "tomorrow": {
+      "date": "2026-09-08",
+      "code": 1,
+      "max": 34,
+      "min": 25,
+      "desc": "Mainly clear",
+      "icon": "🌤️",
       "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "Financial firms face AI workforce gap as job cuts loom",
-      "link": "https://cyprus-mail.com/2026/09/06/financial-firms-face-ai-workforce-gap-as-job-cuts-loom",
+      "title": "The planning power that should stay local",
+      "link": "https://cyprus-mail.com/2026/09/07/the-planning-power-that-should-stay-local",
       "summary": ""
     },
     {
-      "title": "Alliances become new battleground in DISY presidential race",
-      "link": "https://en.philenews.com/politics/disy-presidential-race-alliances-averof-annita/",
+      "title": "Wildfire breaks out in Argaka, Paphos, strong forces respond",
+      "link": "https://en.philenews.com/local/wildfire-argaka-paphos-forest-monday/",
       "summary": ""
     },
     {
-      "title": "Armoured limousine purchase currently merely a proposal",
-      "link": "https://cyprus-mail.com/2026/09/06/armoured-limousine-purchase-currently-merely-a-proposal",
+      "title": "Israeli strikes on south Lebanon kill at least 11, including children",
+      "link": "https://cyprus-mail.com/2026/09/07/israeli-strikes-on-south-lebanon-kill-at-least-11-including-children",
       "summary": ""
     },
     {
-      "title": "Dollar rallies as oil surge revives rate-hike bets",
-      "link": "https://en.philenews.com/international/dollar-oil-surge-fed-rate-hike-september/",
+      "title": "Greece’s €3bn “Achilles Shield” deal opens new interoperability options with Cyprus",
+      "link": "https://en.philenews.com/insider/achilles-shield-greece-israel-cyprus-air-defence/",
       "summary": ""
     },
     {
-      "title": "US, Iranian forces fire at vessels in waters near Iran",
-      "link": "https://cyprus-mail.com/2026/09/06/us-iranian-forces-fire-at-vessels-in-waters-near-iran",
+      "title": "Honouring Cypriot women through music",
+      "link": "https://cyprus-mail.com/2026/09/07/honouring-cypriot-women-through-music",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+      "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
+      "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-      "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Haze emergency grips Malaysian Borneo town",
-    "link": "https://phys.org/news/2026-09-haze-emergency-malaysian-borneo-town.html",
-    "summary": "Acrid smoke hung heavily over the Malaysian town of Serian, seeping into homes and cloaking roadside stalls, as residents navigated an air-quality emergency fueled by transboundary haze from Indonesia's raging fires.",
+    "title": "Growing up socially isolated linked to young people becoming NEET",
+    "link": "https://phys.org/news/2026-09-socially-isolated-linked-young-people.html",
+    "summary": "About 1 million young people in the UK are not in education, employment or training (NEET). The consequences for their health and income can be significant and long-lasting, with costs to the economy as well.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-06T07:46:51.188Z"
+  "generated_at": "2026-09-07T07:08:34.628Z"
 }
