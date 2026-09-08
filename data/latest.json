@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "code": 0,
-      "max": 36,
-      "min": 25,
+      "max": 34,
+      "min": 26,
       "desc": "Clear skies",
       "icon": "☀️",
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "code": 1,
-      "max": 34,
-      "min": 25,
+      "max": 32,
+      "min": 23,
       "desc": "Mainly clear",
       "icon": "🌤️",
       "masthead": "Fine weather"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Eurobank repurchases over 1.1 million shares for €5.44 million",
-      "link": "https://cyprus-mail.com/2026/09/07/eurobank-repurchases-over-1-1-million-shares-for-e5-44-million",
+      "title": "Hip hop, electronic music stars join forces in Cyprus for first time",
+      "link": "https://cyprus-mail.com/2026/09/08/hip-hop-electronic-music-stars-join-forces-in-cyprus-for-first-time",
       "summary": ""
     },
     {
-      "title": "Israel’s Netanyahu orders removal of West Bank settler outposts, sources say",
-      "link": "https://en.philenews.com/international/israels-netanyahu-orders-removal-of-west-bank-settler-outposts-sources-say/",
+      "title": "Nine break-ins hit two Nicosia villages within hours",
+      "link": "https://en.philenews.com/local/nicosia-burglary-spree-pera-chorio-agia-varvara/",
       "summary": ""
     },
     {
-      "title": "S&P gives Freedom24 positive outlook on stronger capital and earnings",
-      "link": "https://cyprus-mail.com/2026/09/07/sp-gives-freedom24-positive-outlook-on-stronger-capital-and-earnings",
+      "title": "President promises €1.5m to cover agricultural costs",
+      "link": "https://cyprus-mail.com/2026/09/08/president-promises-e1-5m-to-cover-agricultural-costs",
       "summary": ""
     },
     {
-      "title": "At least 11 killed after avalanche hits climbers in Russia’s North Caucasus",
-      "link": "https://en.philenews.com/international/at-least-11-killed-after-avalanche-hits-climbers-in-russias-north-caucasus/",
+      "title": "Bill to legalise illegal boreholes, fines up to €3,000",
+      "link": "https://en.philenews.com/local/cyprus-illegal-boreholes-legalization-bill-fines/",
       "summary": ""
     },
     {
-      "title": "Bank of Cyprus highlights the lasting emotional toll of cybercrime",
-      "link": "https://cyprus-mail.com/2026/09/07/bank-of-cyprus-highlights-the-lasting-emotional-toll-of-cybercrime",
+      "title": "Mourinho not feeling pressure to win Champions League in second Real spell",
+      "link": "https://cyprus-mail.com/2026/09/08/mourinho-not-feeling-pressure-to-win-champions-league-in-second-real-spell",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Israeli strikes in southern Lebanese village kill 11, state media say",
-      "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+      "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+      "title": "Flight recorders recovered from Amazon cargo plane crash",
+      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Growing up socially isolated linked to young people becoming NEET",
-    "link": "https://phys.org/news/2026-09-socially-isolated-linked-young-people.html",
-    "summary": "About 1 million young people in the UK are not in education, employment or training (NEET). The consequences for their health and income can be significant and long-lasting, with costs to the economy as well.",
+    "title": "How beavers can help create fire breaks as part of a drought preparation plan",
+    "link": "https://phys.org/news/2026-09-beavers-drought.html",
+    "summary": "Most of the countryside around the Holnicote estate in Somerset has been dry and dusty for most of the summer. But one corner remains conspicuously green.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-07T08:06:35.434Z"
+  "generated_at": "2026-09-08T07:02:25.945Z"
 }
