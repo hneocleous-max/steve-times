@@ -1,16 +1,16 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-08",
-      "code": 0,
-      "max": 34,
-      "min": 26,
-      "desc": "Clear skies",
-      "icon": "☀️",
+      "date": "2026-09-09",
+      "code": 1,
+      "max": 32,
+      "min": 22,
+      "desc": "Mainly clear",
+      "icon": "🌤️",
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "code": 1,
       "max": 32,
       "min": 23,
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Shelton next up as Alcaraz tackles all-American gauntlet",
-      "link": "https://cyprus-mail.com/2026/09/08/shelton-next-up-as-alcaraz-tackles-all-american-gauntlet",
+      "title": "Festival to fill ancient Amathus with music",
+      "link": "https://cyprus-mail.com/2026/09/09/festival-to-fill-ancient-amathus-with-music",
       "summary": ""
     },
     {
-      "title": "Iceland summons US ambassador after Trump posts map showing island under American flag",
-      "link": "https://en.philenews.com/international/iceland-summons-us-ambassador-after-trump-posts-map-showing-island-under-american-flag/",
+      "title": "Nicosia Municipality sues over nuisance at former Othello cinema",
+      "link": "https://en.philenews.com/local/nicosia-municipality-lawsuit-othello-cinema-engomi/",
       "summary": ""
     },
     {
-      "title": "One injured in car crash under Rizoelia roundabout",
-      "link": "https://cyprus-mail.com/2026/09/08/one-injured-in-car-crash-under-rizoelia-roundabout",
+      "title": "2026 cloud mining platform recommendations: A beginner’s guide to Bitcoin Cloud Mining",
+      "link": "https://cyprus-mail.com/2026/09/09/2026-cloud-mining-platform-recommendations-a-beginners-guide-to-bitcoin-cloud-mining",
       "summary": ""
     },
     {
-      "title": "Iran-backed Houthis attack Saudi energy facilities, wounding dozens and sending oil prices higher",
-      "link": "https://en.philenews.com/international/iran-backed-houthis-attack-saudi-energy-facilities-wounding-dozens-and-sending-oil-prices-higher/",
+      "title": "Mavroyiannis weighs 2028 Cyprus presidential run, sources say",
+      "link": "https://en.philenews.com/politics/mavroyiannis-2028-presidential-bid-decision-year-end/",
       "summary": ""
     },
     {
-      "title": "Hip hop, electronic music stars join forces in Cyprus for first time",
-      "link": "https://cyprus-mail.com/2026/09/08/hip-hop-electronic-music-stars-join-forces-in-cyprus-for-first-time",
+      "title": "Limassol hosts Mediterranean shipping quartet as decarbonisation pressures grow",
+      "link": "https://cyprus-mail.com/2026/09/09/limassol-hosts-mediterranean-shipping-quartet-as-decarbonisation-pressures-grow",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-      "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Flight recorders recovered from Amazon cargo plane crash",
-      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+      "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
+      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+      "title": "South Park creators rename show 'South America' in apparent dig at Trump",
+      "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "How beavers can help create fire breaks as part of a drought preparation plan",
-    "link": "https://phys.org/news/2026-09-beavers-drought.html",
-    "summary": "Most of the countryside around the Holnicote estate in Somerset has been dry and dusty for most of the summer. But one corner remains conspicuously green.",
+    "title": "Calculative mindsets linked to greater willingness to bend moral rules",
+    "link": "https://phys.org/news/2026-09-mindsets-linked-greater-willingness-moral.html",
+    "summary": "In new research in the PsyCh Journal, people who tended to analyze experiences as mathematical cost-benefit problems were more likely to ignore moral rules. This tendency was associated with a greater willingness to make ethical compromises for money or status, as well as to accept immoral help when it benefited them.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-08T07:56:44.127Z"
+  "generated_at": "2026-09-09T07:11:50.553Z"
 }
