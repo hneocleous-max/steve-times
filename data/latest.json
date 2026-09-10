@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "code": 1,
-      "max": 32,
+      "max": 31,
       "min": 22,
       "desc": "Mainly clear",
       "icon": "🌤️",
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "code": 1,
       "max": 32,
-      "min": 23,
+      "min": 22,
       "desc": "Mainly clear",
       "icon": "🌤️",
       "masthead": "Fine weather"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Epic Street Festival donates €5,400 to Nicosia Municipality charitable foundation",
-      "link": "https://cyprus-mail.com/2026/09/09/epic-street-festival-donates-e5400-to-nicosia-municipality-charitable-foundation",
+      "title": "When a contract fails, the law steps in",
+      "link": "https://cyprus-mail.com/2026/09/10/when-a-contract-fails-the-law-steps-in",
       "summary": ""
     },
     {
-      "title": "On this day: Queen Elizabeth becomes the longest reigning monarch of the UK in 2015",
-      "link": "https://en.philenews.com/international/on-this-day-queen-elizabeth-becomes-the-longest-reigning-monarch-of-the-uk-in-2015/",
+      "title": "On this day: Switzerland became the 190th member of the United Nations in 2002",
+      "link": "https://en.philenews.com/international/on-this-day-switzerland-became-the-190th-member-of-the-united-nations-in-2002/",
       "summary": ""
     },
     {
-      "title": "Final decision not yet made in Kalogeropoulos murder case",
-      "link": "https://cyprus-mail.com/2026/09/09/final-decision-not-yet-made-in-kalogeropoulos-murder-case",
+      "title": "Woman arrested twice for violating court order in Peyia",
+      "link": "https://cyprus-mail.com/2026/09/10/woman-arrested-twice-for-violating-court-order-in-peyia",
       "summary": ""
     },
     {
-      "title": "British airport chaos disrupts flights to and from Cyprus (photos+videos)",
-      "link": "https://en.philenews.com/international/uk-airport-chaos-nats-fault-disrupts-cyprus-flights/",
+      "title": "MP warns underworld groups ‘have become emboldened’ in Cyprus",
+      "link": "https://en.philenews.com/local/charalambidou-underworld-extortion-claims-parliament/",
       "summary": ""
     },
     {
-      "title": "Where will your bowl take you? A culinary journey across Asia begins at wagamama",
-      "link": "https://cyprus-mail.com/2026/09/09/where-will-your-bowl-take-you-a-culinary-journey-across-asia-begins-at-wagamama",
+      "title": "Elderly man critically injured in road accident in Nicosia",
+      "link": "https://cyprus-mail.com/2026/09/10/elderly-man-critically-injured-in-road-accident-in-nicosia",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
-      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says every adult American would get $5,000 if Republicans win midterms",
+      "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
-      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "South Park creators rename show 'South America' in apparent dig at Trump",
-      "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
+      "title": "Google picks Finland for its largest single investment in Europe",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Calculative mindsets linked to greater willingness to bend moral rules",
-    "link": "https://phys.org/news/2026-09-mindsets-linked-greater-willingness-moral.html",
-    "summary": "In new research in the PsyCh Journal, people who tended to analyze experiences as mathematical cost-benefit problems were more likely to ignore moral rules. This tendency was associated with a greater willingness to make ethical compromises for money or status, as well as to accept immoral help when it benefited them.",
+    "title": "Timing 1080 drops to prevent predators bouncing back",
+    "link": "https://phys.org/news/2026-09-predators.html",
+    "summary": "While aerial 1080 drops sharply reduce numbers of rats and stoats, the predators—especially ship rats—can rebound to higher numbers within a few years. Studying 24 years of small-mammal tracking records across New Zealand's public conservation land, researchers found that the timing of these rebounds varies between regions.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-09T07:59:23.556Z"
+  "generated_at": "2026-09-10T07:08:10.670Z"
 }
