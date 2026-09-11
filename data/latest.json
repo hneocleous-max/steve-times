@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-10",
-      "code": 1,
-      "max": 31,
-      "min": 22,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
+      "date": "2026-09-11",
+      "code": 0,
+      "max": 32,
+      "min": 21,
+      "desc": "Clear skies",
+      "icon": "☀️",
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-09-11",
-      "code": 1,
-      "max": 32,
-      "min": 22,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
+      "date": "2026-09-12",
+      "code": 2,
+      "max": 31,
+      "min": 21,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "Fuel tax cut extended until end of November",
-      "link": "https://cyprus-mail.com/2026/09/10/fuel-tax-cut-extended-until-end-of-november",
+      "title": "What can a village tell us about Cyprus’ past?",
+      "link": "https://cyprus-mail.com/2026/09/11/what-can-a-village-tell-us-about-cyprus-past",
       "summary": ""
     },
     {
-      "title": "Nepal puts climate justice at centre of global pitch for flood aid",
-      "link": "https://en.philenews.com/international/nepal-puts-climate-justice-at-centre-of-global-pitch-for-flood-aid/",
+      "title": "Philippine firefighters enter charred ferry as search continues for dozens missing",
+      "link": "https://en.philenews.com/international/philippine-firefighters-enter-charred-ferry-as-search-continues-for-dozens-missing/",
       "summary": ""
     },
     {
-      "title": "UN denies report of Unficyp commander removal",
-      "link": "https://cyprus-mail.com/2026/09/10/un-denies-report-of-unficyp-commander-removal",
+      "title": "Two arrested in Ayia Napa for circulating counterfeit banknotes",
+      "link": "https://cyprus-mail.com/2026/09/11/two-arrested-in-ayia-napa-for-circulating-counterfeit-banknotes",
       "summary": ""
     },
     {
-      "title": "UN denies report Lt Gen Minhazul Alam is leaving UNFICYP",
-      "link": "https://en.philenews.com/local/unficyp-denies-commander-departure-report/",
+      "title": "Trump declines Saudi crown prince’s call for US strikes on Houthis, Axios reports",
+      "link": "https://en.philenews.com/international/trump-declines-saudi-crown-princes-call-for-us-strikes-on-houthis-axios-reports/",
       "summary": ""
     },
     {
-      "title": "Second Alphamega kids’ nutrition and cooking workshop filled with even more smiles",
-      "link": "https://cyprus-mail.com/2026/09/10/second-alphamega-kids-nutrition-and-cooking-workshop-filled-with-even-more-smiles",
+      "title": "Sunat Atun to lead Kyrenia ferry disaster investigation committee",
+      "link": "https://cyprus-mail.com/2026/09/11/sunat-atun-to-lead-kyrenia-ferry-disaster-investigation-committee",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Trump says every adult American would get $5,000 if Republicans win midterms",
-      "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+      "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+      "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Apple's new boss starts with big gamble on $2,000 first folding iPhone",
-      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Global heat stuck on high. Scientists say August was Earth's hottest month they've measured.",
-    "link": "https://phys.org/news/2026-09-global-stuck-high-scientists-august.html",
-    "summary": "Earth cooked to its hottest month on record in August, blowing far past a key climate threshold, due to the dangerous double whammy of human-caused climate change and a supersized El Niño, according to the European climate service Copernicus.",
+    "title": "DRC's cobalt exports contain unreported uranium—our study estimates the global nuclear risk",
+    "link": "https://phys.org/news/2026-09-drc-cobalt-exports-unreported-uranium.html",
+    "summary": "The southern region of the Democratic Republic of Congo (DRC) is known as the Copperbelt because of its rich deposits of copper and other minerals.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-10T07:59:14.666Z"
+  "generated_at": "2026-09-11T07:07:23.448Z"
 }
