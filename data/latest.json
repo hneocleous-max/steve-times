@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-11",
-      "code": 0,
+      "date": "2026-09-12",
+      "code": 1,
       "max": 32,
       "min": 21,
-      "desc": "Clear skies",
-      "icon": "☀️",
+      "desc": "Mainly clear",
+      "icon": "🌤️",
       "masthead": "Fine weather"
     },
     "tomorrow": {
-      "date": "2026-09-12",
-      "code": 2,
-      "max": 31,
-      "min": 21,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
+      "date": "2026-09-13",
+      "code": 45,
+      "max": 32,
+      "min": 23,
+      "desc": "Foggy",
+      "icon": "🌫️",
+      "masthead": "Fog about"
     }
   },
   "local": [
     {
-      "title": "Cyprus stresses ‘solidarity with US’ on 9/11 anniversary",
-      "link": "https://cyprus-mail.com/2026/09/11/cyprus-stresses-solidarity-with-us-on-9-11-anniversary",
+      "title": "CFDSensei reviews: Is investment advisory worth it?",
+      "link": "https://cyprus-mail.com/2026/09/12/cfdsensei-reviews-is-investment-advisory-worth-it",
       "summary": ""
     },
     {
-      "title": "1974 POWs kept rape by Turkish captors secret for 50 years, association says",
-      "link": "https://en.philenews.com/local/cyprus-1974-pows-rape-turkish-captivity-decades-secret/",
+      "title": "Four injured after two-car crash in Limassol",
+      "link": "https://en.philenews.com/local/four-injured-two-car-crash-limassol-tricherousa/",
       "summary": ""
     },
     {
-      "title": "Infantino can rely on enough votes to survive, opponents rethink strategy, sources say",
-      "link": "https://cyprus-mail.com/2026/09/11/infantino-can-rely-on-enough-votes-to-survive-opponents-rethink-strategy-sources-say",
+      "title": "Scenes of Cyprus stitched into new exhibition",
+      "link": "https://cyprus-mail.com/2026/09/12/scenes-of-cyprus-stitched-into-new-exhibition",
       "summary": ""
     },
     {
-      "title": "From Nazi bonfires to Russian bombs: burning books, erasing a nation",
-      "link": "https://en.philenews.com/opinion/from-nazi-bonfires-to-russian-bombs-burning-books-erasing-a-nation/",
+      "title": "Markets see more ECB rate hikes ahead as inflation pressures persist",
+      "link": "https://en.philenews.com/insider/ecb-rate-hikes-markets-expect-more-increases-2027/",
       "summary": ""
     },
     {
-      "title": "Christodoulides to address UN general assembly on September 23",
-      "link": "https://cyprus-mail.com/2026/09/11/christodoulides-to-address-un-general-assembly-on-september-23",
+      "title": "There are solutions to all Cyprob sticking points",
+      "link": "https://cyprus-mail.com/2026/09/12/there-are-solutions-to-all-cyprob-sticking-points",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
-      "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
+      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+      "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-      "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+      "title": "Passenger train derails in France leaving at least 44 injured",
+      "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Man jailed after threatening to kill son's teacher in French village",
-      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+      "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Researchers eye AI revolution in natural disaster forecasts",
-    "link": "https://phys.org/news/2026-09-eye-ai-revolution-natural-disaster.html",
-    "summary": "A revolution in forecasting natural disasters is underway, say researchers in Switzerland who are training AI models using vast troves of NASA climate data to produce potentially lifesaving data at lightning speed.",
+    "title": "As antibiotic resistance grows, researchers turn to copper to fight infections",
+    "link": "https://phys.org/news/2026-09-antibiotic-resistance-copper-infections.html",
+    "summary": "When bacteria invade the urinary tract, the body has its own arsenal for fighting back. Among those weapons is an unlikely tool: copper. Researchers at the Texas A&M College of Veterinary Medicine and Biomedical Sciences (VMBS) are investigating how the body uses the essential trace mineral to fight urinary tract infections (UTIs), how bacteria manage to survive that attack and whether those discoveries could eventually lead to new ways of treating infections that are increasingly difficult to control with antibiotics.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-11T07:55:18.462Z"
+  "generated_at": "2026-09-12T06:59:17.315Z"
 }
