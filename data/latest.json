@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-12",
-      "code": 1,
-      "max": 32,
-      "min": 21,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
-    },
-    "tomorrow": {
       "date": "2026-09-13",
       "code": 45,
-      "max": 32,
+      "max": 31,
       "min": 23,
       "desc": "Foggy",
       "icon": "🌫️",
       "masthead": "Fog about"
+    },
+    "tomorrow": {
+      "date": "2026-09-14",
+      "code": 3,
+      "max": 32,
+      "min": 24,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "Police make five arrests during overnight patrols",
-      "link": "https://cyprus-mail.com/2026/09/12/police-make-five-arrests-during-overnight-patrols",
+      "title": "Corporate artificial intelligence bills rise despite falling token prices",
+      "link": "https://cyprus-mail.com/2026/09/13/corporate-artificial-intelligence-bills-rise-despite-falling-token-prices",
       "summary": ""
     },
     {
-      "title": "Armed accomplices free Albanian inmate during hospital transfer in Greece",
-      "link": "https://en.philenews.com/international/armed-accomplices-free-inmate-hospital-transfer-serres/",
+      "title": "Is Christodoulides opening the door to ELAM? The shifting alliances shaping 2028",
+      "link": "https://en.philenews.com/politics/christodoulides-elam-disy-diko-2028-presidential-election/",
       "summary": ""
     },
     {
-      "title": "Four injured as car overturns in Limassol",
-      "link": "https://cyprus-mail.com/2026/09/12/four-injured-as-car-overturns-in-limassol",
+      "title": "Consumers swap bulky VR headsets for lightweight XR glasses",
+      "link": "https://cyprus-mail.com/2026/09/13/consumers-swap-bulky-vr-headsets-for-lightweight-xr-glasses",
       "summary": ""
     },
     {
-      "title": "AfD’s new Saxony-Anhalt lawmakers include former Stasi officer and figures linked to far-right groups",
-      "link": "https://en.philenews.com/international/afd-saxony-anhalt-lawmakers-controversial-backgrounds/",
+      "title": "Ankara’s regional power game weighs on Cyprus talks",
+      "link": "https://en.philenews.com/politics/ankara-regional-strategy-cyprus-talks-erhurman/",
       "summary": ""
     },
     {
-      "title": "Cyprus employment rate remains among highest in EU",
-      "link": "https://cyprus-mail.com/2026/09/12/cyprus-employment-rate-remains-among-highest-in-eu",
+      "title": "Revisiting Cyprus’ doctrine of necessity",
+      "link": "https://cyprus-mail.com/2026/09/13/revisiting-cyprus-doctrine-of-necessity",
       "summary": ""
     }
   ],
   "world": [
+    {
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
     {
       "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
       "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-      "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Passenger train derails in France leaving at least 44 injured",
-      "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-      "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+      "title": "Fire at nursing home in Chile kills 16 residents",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "As antibiotic resistance grows, researchers turn to copper to fight infections",
-    "link": "https://phys.org/news/2026-09-antibiotic-resistance-copper-infections.html",
-    "summary": "When bacteria invade the urinary tract, the body has its own arsenal for fighting back. Among those weapons is an unlikely tool: copper. Researchers at the Texas A&M College of Veterinary Medicine and Biomedical Sciences (VMBS) are investigating how the body uses the essential trace mineral to fight urinary tract infections (UTIs), how bacteria manage to survive that attack and whether those discoveries could eventually lead to new ways of treating infections that are increasingly difficult to control with antibiotics.",
+    "title": "AI could make holiday planning easier for overwhelmed travelers",
+    "link": "https://phys.org/news/2026-09-ai-holiday-easier-overwhelmed.html",
+    "summary": "Generative AI could help overwhelmed travelers organize their thoughts, compare options and complete vacation plans they might otherwise abandon, according to new research from the University of Surrey.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-12T07:47:54.527Z"
+  "generated_at": "2026-09-13T07:18:06.141Z"
 }
