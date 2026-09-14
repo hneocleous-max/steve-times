@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "code": 45,
-      "max": 31,
+      "max": 34,
       "min": 23,
       "desc": "Foggy",
       "icon": "🌫️",
       "masthead": "Fog about"
     },
     "tomorrow": {
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "code": 3,
-      "max": 32,
-      "min": 24,
+      "max": 31,
+      "min": 22,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Thousands flock to Troodos for festival celebrating Cyprus’ mountain communities",
-      "link": "https://cyprus-mail.com/2026/09/13/thousands-flock-to-troodos-for-festival-celebrating-cyprus-mountain-communities",
+      "title": "Cypriot investment firm continues buyback programme",
+      "link": "https://cyprus-mail.com/2026/09/14/cypriot-investment-firm-continues-buyback-programme",
       "summary": ""
     },
     {
-      "title": "Israeli defence firms eye Cyprus as European expansion gathers pace",
-      "link": "https://en.philenews.com/politics/israeli-defence-firms-cyprus-europe-expansion/",
+      "title": "Paphos Municipality announces traffic restrictions near Konia",
+      "link": "https://en.philenews.com/local/paphos-traffic-restrictions-konia-road-works/",
       "summary": ""
     },
     {
-      "title": "Christodoulides unveils two new housing schemes for young families",
-      "link": "https://cyprus-mail.com/2026/09/13/christodoulides-unveils-two-new-housing-schemes-for-young-families",
+      "title": "US arms embargo waiver extension ‘a clear message’, Christodoulides says",
+      "link": "https://cyprus-mail.com/2026/09/14/us-arms-embargo-waiver-extension-a-clear-message-christodoulides-says",
       "summary": ""
     },
     {
-      "title": "Turkish Airlines flight diverted after severe turbulence near Tunis",
-      "link": "https://en.philenews.com/international/turkish-airlines-flight-diverted-turbulence-tunis-storm/",
+      "title": "Cyprus issues five times the EU average in residence permits per capita",
+      "link": "https://en.philenews.com/local/cyprus-residence-permits-eurostat-2025-eu-ranking/",
       "summary": ""
     },
     {
-      "title": "Four held in Limassol drug raid after police seize 126kg of ketamine",
-      "link": "https://cyprus-mail.com/2026/09/13/four-held-in-limassol-drug-raid-after-police-seize-126kg-of-ketamine",
+      "title": "Swedish centre-left opposition in pole position to take power after tight election",
+      "link": "https://cyprus-mail.com/2026/09/14/swedish-centre-left-opposition-in-pole-position-to-take-power-after-tight-election",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "AI could make holiday planning easier for overwhelmed travelers",
-    "link": "https://phys.org/news/2026-09-ai-holiday-easier-overwhelmed.html",
-    "summary": "Generative AI could help overwhelmed travelers organize their thoughts, compare options and complete vacation plans they might otherwise abandon, according to new research from the University of Surrey.",
+    "title": "No cities on the moon—there isn't enough water, scientists say",
+    "link": "https://phys.org/news/2026-09-cities-moon-isnt-scientists.html",
+    "summary": "The discovery of water in dark craters at the moon's poles has sparked a \"moon rush\" to establish bases there, followed by villages, cities and heavy industry. How sustainable is this rush?",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-13T08:09:19.874Z"
+  "generated_at": "2026-09-14T07:42:18.923Z"
 }
