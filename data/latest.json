@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-14",
-      "code": 45,
-      "max": 34,
-      "min": 23,
-      "desc": "Foggy",
-      "icon": "🌫️",
-      "masthead": "Fog about"
-    },
-    "tomorrow": {
       "date": "2026-09-15",
       "code": 3,
-      "max": 31,
+      "max": 32,
       "min": 22,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
+    },
+    "tomorrow": {
+      "date": "2026-09-16",
+      "code": 45,
+      "max": 32,
+      "min": 23,
+      "desc": "Foggy",
+      "icon": "🌫️",
+      "masthead": "Fog about"
     }
   },
   "local": [
     {
-      "title": "Kazakos steps up ICS push against Hormuz tolls",
-      "link": "https://cyprus-mail.com/2026/09/14/kazakos-steps-up-ics-push-against-hormuz-tolls",
+      "title": "Mathiatis heritage protection group expresses disagreement over location of new central prison",
+      "link": "https://cyprus-mail.com/2026/09/15/mathiatis-heritage-protection-group-expresses-disagreement-over-location-of-new-central-prison",
       "summary": ""
     },
     {
-      "title": "Indonesia rescuers battle turbulent seas in search for 129 people after passenger ship capsizes",
-      "link": "https://en.philenews.com/international/indonesia-rescuers-battle-turbulent-seas-in-search-for-129-people-after-passenger-ship-capsizes/",
+      "title": "The housing problem and the solutions on offer",
+      "link": "https://en.philenews.com/opinion/the-housing-problem-and-the-solutions-on-offer/",
       "summary": ""
     },
     {
-      "title": "Limassol industry mourns long-serving chamber figure Andreas Laos",
-      "link": "https://cyprus-mail.com/2026/09/14/limassol-industry-mourns-long-serving-chamber-figure-andreas-laos",
+      "title": "Iconic French actress Fanny Ardant to perform in Limassol",
+      "link": "https://cyprus-mail.com/2026/09/15/iconic-french-actress-fanny-ardant-to-perform-in-limassol",
       "summary": ""
     },
     {
-      "title": "New vessel joins search for Kyrenia shipwreck victims",
-      "link": "https://en.philenews.com/local/kyrenia-shipwreck-new-search-vessel-transport-minister/",
+      "title": "Cyprus hourly-paid state workers announce new strike, threaten 48-hour walkout",
+      "link": "https://en.philenews.com/local/cyprus-hourly-paid-workers-strike-48-hour-warning/",
       "summary": ""
     },
     {
-      "title": "Former deputy attorney-general’s embezzlement case postponed till next month",
-      "link": "https://cyprus-mail.com/2026/09/14/former-deputy-attorney-generals-embezzlement-case-postponed-till-next-month",
+      "title": "Cyprus-based InterMaritime strengthens German presence",
+      "link": "https://cyprus-mail.com/2026/09/15/cyprus-based-intermaritime-strengthens-german-presence",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+      "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "title": "Nato jets down drone that entered Lithuanian airspace",
+      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "title": "US confirms for first time it has deployed space weapons",
+      "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Japan's biomass energy boom threatens further deforestation in Indonesia",
-    "link": "https://phys.org/news/2026-09-japan-biomass-energy-boom-threatens.html",
-    "summary": "A surge in Indonesia's wood pellet and chip production is driving a new wave of deforestation, threatening the vast archipelago's remaining tropical forests, vital biodiversity hot spots and the land of Indigenous peoples, according to new satellite analysis from environmental nongovernmental organizations.",
+    "title": "Scientists to probe the source behind a massive 1946 tsunami",
+    "link": "https://phys.org/news/2026-09-scientists-probe-source-massive-tsunami.html",
+    "summary": "Eighty years ago, a massive tsunami devastated parts of Hawaii, Alaska, Washington and Oregon following an earthquake off the coast of Alaska. A Michigan State University team is launching a project to study the underwater fault system where it originated—and whether it still poses a risk today.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-14T08:43:53.063Z"
+  "generated_at": "2026-09-15T07:26:02.244Z"
 }
