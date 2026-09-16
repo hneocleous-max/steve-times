@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-15",
+      "date": "2026-09-16",
+      "code": 1,
+      "max": 31,
+      "min": 22,
+      "desc": "Mainly clear",
+      "icon": "🌤️",
+      "masthead": "Fine weather"
+    },
+    "tomorrow": {
+      "date": "2026-09-17",
       "code": 3,
       "max": 32,
       "min": 22,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
-    },
-    "tomorrow": {
-      "date": "2026-09-16",
-      "code": 45,
-      "max": 32,
-      "min": 23,
-      "desc": "Foggy",
-      "icon": "🌫️",
-      "masthead": "Fog about"
     }
   },
   "local": [
     {
-      "title": "Russian frigate fires flares towards Danish military helicopter, Denmark says",
-      "link": "https://cyprus-mail.com/2026/09/15/russian-frigate-fires-flares-towards-danish-military-helicopter-denmark-says",
+      "title": "Invest Cyprus unveils new strategy to promote country abroad",
+      "link": "https://cyprus-mail.com/2026/09/16/invest-cyprus-unveils-new-strategy-to-promote-country-abroad",
       "summary": ""
     },
     {
-      "title": "Cyprus Ecologists to join Akrotiri protest against new antenna installations",
-      "link": "https://en.philenews.com/local/cyprus-ecologists-akrotiri-antenna-protest/",
+      "title": "Audit Office finds bodies stored for 1,040 days at Paphos hospital mortuary",
+      "link": "https://en.philenews.com/local/paphos-hospital-mortuary-audit-office-report/",
       "summary": ""
     },
     {
-      "title": "Leeds thrash Newcastle 4-1 to climb to third in Premier League",
-      "link": "https://cyprus-mail.com/2026/09/15/leeds-thrash-newcastle-4-1-to-climb-to-third-in-premier-league",
+      "title": "Global shipping faces tough year as IMO vows support for seafarers",
+      "link": "https://cyprus-mail.com/2026/09/16/global-shipping-faces-tough-year-as-imo-vows-support-for-seafarers",
       "summary": ""
     },
     {
-      "title": "Cyprus bird conservation group warns of ‘trap’ as ELAM targets activists in parliament",
-      "link": "https://en.philenews.com/local/cabs-poaching-convictions-elam-parliament-activists/",
+      "title": "Hourly-paid state workers suspend Thursday strike after president talks",
+      "link": "https://en.philenews.com/insider/cyprus-hourly-paid-workers-suspend-strike-talks/",
       "summary": ""
     },
     {
-      "title": "Not AI doom",
-      "link": "https://cyprus-mail.com/2026/09/15/not-ai-doom",
+      "title": "Troodos welcomes Mountain Games Cyprus",
+      "link": "https://cyprus-mail.com/2026/09/16/troodos-welcomes-mountain-games-cyprus",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-      "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-      "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
+      "title": "Three killed after LA news helicopter crashes while covering deadly bus collision",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Nato jets down drone that entered Lithuanian airspace",
-      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+      "title": "US limits visas for South African officials over alleged anti-white discrimination",
+      "link": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US confirms for first time it has deployed space weapons",
-      "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+      "title": "What weapon could the US have put into space?",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Scientists to probe the source behind a massive 1946 tsunami",
-    "link": "https://phys.org/news/2026-09-scientists-probe-source-massive-tsunami.html",
-    "summary": "Eighty years ago, a massive tsunami devastated parts of Hawaii, Alaska, Washington and Oregon following an earthquake off the coast of Alaska. A Michigan State University team is launching a project to study the underwater fault system where it originated—and whether it still poses a risk today.",
+    "title": "A world 20 light-years away reveals surprisingly organized, Jupiter-like weather",
+    "link": "https://phys.org/news/2026-09-world-years-reveals-jupiter-weather.html",
+    "summary": "Scientists from Trinity College Dublin have developed a way to unravel changing weather patterns on distant worlds. Using this approach, they discovered that the weather on a well-studied brown dwarf, SIMP 0136, previously linked to northern lights-like phenomena, is largely shaped by just two dominant processes: changes in temperature and the vertical structure of its clouds.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-15T08:31:44.590Z"
+  "generated_at": "2026-09-16T07:24:52.178Z"
 }
