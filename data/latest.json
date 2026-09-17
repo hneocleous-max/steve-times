@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-16",
-      "code": 1,
-      "max": 31,
-      "min": 22,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
-    },
-    "tomorrow": {
       "date": "2026-09-17",
       "code": 3,
-      "max": 32,
+      "max": 31,
       "min": 22,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
+    },
+    "tomorrow": {
+      "date": "2026-09-18",
+      "code": 3,
+      "max": 29,
+      "min": 23,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Listed firms to examine six-month financial results in late September",
-      "link": "https://cyprus-mail.com/2026/09/16/listed-firms-to-examine-six-month-financial-results-in-late-september",
+      "title": "Man Utd out of League Cup after going 2-0 up at home and then losing 3-2 in 50-year first",
+      "link": "https://cyprus-mail.com/2026/09/17/man-utd-out-of-league-cup-after-going-2-0-up-at-home-and-then-losing-3-2-in-50-year-first",
       "summary": ""
     },
     {
-      "title": "Defendant admits role in priest’s car theft linked to Demosthenous murder case",
-      "link": "https://en.philenews.com/local/demosthenous-murder-priest-car-theft-sentencing/",
+      "title": "Christodoulides, Erhurman meet before Cyprus talks shift to New York",
+      "link": "https://en.philenews.com/politics/christodoulides-erhurman-last-meeting-before-new-york-cyprus-talks/",
       "summary": ""
     },
     {
-      "title": "Cyprus companies face October 30 customs switch deadline",
-      "link": "https://cyprus-mail.com/2026/09/16/cyprus-companies-face-october-30-customs-switch-deadline",
+      "title": "Water supply interruption in Limassol",
+      "link": "https://cyprus-mail.com/2026/09/17/water-supply-interruption-in-limassol-2",
       "summary": ""
     },
     {
-      "title": "Christodoulides and DIKO reset as Mavroyiannis, Kenevezos eye presidency",
-      "link": "https://en.philenews.com/politics/cyprus-presidential-race-christodoulides-mavroyiannis-kenevezos/",
+      "title": "No guarantee investors will cover Great Sea Interconnector cost overruns",
+      "link": "https://en.philenews.com/insider/great-sea-interconnector-no-guarantee-investors-cover-cost-overruns/",
       "summary": ""
     },
     {
-      "title": "Troodos welcomes Mountain Games Cyprus",
-      "link": "https://cyprus-mail.com/2026/09/16/troodos-welcomes-mountain-games-cyprus-2",
+      "title": "Cyta, Connect Europe workshop frames future of digital networks, cybersecurity",
+      "link": "https://cyprus-mail.com/2026/09/17/cyta-connect-europe-workshop-frames-future-of-digital-networks-cybersecurity",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "title": "US interest rates raised for first time in three years",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Three killed after LA news helicopter crashes while covering deadly bus collision",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "At least 12 killed after war-damaged Gaza building collapses",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
+      "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US limits visas for South African officials over alleged anti-white discrimination",
-      "link": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
+      "title": "Photos show widespread damage at US sites from Iranian attacks",
+      "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "SpaceX prepares for first orbital flight of Starship rocket",
-    "link": "https://phys.org/news/2026-09-spacex-orbital-flight-starship-rocket.html",
-    "summary": "SpaceX announced Tuesday that it was planning to send its flagship rocket, Starship, into orbit, a key step in its project to one day reach the moon or Mars.",
+    "title": "Does AI make us smarter or more dependent?",
+    "link": "https://phys.org/news/2026-09-ai-smarter.html",
+    "summary": "Artificial intelligence is rapidly becoming part of how people learn, solve problems and construct knowledge. Yet whether AI strengthens human intelligence or encourages excessive dependence remains an open question.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-16T08:25:29.444Z"
+  "generated_at": "2026-09-17T07:21:50.894Z"
 }
