@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-17",
-      "code": 3,
-      "max": 31,
-      "min": 22,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
-    },
-    "tomorrow": {
       "date": "2026-09-18",
       "code": 3,
       "max": 29,
@@ -17,67 +8,76 @@
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
+    },
+    "tomorrow": {
+      "date": "2026-09-19",
+      "code": 3,
+      "max": 30,
+      "min": 22,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "AG rejects request to halt prosecution of British father over son’s death",
-      "link": "https://cyprus-mail.com/2026/09/17/ag-rejects-request-to-halt-prosecution-of-british-father-over-sons-death",
+      "title": "FA’s Hewitt asks Infantino to release records on World Cup plan, Balogun suspension",
+      "link": "https://cyprus-mail.com/2026/09/18/fas-hewitt-asks-infantino-to-release-records-on-world-cup-plan-balogun-suspension",
       "summary": ""
     },
     {
-      "title": "UN mission finds grounds to believe US committed war crimes in Iran, and Tehran crimes against humanity",
-      "link": "https://en.philenews.com/international/un-mission-finds-grounds-to-believe-us-committed-war-crimes-in-iran-and-tehran-crimes-against-humanity/",
+      "title": "Air traffic controllers warn of near-miss with Turkish jet over Cyprus FIR",
+      "link": "https://en.philenews.com/local/cyprus-air-traffic-controllers-turkish-fir-near-miss/",
       "summary": ""
     },
     {
-      "title": "Cyta workshop focuses on future of digital networks and cybersecurity",
-      "link": "https://cyprus-mail.com/2026/09/17/cyta-workshop-focuses-on-future-of-digital-networks-and-cybersecurity",
+      "title": "CYMEPA organises beach clean-up at Malindi Beach in Limassol",
+      "link": "https://cyprus-mail.com/2026/09/18/cymepa-organises-beach-clean-up-at-malindi-beach-in-limassol",
       "summary": ""
     },
     {
-      "title": "Cyprus deputy shipping minister pushes stronger UK maritime ties in London visit",
-      "link": "https://en.philenews.com/insider/cyprus-deputy-shipping-minister-uk-maritime-cooperation-london-visit/",
+      "title": "MPs flag gap in scheme for patients needing further treatment abroad",
+      "link": "https://en.philenews.com/local/cyprus-mps-overseas-patient-treatment-gap-hio/",
       "summary": ""
     },
     {
-      "title": "Benfica earn win in Milan as Sunderland celebrate historic night",
-      "link": "https://cyprus-mail.com/2026/09/17/benfica-earn-win-in-milan-as-sunderland-celebrate-historic-night",
+      "title": "Carriers: ceramic art arrives in Limassol",
+      "link": "https://cyprus-mail.com/2026/09/18/carriers-ceramic-art-arrives-in-limassol",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+      "title": "Canada welcomes EU proposal to become 'associate member'",
+      "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "title": "Ninth woman's body found as South African police investigate string of deaths",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "EU announces plan to restrict social media access for children",
-      "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US interest rates raised for first time in three years",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-      "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "World's water cycle becoming more unpredictable, UN warns",
-    "link": "https://phys.org/news/2026-09-world-unpredictable.html",
-    "summary": "The planet's water cycle is becoming increasingly erratic, swinging between too little and too much, the United Nations warned Thursday, with an unprecedented El Niño expected to exacerbate the long-term trend.",
+    "title": "Could expanding the U.S. nuclear arsenal make Americans less safe?",
+    "link": "https://phys.org/news/2026-09-nuclear-arsenal-americans-safe.html",
+    "summary": "A new report from the Brookings Institution presents evidence that increasing the size of the U.S. nuclear arsenal could make nuclear crises more likely. This raises an important challenge to arguments that the U.S. must consider increasing its stockpile in response to China's growing nuclear capabilities.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-17T08:31:14.299Z"
+  "generated_at": "2026-09-18T07:12:05.291Z"
 }
