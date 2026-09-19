@@ -1,18 +1,18 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-18",
-      "code": 3,
-      "max": 29,
-      "min": 23,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
+      "date": "2026-09-19",
+      "code": 2,
+      "max": 30,
+      "min": 22,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     },
     "tomorrow": {
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "code": 3,
-      "max": 30,
+      "max": 31,
       "min": 22,
       "desc": "Overcast",
       "icon": "☁️",
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "King Charles sounded ‘like a lottery winner’ after Diana’s death, brother says",
-      "link": "https://cyprus-mail.com/2026/09/18/king-charles-sounded-like-a-lottery-winner-after-dianas-death-brother-says",
+      "title": "Meet Cyprus’ long-stay shelter dogs in Paphos",
+      "link": "https://cyprus-mail.com/2026/09/19/meet-cyprus-long-stay-shelter-dogs-in-paphos",
       "summary": ""
     },
     {
-      "title": "Police stop car in Engomi, find hundreds of boxes of untaxed cigarettes, fine man €20,000",
-      "link": "https://en.philenews.com/local/nicosia-police-seize-untaxed-cigarettes-fine-40-year-old/",
+      "title": "Today’s weather: Clear start, storms possible later",
+      "link": "https://cyprus-mail.com/2026/09/19/todays-weather-clear-start-storms-possible-later",
       "summary": ""
     },
     {
-      "title": "CySEC removes Cyprus firm from investors compensation fund after licence revocation",
-      "link": "https://cyprus-mail.com/2026/09/18/cysec-removes-cyprus-firm-from-investors-compensation-fund-after-licence-revocation",
+      "title": "Cyprus Business Now: economy, shipping, tourism, TechIsland, Eurobank, energy",
+      "link": "https://cyprus-mail.com/2026/09/19/cyprus-business-now-economy-shipping-tourism-techisland-eurobank-energy",
       "summary": ""
     },
     {
-      "title": "As Iran war grinds on, Trump to face skeptical world leaders at UN",
-      "link": "https://en.philenews.com/international/as-iran-war-grinds-on-trump-to-face-skeptical-world-leaders-at-un/",
+      "title": "US secures permanent Greenland military access in deal",
+      "link": "https://cyprus-mail.com/2026/09/19/us-secures-permanent-greenland-military-access-in-deal",
       "summary": ""
     },
     {
-      "title": "Evans on brink of world title after Saudi Arabian round cancelled",
-      "link": "https://cyprus-mail.com/2026/09/18/evans-on-brink-of-world-title-after-saudi-arabian-round-cancelled",
+      "title": "Streamlined state aid rules targeted to accelerate support for Cyprus SMEs",
+      "link": "https://cyprus-mail.com/2026/09/19/streamlined-state-aid-rules-targeted-to-accelerate-support-for-cyprus-smes",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Canada welcomes EU proposal to become 'associate member'",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Ninth woman's body found as South African police investigate string of deaths",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says he is banning CNN and Politico from White House",
+      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-      "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Early heat waves hit wheat yields hardest but boost resilience to subsequent heat waves",
-    "link": "https://phys.org/news/2026-09-early-wheat-yields-hardest-boost.html",
-    "summary": "New research published in the Journal of Experimental Botany reveals that wheat crops are more sensitive to grain yield losses from heat waves that occur before reaching their flowering stage than those occurring later. However, exposure to heat waves early in the growing season may reduce yield losses during additional heat waves through a protective \"priming\" effect.",
+    "title": "Improving urban flood forecasting with real-time hazardous rainfall detection",
+    "link": "https://phys.org/news/2026-09-urban-real-hazardous-rainfall.html",
+    "summary": "The Korea Institute of Civil Engineering and Building Technology (KICT) announced that it will apply its early detection technology for quasi-stationary linear rainbands and sudden localized torrential rainfall to the Urban Flood Forecasting Platform operated by the Han River Flood Control Office in Korea for urban flood forecasting.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-18T08:06:10.907Z"
+  "generated_at": "2026-09-19T07:09:02.937Z"
 }
