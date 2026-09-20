@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-19",
-      "code": 2,
-      "max": 30,
-      "min": 22,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-09-20",
       "code": 3,
-      "max": 31,
+      "max": 30,
       "min": 22,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
+    },
+    "tomorrow": {
+      "date": "2026-09-21",
+      "code": 3,
+      "max": 31,
+      "min": 23,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Girl injured after falling from window of third-floor Limassol flat",
-      "link": "https://cyprus-mail.com/2026/09/19/girl-injured-after-falling-from-window-of-third-floor-limassol-flat",
+      "title": "EU construction output falls as Cyprus building activity remains strong",
+      "link": "https://cyprus-mail.com/2026/09/20/eu-construction-output-falls-as-cyprus-building-activity-remains-strong",
       "summary": ""
     },
     {
-      "title": "Funerals held for 15 missing persons from Aloa massacre",
-      "link": "https://cyprus-mail.com/2026/09/19/funerals-held-for-15-missing-persons-from-aloa-massacre",
+      "title": "North Korea fires ballistic missile off east coast, Japan says",
+      "link": "https://cyprus-mail.com/2026/09/20/north-korea-fires-ballistic-missile-off-east-coast-japan-says",
       "summary": ""
     },
     {
-      "title": "Meet Cyprus’ long-stay shelter dogs in Paphos",
-      "link": "https://cyprus-mail.com/2026/09/19/meet-cyprus-long-stay-shelter-dogs-in-paphos",
+      "title": "Cyprus savings habits face scrutiny as ECB urges households to move beyond deposits",
+      "link": "https://cyprus-mail.com/2026/09/20/cyprus-savings-habits-face-scrutiny-as-ecb-urges-households-to-move-beyond-deposits",
       "summary": ""
     },
     {
-      "title": "Today’s weather: Clear start, storms possible later",
-      "link": "https://cyprus-mail.com/2026/09/19/todays-weather-clear-start-storms-possible-later",
+      "title": "Today’s weather: Clear start, rain possible later",
+      "link": "https://cyprus-mail.com/2026/09/20/todays-weather-clear-start-rain-possible-later",
       "summary": ""
     },
     {
-      "title": "Cyprus Business Now: economy, shipping, tourism, TechIsland, Eurobank, energy",
-      "link": "https://cyprus-mail.com/2026/09/19/cyprus-business-now-economy-shipping-tourism-techisland-eurobank-energy",
+      "title": "‘I cannot destroy humanity,’ AI tells the Cyprus Mail",
+      "link": "https://cyprus-mail.com/2026/09/20/i-cannot-destroy-humanity-ai-tells-the-cyprus-mail",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+      "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Trump signs sweeping Russia sanctions bill",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Grim discoveries of murdered women spark fear in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Improving urban flood forecasting with real-time hazardous rainfall detection",
-    "link": "https://phys.org/news/2026-09-urban-real-hazardous-rainfall.html",
-    "summary": "The Korea Institute of Civil Engineering and Building Technology (KICT) announced that it will apply its early detection technology for quasi-stationary linear rainbands and sudden localized torrential rainfall to the Urban Flood Forecasting Platform operated by the Han River Flood Control Office in Korea for urban flood forecasting.",
+    "title": "At an old steel site in Pittsburgh, bacteria evolved to survive—and eat—industrial pollution",
+    "link": "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html",
+    "summary": "Across Appalachia and the Rust Belt region, including throughout the city of Pittsburgh, former industrial sites are being transformed into new neighborhoods, research centers and technology hubs.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-19T07:55:34.802Z"
+  "generated_at": "2026-09-20T07:34:33.980Z"
 }
