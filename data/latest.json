@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-20",
-      "code": 3,
+      "date": "2026-09-21",
+      "code": 2,
       "max": 30,
-      "min": 22,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
+      "min": 23,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     },
     "tomorrow": {
-      "date": "2026-09-21",
-      "code": 3,
-      "max": 31,
-      "min": 23,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
+      "date": "2026-09-22",
+      "code": 2,
+      "max": 30,
+      "min": 22,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "Child arrested by bicycle-mounted police after stealing car from car wash",
-      "link": "https://cyprus-mail.com/2026/09/20/child-arrested-by-bicycle-mounted-police-after-stealing-car-from-car-wash",
+      "title": "Nicosia Capitals Snatch Super Over win",
+      "link": "https://cyprus-mail.com/2026/09/21/nicosia-capitals-snatch-super-over-win",
       "summary": ""
     },
     {
-      "title": "Turkish Cypriots unveil plans for new Nicosia football stadium",
-      "link": "https://cyprus-mail.com/2026/09/20/turkish-cypriots-unveil-plans-for-new-nicosia-football-stadium",
+      "title": "Zverev leads Germany into Davis Cup Final 8",
+      "link": "https://cyprus-mail.com/2026/09/21/zverev-leads-germany-into-davis-cup-final-8",
       "summary": ""
     },
     {
-      "title": "Queer film history takes centre stage at Queer Wave 2026",
-      "link": "https://cyprus-mail.com/2026/09/20/sam-ashby-brings-queer-film-history-to-cyprus",
+      "title": "Hairdresser in Turkey attacked over child’s haircut",
+      "link": "https://cyprus-mail.com/2026/09/21/hairdresser-in-turkey-attacked-over-childs-haircut",
       "summary": ""
     },
     {
-      "title": "EU construction output falls as Cyprus building activity remains strong",
-      "link": "https://cyprus-mail.com/2026/09/20/eu-construction-output-falls-as-cyprus-building-activity-remains-strong",
+      "title": "Bean Bar welcomes autumn with fresh sandwiches to go!",
+      "link": "https://cyprus-mail.com/2026/09/21/bean-bar-welcomes-autumn-with-fresh-sandwiches-to-go",
       "summary": ""
     },
     {
-      "title": "North Korea fires ballistic missile off east coast, Japan says",
-      "link": "https://cyprus-mail.com/2026/09/20/north-korea-fires-ballistic-missile-off-east-coast-japan-says",
+      "title": ":synergy by bbf: takes shape as construction progresses rapidly",
+      "link": "https://cyprus-mail.com/2026/09/21/synergy-by-bbf-takes-shape-as-construction-progresses-rapidly",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
-      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-      "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+      "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "German elections under way which could decide fate of Chancellor Merz",
-      "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+      "title": "Seven Ethiopian rebel groups form new alliance",
+      "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "At an old steel site in Pittsburgh, bacteria evolved to survive—and eat—industrial pollution",
-    "link": "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html",
-    "summary": "Across Appalachia and the Rust Belt region, including throughout the city of Pittsburgh, former industrial sites are being transformed into new neighborhoods, research centers and technology hubs.",
+    "title": "British food was complex, multicultural and flavorful in the 18th century—despite what you might think",
+    "link": "https://phys.org/news/2026-09-british-food-complex-multicultural-flavorful.html",
+    "summary": "The stereotype of bland British food is notorious, and people mock the horrors of jellied eels and overcooked vegetables. Even roast beef and pudding are seen as uninspired compared with the cuisines of other nations. But British food is and has historically been complex, multicultural and flavorful.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-20T08:26:16.719Z"
+  "generated_at": "2026-09-21T07:46:02.398Z"
 }
