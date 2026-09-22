@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-21",
-      "code": 2,
-      "max": 30,
-      "min": 23,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-09-22",
       "code": 2,
       "max": 30,
@@ -17,67 +8,76 @@
       "desc": "Partly cloudy",
       "icon": "⛅",
       "masthead": "Fair skies"
+    },
+    "tomorrow": {
+      "date": "2026-09-23",
+      "code": 3,
+      "max": 30,
+      "min": 21,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "Pension reform bill to go before parliament by end of month",
-      "link": "https://cyprus-mail.com/2026/09/21/pension-reform-bill-to-go-before-parliament-by-end-of-month",
+      "title": "Russia strikes Ukraine industrial sites, killing four, officials say",
+      "link": "https://cyprus-mail.com/2026/09/22/russia-strikes-ukraine-industrial-sites-killing-four-officials-say",
       "summary": ""
     },
     {
-      "title": "Kazakos tells UN shipping ‘must not be held to ransom’ as Hormuz disruption deepens",
-      "link": "https://cyprus-mail.com/2026/09/21/kazakos-tells-un-shipping-must-not-be-held-to-ransom-as-hormuz-disruption-deepens",
+      "title": "Cyprus’ foreclosure framework supports financial stability, says CBC",
+      "link": "https://cyprus-mail.com/2026/09/22/cyprus-foreclosure-framework-supports-financial-stability-says-cbc",
       "summary": ""
     },
     {
-      "title": "Five takeaways as German voters abandon the centre",
-      "link": "https://cyprus-mail.com/2026/09/21/five-takeaways-as-german-voters-abandon-the-centre",
+      "title": "Renowned guitarist Dominic Miller in Nicosia for concert",
+      "link": "https://cyprus-mail.com/2026/09/22/renowned-guitarist-dominic-miller-in-nicosia-for-concert",
       "summary": ""
     },
     {
-      "title": "Limassol cycling tour draws record turnout",
-      "link": "https://cyprus-mail.com/2026/09/21/limassol-cycling-tour-draws-record-turnout",
+      "title": "Greece and Cyprus put seafarer fatigue and working hours under the spotlight",
+      "link": "https://cyprus-mail.com/2026/09/22/greece-and-cyprus-put-seafarer-fatigue-and-working-hours-under-the-spotlight",
       "summary": ""
     },
     {
-      "title": "Elderly man in Greece dies after sunbed punch up",
-      "link": "https://cyprus-mail.com/2026/09/21/elderly-man-in-greece-dies-after-sunbed-punch-up",
+      "title": "US to open two new military bases in Greenland",
+      "link": "https://cyprus-mail.com/2026/09/22/us-to-open-two-new-military-bases-in-greenland",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-      "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-      "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Seven Ethiopian rebel groups form new alliance",
-      "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
+      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+      "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Forest fire threatens tourist town in Colombian Andes",
-    "link": "https://phys.org/news/2026-09-forest-threatens-tourist-town-colombian.html",
-    "summary": "A forest fire was burning Sunday in central Colombia near the popular tourist town of Villa de Leyva, officials said.",
+    "title": "Films written by women make studios the most money, but budgets go to male filmmakers: Study",
+    "link": "https://phys.org/news/2026-09-written-women-studios-money-male.html",
+    "summary": "When the lights come back on and credits start rolling, it's easy to see that some of the most successful movies of the past few years—from \"Avatar: The Way of Water\" and \"Jurassic World\" to \"Barbie\"—were co-directed or co-written by women. These films are among those that bring in the most money for studios, a new Frontiers in Communication study notes.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-21T08:45:21.842Z"
+  "generated_at": "2026-09-22T07:29:02.105Z"
 }
