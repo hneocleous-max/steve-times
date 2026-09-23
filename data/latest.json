@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-22",
-      "code": 2,
-      "max": 30,
-      "min": 22,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-09-23",
       "code": 3,
       "max": 30,
@@ -17,67 +8,76 @@
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
+    },
+    "tomorrow": {
+      "date": "2026-09-24",
+      "code": 3,
+      "max": 29,
+      "min": 23,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "British father admits charge over son’s death",
-      "link": "https://cyprus-mail.com/2026/09/22/british-father-admits-charge-over-sons-death",
+      "title": "Cyprus tourists stay less but spend more",
+      "link": "https://cyprus-mail.com/2026/09/23/cyprus-tourists-stay-less-but-spend-more",
       "summary": ""
     },
     {
-      "title": "UK to buy new air raid sirens for Akrotiri",
-      "link": "https://cyprus-mail.com/2026/09/22/uk-to-buy-new-air-raid-sirens-for-akrotiri",
+      "title": "Milei takes Falklands oil dispute with Britain to UN",
+      "link": "https://cyprus-mail.com/2026/09/23/milei-takes-falklands-oil-dispute-with-britain-to-un",
       "summary": ""
     },
     {
-      "title": "Gaza students return to in-person schooling for first time in three years",
-      "link": "https://cyprus-mail.com/2026/09/22/gaza-students-return-to-in-person-schooling-for-first-time-in-three-years",
+      "title": "‘What the heck?’ Alcaraz quizzes Zverev about US Open championship point",
+      "link": "https://cyprus-mail.com/2026/09/23/what-the-heck-alcaraz-quizzes-zverev-about-us-open-championship-point",
       "summary": ""
     },
     {
-      "title": "School shooting in Turkey, students injured",
-      "link": "https://cyprus-mail.com/2026/09/22/school-shooting-in-turkey-students-injured",
+      "title": "‘Our Street Needs Green’: kids give Agioi Omologites neighbourhood an eco makeover",
+      "link": "https://cyprus-mail.com/2026/09/23/our-street-needs-green-kids-give-agioi-omologites-neighbourhood-an-eco-makeover",
       "summary": ""
     },
     {
-      "title": "F1 commission agrees shorter races from 2027",
-      "link": "https://cyprus-mail.com/2026/09/22/f1-commission-agrees-shorter-races-from-2027",
+      "title": "What’s on at Queer Wave this week",
+      "link": "https://cyprus-mail.com/2026/09/23/whats-on-at-queer-wave-this-week",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+      "link": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+      "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
-      "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
+      "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+      "title": "Eleven killed in mass shooting at house in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Worsening El Nino threatens Asia with drought, potentially raising food prices globally",
-    "link": "https://phys.org/news/2026-09-worsening-el-nino-threatens-asia.html",
-    "summary": "All signs are pointing toward a record-breaking El Niño this year, which experts say may cause severe drought in Asia and other extreme weather across the world, threatening food security for millions of people.",
+    "title": "Livestock grazing may boost soil carbon storage in Iceland's subarctic grasslands",
+    "link": "https://phys.org/news/2026-09-livestock-grazing-boost-soil-carbon.html",
+    "summary": "Grassland plants transfer large amounts of carbon to soil through their roots, and most of that carbon is stored underground. Therefore, promoting soil carbon storage can help combat climate change. Grazers feed on grassland plants, and conventional wisdom often assumes that removing grazers benefits carbon storage, but a new study in Global Change Biology Communications reveals that the opposite may be the case.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-22T08:23:14.530Z"
+  "generated_at": "2026-09-23T07:32:19.171Z"
 }
