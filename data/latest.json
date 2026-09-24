@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "code": 3,
       "max": 30,
-      "min": 21,
+      "min": 22,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-09-24",
-      "code": 3,
-      "max": 29,
-      "min": 23,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
+      "date": "2026-09-25",
+      "code": 1,
+      "max": 28,
+      "min": 21,
+      "desc": "Mainly clear",
+      "icon": "🌤️",
+      "masthead": "Fine weather"
     }
   },
   "local": [
     {
-      "title": "Invest Cyprus and developers step up push for foreign investment",
-      "link": "https://cyprus-mail.com/2026/09/23/invest-cyprus-and-developers-step-up-push-for-foreign-investment",
+      "title": "Cyprus and Malta businesses eye new partnerships and investment",
+      "link": "https://cyprus-mail.com/2026/09/24/cyprus-and-malta-businesses-eye-new-partnerships-and-investment",
       "summary": ""
     },
     {
-      "title": "Limassol ready to welcome visitors to annual Wine Festival",
-      "link": "https://cyprus-mail.com/2026/09/23/limassol-ready-to-welcome-visitors-to-annual-wine-festival",
+      "title": "Netanyahu expected to target Mamdani in UN address",
+      "link": "https://cyprus-mail.com/2026/09/24/netanyahu-expected-to-target-mamdani-in-un-address",
       "summary": ""
     },
     {
-      "title": "Turkish Cypriot property service admits member held massive plot",
-      "link": "https://cyprus-mail.com/2026/09/23/turkish-cypriot-property-service-admits-member-held-massive-plot",
+      "title": "Kombos holds ‘frank exchange’ with Azerbaijan’s Bayramov",
+      "link": "https://cyprus-mail.com/2026/09/24/kombos-holds-frank-exchange-with-azerbaijans-bayramov",
       "summary": ""
     },
     {
-      "title": "Five in a Row: Elias Neocleous & Co LLC Named Cyprus Tax Firm of the Year Again",
-      "link": "https://cyprus-mail.com/2026/09/23/five-in-a-row-elias-neocleous-co-llc-named-cyprus-tax-firm-of-the-year-again-2",
+      "title": "KPMG Cyprus backs technology as the business world changes",
+      "link": "https://cyprus-mail.com/2026/09/24/kpmg-cyprus-backs-technology-as-the-business-world-changes",
       "summary": ""
     },
     {
-      "title": "Keo profit eases to €3m despite stronger margins",
-      "link": "https://cyprus-mail.com/2026/09/23/keo-profit-eases-to-e3m-despite-stronger-margins",
+      "title": "Christodoulides calls for ‘development’ of Cyprus’ natural gas ‘as soon as possible’",
+      "link": "https://cyprus-mail.com/2026/09/24/christodoulides-calls-for-development-of-cyprus-natural-gas-as-soon-as-possible",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
-      "link": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-      "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US to build two military bases in Greenland under new deal with Denmark",
-      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
-      "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Eleven killed in mass shooting at house in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Agency says sea turtle eggs laid on California beaches are a first for the US West Coast",
-    "link": "https://phys.org/news/2026-09-agency-sea-turtle-eggs-laid.html",
-    "summary": "A reptile believed to be struggling in sand at a Southern California beach was simply making history: a sea turtle laying eggs on the U.S. West Coast.",
+    "title": "Aerial maps reveal successful woodland expansion in Scotland's Cairngorms",
+    "link": "https://phys.org/news/2026-09-aerial-reveal-successful-woodland-expansion.html",
+    "summary": "A University of Cambridge–led team has used aerial surveys across a huge swath of the Cairngorms National Park in Scotland to create detailed 3D maps that show the beginnings of large-scale recovery of native woodland.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-23T08:25:26.252Z"
+  "generated_at": "2026-09-24T07:24:48.588Z"
 }
