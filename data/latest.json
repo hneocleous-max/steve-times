@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "code": 3,
-      "max": 30,
-      "min": 22,
+      "max": 28,
+      "min": 21,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-09-25",
-      "code": 1,
-      "max": 28,
-      "min": 21,
-      "desc": "Mainly clear",
-      "icon": "🌤️",
-      "masthead": "Fine weather"
+      "date": "2026-09-26",
+      "code": 2,
+      "max": 29,
+      "min": 20,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "Student days at Akakiko, To Elliniko: quality food at 20% discount",
-      "link": "https://cyprus-mail.com/2026/09/24/student-days-at-akakiko-to-elliniko-quality-food-at-20-discount",
+      "title": "Don Quixote ballet comes to Paphos castle on Saturday",
+      "link": "https://cyprus-mail.com/2026/09/25/don-quixote-ballet-comes-to-paphos-castle-on-saturday",
       "summary": ""
     },
     {
-      "title": "Tax, quality of life and stability keep Cyprus high on investor radar",
-      "link": "https://cyprus-mail.com/2026/09/24/tax-quality-of-life-and-stability-keep-cyprus-high-on-investor-radar",
+      "title": "Turkey hits back at Netanyahu’s ‘vile’ comments on Erdogan at UN",
+      "link": "https://cyprus-mail.com/2026/09/25/turkey-hits-back-at-netanyahus-vile-comments-on-erdogan-at-un",
       "summary": ""
     },
     {
-      "title": "Turkey ‘closely monitoring military developments in Cyprus’",
-      "link": "https://cyprus-mail.com/2026/09/24/turkey-closely-monitoring-military-developments-in-cyprus",
+      "title": "Jumbo lines up new Cyprus store as profit reaches €120.6m",
+      "link": "https://cyprus-mail.com/2026/09/25/jumbo-lines-up-new-cyprus-store-as-profit-reaches-e120-6m",
       "summary": ""
     },
     {
-      "title": "Behind the taste: inside the heart of Columbia Hospitality’s Culinary Centre",
-      "link": "https://cyprus-mail.com/2026/09/24/behind-the-taste-inside-the-heart-of-columbia-hospitalitys-culinary-centre",
+      "title": "Mitsotakis, Netanyahu discuss plans for new meeting with Cyprus",
+      "link": "https://cyprus-mail.com/2026/09/25/mitsotakis-netanyahu-discuss-plans-for-new-meeting-with-cyprus",
       "summary": ""
     },
     {
-      "title": "Russia hits Kyiv with ballistic missiles, drones",
-      "link": "https://cyprus-mail.com/2026/09/24/russia-hits-kyiv-with-ballistic-missiles-drones",
+      "title": "Building partially collapses after explosion in central Athens, one person reportedly injured",
+      "link": "https://cyprus-mail.com/2026/09/25/building-partially-collapses-after-explosion-in-central-athens-one-person-reportedly-injured",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+      "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "title": "Hundreds of thousands expected in Paris for Pope's visit",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Aerial maps reveal successful woodland expansion in Scotland's Cairngorms",
-    "link": "https://phys.org/news/2026-09-aerial-reveal-successful-woodland-expansion.html",
-    "summary": "A University of Cambridge–led team has used aerial surveys across a huge swath of the Cairngorms National Park in Scotland to create detailed 3D maps that show the beginnings of large-scale recovery of native woodland.",
+    "title": "Cosmic lockdown: How the environment can isolate quantum fields",
+    "link": "https://phys.org/news/2026-09-cosmic-lockdown-environment-isolate-quantum.html",
+    "summary": "A simplified cosmological model suggests that decoherence can suppress quantum tunneling, effectively locking fields into the vacuum state they have reached.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-24T08:17:43.342Z"
+  "generated_at": "2026-09-25T07:20:30.459Z"
 }
