@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "code": 3,
       "max": 28,
-      "min": 21,
+      "min": 20,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-09-26",
-      "code": 2,
+      "date": "2026-09-27",
+      "code": 3,
       "max": 29,
-      "min": 20,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
+      "min": 21,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "University of Limassol Strengthens International Academic Collaboration with Symbiosis International University",
-      "link": "https://cyprus-mail.com/2026/09/25/university-of-limassol-strengthens-international-academic-collaboration-with-symbiosis-international-university",
+      "title": "Women in art across centuries show opens in Limassol",
+      "link": "https://cyprus-mail.com/2026/09/26/women-in-art-across-centuries-show-opens-in-limassol",
       "summary": ""
     },
     {
-      "title": "Contract soldiers able to stay in National Guard until age 57",
-      "link": "https://cyprus-mail.com/2026/09/25/contract-soldiers-able-to-stay-in-national-guard-until-age-57",
+      "title": "TikTok reaches first state settlement over teen safety claims",
+      "link": "https://cyprus-mail.com/2026/09/26/tiktok-reaches-first-state-settlement-over-teen-safety-claims",
       "summary": ""
     },
     {
-      "title": "Susan Sarandon among dozens arrested at anti-Netanyahu protest",
-      "link": "https://cyprus-mail.com/2026/09/25/susan-sarandon-among-dozens-arrested-at-anti-netanyahu-protest",
+      "title": "Iran awaits US move after WSJ report says Trump rejects peace plan",
+      "link": "https://cyprus-mail.com/2026/09/26/iran-awaits-us-move-after-wsj-report-says-trump-rejects-peace-plan",
       "summary": ""
     },
     {
-      "title": "Dutch snatch draw against Germany to spoil Klopp debut",
-      "link": "https://cyprus-mail.com/2026/09/25/dutch-snatch-draw-against-germany-to-spoil-klopp-debut",
+      "title": "Six big takeaways from a turbulent week of UN diplomacy",
+      "link": "https://cyprus-mail.com/2026/09/26/six-big-takeaways-from-a-turbulent-week-of-un-diplomacy",
       "summary": ""
     },
     {
-      "title": "Logicom reshuffles top team as Papachristoforou takes CEO role",
-      "link": "https://cyprus-mail.com/2026/09/25/logicom-reshuffles-top-team-as-papachristoforou-takes-ceo-role",
+      "title": "Greek Cypriots ask New York diplomats to ‘refrain’ from meeting Turkish Cypriots",
+      "link": "https://cyprus-mail.com/2026/09/26/greek-cypriots-ask-new-york-diplomats-to-refrain-from-meeting-turkish-cypriots",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-      "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-      "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Hundreds of thousands expected in Paris for Pope's visit",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Bacteria suspected in deaths of hundreds of baby whales off Argentina",
-    "link": "https://phys.org/news/2026-09-bacteria-deaths-hundreds-baby-whales.html",
-    "summary": "A bacterial infection is suspected of killing hundreds of baby whales in the southern Argentine region of Patagonia, a marine mammal expert told AFP on Thursday.",
+    "title": "A 'library' of bacteria-killing viruses: Harnessing the power of phages",
+    "link": "https://phys.org/news/2026-09-library-bacteria-viruses-harnessing-power.html",
+    "summary": "An estimated 38 trillion bacteria live in the human body—and only a small fraction are harmful to our health. However, the harmful ones can cause serious illness, especially when they develop resistance to antibiotics.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-25T08:40:11.738Z"
+  "generated_at": "2026-09-26T07:16:08.309Z"
 }
