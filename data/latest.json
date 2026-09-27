@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-26",
+      "date": "2026-09-27",
+      "code": 2,
+      "max": 29,
+      "min": 20,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
+    },
+    "tomorrow": {
+      "date": "2026-09-28",
       "code": 3,
       "max": 28,
       "min": 20,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
-    },
-    "tomorrow": {
-      "date": "2026-09-27",
-      "code": 3,
-      "max": 29,
-      "min": 21,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Defending champion Sinner withdraws from China Open",
-      "link": "https://cyprus-mail.com/2026/09/26/defending-champion-sinner-withdraws-from-china-open",
+      "title": "Revitalised Russell says he can fight for victory week-in, week-out",
+      "link": "https://cyprus-mail.com/2026/09/27/revitalised-russell-says-he-can-fight-for-victory-week-in-week-out",
       "summary": ""
     },
     {
-      "title": "Palmer misses too many England camps, says Tuchel",
-      "link": "https://cyprus-mail.com/2026/09/26/palmer-misses-too-many-england-camps-says-tuchel",
+      "title": "Man rescued from overturned car",
+      "link": "https://cyprus-mail.com/2026/09/27/man-rescued-from-overturned-car",
       "summary": ""
     },
     {
-      "title": "Cyprus has the climate for abundance. So where is the public fruit?",
-      "link": "https://cyprus-mail.com/2026/09/26/cyprus-has-the-climate-for-abundance-so-where-is-the-public-fruit",
+      "title": "Five arrested in overnight police operations",
+      "link": "https://cyprus-mail.com/2026/09/27/five-arrested-in-overnight-police-operations-6",
       "summary": ""
     },
     {
-      "title": "Books, friendship and the dark side of popularity",
-      "link": "https://cyprus-mail.com/2026/09/26/books-friendship-and-the-dark-side-of-popularity",
+      "title": "Swiss vote on tightening neutrality rules, ending peacetime cooperation with Nato",
+      "link": "https://cyprus-mail.com/2026/09/27/swiss-vote-on-tightening-neutrality-rules-ending-peacetime-cooperation-with-nato",
       "summary": ""
     },
     {
-      "title": "Rain and thunderstorms on the way as weather set to deteriorate",
-      "link": "https://cyprus-mail.com/2026/09/26/rain-and-thunderstorms-on-the-way-as-weather-set-to-deteriorate",
+      "title": "Fury-Joshua fight in doubt as White uncertain over blockbuster bout",
+      "link": "https://cyprus-mail.com/2026/09/27/fury-joshua-fight-in-doubt-as-white-uncertain-over-blockbuster-bout",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "OpenAI bots meddled with multiple US government agency sites",
-      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
+      "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Bangkok roads submerged as flood disaster declared",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "title": "Four killed in helicopter crash near Montreal",
+      "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "A 'library' of bacteria-killing viruses: Harnessing the power of phages",
-    "link": "https://phys.org/news/2026-09-library-bacteria-viruses-harnessing-power.html",
-    "summary": "An estimated 38 trillion bacteria live in the human body—and only a small fraction are harmful to our health. However, the harmful ones can cause serious illness, especially when they develop resistance to antibiotics.",
+    "title": "Why AI has trouble predicting the fury of hurricane intensity",
+    "link": "https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html",
+    "summary": "Artificial intelligence has revolutionized weather forecasting in just a few years, with global AI weather models now able to produce forecasts that rival some of the world's best physics-based prediction systems.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-26T08:27:12.442Z"
+  "generated_at": "2026-09-27T07:47:55.593Z"
 }
