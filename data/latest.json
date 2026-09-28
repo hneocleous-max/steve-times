@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-27",
-      "code": 2,
-      "max": 29,
-      "min": 20,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-09-28",
       "code": 3,
       "max": 28,
-      "min": 20,
+      "min": 21,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
+    },
+    "tomorrow": {
+      "date": "2026-09-29",
+      "code": 3,
+      "max": 28,
+      "min": 19,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Limassol Wine Festival gets underway",
-      "link": "https://cyprus-mail.com/2026/09/27/limassol-wine-festival-gets-underway",
+      "title": "Bank of Cyprus expands India links with rupee transactions",
+      "link": "https://cyprus-mail.com/2026/09/28/bank-of-cyprus-expands-india-links-with-rupee-transactions",
       "summary": ""
     },
     {
-      "title": "The freedom of Cyprus runs through the mountains of Kurdistan?",
-      "link": "https://cyprus-mail.com/2026/09/27/the-freedom-of-cyprus-runs-through-the-mountains-of-kurdistan",
+      "title": "Timur Turlov elected FIDE president, becomes first Kazakh to lead World Chess",
+      "link": "https://cyprus-mail.com/2026/09/28/timur-turlov-elected-fide-president-becomes-first-kazakh-to-lead-world-chess",
       "summary": ""
     },
     {
-      "title": "Averof announces 2028 presidential bid",
-      "link": "https://cyprus-mail.com/2026/09/27/averof-announces-2028-presidential-bid",
+      "title": "Madrid housing protests enter third day after pensioner’s eviction",
+      "link": "https://cyprus-mail.com/2026/09/28/madrid-housing-protests-enter-third-day-after-pensioners-eviction",
       "summary": ""
     },
     {
-      "title": "Holguin to return to Cyprus in October",
-      "link": "https://cyprus-mail.com/2026/09/27/holguin-to-return-to-cyprus-in-october",
+      "title": "Turkey lifts asset freezes on 46 companies in market probe, media reports",
+      "link": "https://cyprus-mail.com/2026/09/28/turkey-lifts-asset-freezes-on-46-companies-in-market-probe-media-reports",
       "summary": ""
     },
     {
-      "title": "South Africa police launch manhunt after 17 killed in tavern shooting",
-      "link": "https://cyprus-mail.com/2026/09/27/south-africa-police-launch-manhunt-after-17-killed-in-tavern-shooting",
+      "title": "UK police question five over suspected plot near RAF Fairford",
+      "link": "https://cyprus-mail.com/2026/09/28/uk-police-question-five-over-suspected-plot-near-raf-fairford",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "title": "Inside Yemen's front-line city as Houthis battle for control",
+      "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+      "title": "Embattled Serbian president resigns, paving way for early elections",
+      "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Two bodies found after avalanche hits Himalayan climbing group",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Two mass shootings in South Africa leave 28 dead",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
       "title": "Four killed in helicopter crash near Montreal",
       "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
       "summary": ""
-    },
-    {
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-      "summary": ""
     }
   ],
   "discovery": {
-    "title": "Why AI has trouble predicting the fury of hurricane intensity",
-    "link": "https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html",
-    "summary": "Artificial intelligence has revolutionized weather forecasting in just a few years, with global AI weather models now able to produce forecasts that rival some of the world's best physics-based prediction systems.",
+    "title": "Mediterranean rockrose extract shows fungicidal activity against common skin infections",
+    "link": "https://phys.org/news/2026-09-mediterranean-rockrose-fungicidal-common-skin.html",
+    "summary": "A polyphenol-rich extract from Cistus salviifolius, a Mediterranean rockrose species traditionally used to treat skin conditions, has shown fungicidal activity against several dermatophytes, the fungi responsible for superficial infections of the skin, hair and nails.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-27T09:05:21.867Z"
+  "generated_at": "2026-09-28T08:25:39.658Z"
 }
