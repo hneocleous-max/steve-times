@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "code": 3,
-      "max": 28,
-      "min": 21,
+      "max": 29,
+      "min": 20,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "code": 3,
       "max": 28,
-      "min": 19,
+      "min": 20,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Five Paphos venues reported for noise violations",
-      "link": "https://cyprus-mail.com/2026/09/28/five-paphos-venues-reported-for-noise-violations",
+      "title": "Ferrari boss frustrated with speculation about future amid Horner links",
+      "link": "https://cyprus-mail.com/2026/09/29/ferrari-boss-frustrated-with-speculation-about-future-amid-horner-links",
       "summary": ""
     },
     {
-      "title": "Britain seeks compromise over blocked Orange Order march in Northern Ireland",
-      "link": "https://cyprus-mail.com/2026/09/28/britain-seeks-compromise-over-blocked-orange-order-march-in-northern-ireland",
+      "title": "Four people arrested in overnight police operations",
+      "link": "https://cyprus-mail.com/2026/09/29/four-people-arrested-in-overnight-police-operations",
       "summary": ""
     },
     {
-      "title": "Cyprus fuel sales fall 1.4 per cent as pump prices climb",
-      "link": "https://cyprus-mail.com/2026/09/28/cyprus-fuel-sales-fall-1-4-per-cent-as-pump-prices-climb",
+      "title": "Cyprus Cement profit climbs to €5.4m as Vassiliko contribution rises",
+      "link": "https://cyprus-mail.com/2026/09/29/cyprus-cement-profit-climbs-to-e5-4m-as-vassiliko-contribution-rises",
       "summary": ""
     },
     {
-      "title": "Lexus Cycling Dream Team honoured for 2025 Ride of Love contribution",
-      "link": "https://cyprus-mail.com/2026/09/28/lexus-cycling-dream-team-honoured-for-2025-ride-of-love-contribution",
+      "title": "Israel kills senior Hamas commander in Gaza strike",
+      "link": "https://cyprus-mail.com/2026/09/29/israel-kills-senior-hamas-commander-in-gaza-strike",
       "summary": ""
     },
     {
-      "title": "Four arrested in overnight police operations",
-      "link": "https://cyprus-mail.com/2026/09/28/four-arrested-in-overnight-police-operations-4",
+      "title": "Cyprus v Latvia ends in goalless draw",
+      "link": "https://cyprus-mail.com/2026/09/29/cyprus-v-latvia-ends-in-goalless-draw",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Inside Yemen's front-line city as Houthis battle for control",
-      "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump-Xi summit: What wasn't said might matter the most",
-      "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+      "title": "Evicted Spanish pensioner can move back home, lawyer says",
+      "link": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Embattled Serbian president resigns, paving way for early elections",
-      "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Two mass shootings in South Africa leave 28 dead",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "title": "New York Times executive fatally shot by elderly in-laws, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Four killed in helicopter crash near Montreal",
-      "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
+      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+      "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "The herring fishery that took 400 years to rebound—and what it teaches us today",
-    "link": "https://phys.org/news/2026-09-herring-fishery-years-rebound-today.html",
-    "summary": "From the 13th to the 16th century, herring from the Sound—the strait in the Baltic Sea between Denmark and Sweden—was one of northern Europe's most important trade goods. Salted herring from the so-called Skanör-Falsterbo fishery fed large parts of Europe. Around 1570, however, the fishery collapsed rapidly, with far-reaching consequences for trade, politics and society. It took almost 400 years, until the 1950s, for catches to reach comparable levels again.",
+    "title": "AI identifies Senegal's smallholder crops 84% of the time using limited training data",
+    "link": "https://phys.org/news/2026-09-ai-senegal-smallholder-crops-limited.html",
+    "summary": "Food in Senegal is mostly grown on small-scale, rain-dependent farms, leaving much of the population vulnerable to climate shocks, according to the World Food Programme. However, satellite crop-mapping technologies designed to monitor the impact of climate on farming are largely beyond the reach of the West African country.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-28T09:33:44.066Z"
+  "generated_at": "2026-09-29T08:05:12.817Z"
 }
