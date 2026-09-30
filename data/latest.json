@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "code": 3,
-      "max": 29,
+      "max": 27,
       "min": 20,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-09-30",
-      "code": 3,
-      "max": 28,
-      "min": 20,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
+      "date": "2026-10-01",
+      "code": 80,
+      "max": 27,
+      "min": 19,
+      "desc": "Light showers",
+      "icon": "🌦️",
+      "masthead": "Passing showers"
     }
   },
   "local": [
     {
-      "title": "France wants Google fines used to cut EU members’ budget contributions",
-      "link": "https://cyprus-mail.com/2026/09/29/france-wants-google-fines-used-to-cut-eu-members-budget-contributions",
+      "title": "Mall of Cyprus profit jumps 25.5 per cent to nearly €6m",
+      "link": "https://cyprus-mail.com/2026/09/30/mall-of-cyprus-profit-jumps-25-5-per-cent-to-nearly-e6m",
       "summary": ""
     },
     {
-      "title": "Turkey detains chief and six members of referee board in probe",
-      "link": "https://cyprus-mail.com/2026/09/29/turkey-detains-chief-and-six-members-of-referee-board-in-probe",
+      "title": "BoCCF to host ‘Ancient Coins as Contemporary Jewellery’ workshop for adults:",
+      "link": "https://cyprus-mail.com/2026/09/30/boccf-to-host-ancient-coins-as-contemporary-jewellery-workshop-for-adults",
       "summary": ""
     },
     {
-      "title": "Hundreds of Larnaca buildings deemed dangerous",
-      "link": "https://cyprus-mail.com/2026/09/29/hundreds-of-larnaca-buildings-deemed-dangerous",
+      "title": "Cabinet to approve special education improvements",
+      "link": "https://cyprus-mail.com/2026/09/30/cabinet-to-approve-special-education-improvements",
       "summary": ""
     },
     {
-      "title": "Cyprus leads €3.5m push to restore Mediterranean waters",
-      "link": "https://cyprus-mail.com/2026/09/29/cyprus-leads-e3-5m-push-to-restore-mediterranean-waters",
+      "title": "Cyprus: When doing nothing pays",
+      "link": "https://cyprus-mail.com/2026/09/30/cyprus-when-doing-nothing-pays",
       "summary": ""
     },
     {
-      "title": "Evictions expose human cost of Spain’s housing crisis",
-      "link": "https://cyprus-mail.com/2026/09/29/evictions-expose-human-cost-of-spains-housing-crisis",
+      "title": "Second goose with bird flu dies at Nicosia park",
+      "link": "https://cyprus-mail.com/2026/09/30/second-goose-with-bird-flu-dies-at-nicosia-park",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Evicted Spanish pensioner can move back home, lawyer says",
-      "link": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
+      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+      "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "New York Times executive fatally shot by elderly in-laws, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+      "title": "Israel-bound flight diverted after fight between pilots",
+      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-      "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+      "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "AI identifies Senegal's smallholder crops 84% of the time using limited training data",
-    "link": "https://phys.org/news/2026-09-ai-senegal-smallholder-crops-limited.html",
-    "summary": "Food in Senegal is mostly grown on small-scale, rain-dependent farms, leaving much of the population vulnerable to climate shocks, according to the World Food Programme. However, satellite crop-mapping technologies designed to monitor the impact of climate on farming are largely beyond the reach of the West African country.",
+    "title": "Paw-fect candidate: Australia finds new koala rescue dog",
+    "link": "https://phys.org/news/2026-09-paw-fect-candidate-australia-koala.html",
+    "summary": "The hunt is over: After trawling through dozens of applications, an Australian animal welfare group has found a successor to a hero hound credited with saving more than 100 koalas from fires.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-29T09:38:04.718Z"
+  "generated_at": "2026-09-30T08:11:12.229Z"
 }
