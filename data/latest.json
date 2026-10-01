@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-09-30",
-      "code": 3,
-      "max": 27,
-      "min": 20,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
-    },
-    "tomorrow": {
       "date": "2026-10-01",
       "code": 80,
-      "max": 27,
+      "max": 26,
       "min": 19,
+      "desc": "Light showers",
+      "icon": "🌦️",
+      "masthead": "Passing showers"
+    },
+    "tomorrow": {
+      "date": "2026-10-02",
+      "code": 80,
+      "max": 24,
+      "min": 18,
       "desc": "Light showers",
       "icon": "🌦️",
       "masthead": "Passing showers"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Stranded shark draws 600,000 visitors in South Korea",
-      "link": "https://cyprus-mail.com/2026/09/30/stranded-shark-draws-600000-visitors-in-south-korea",
+      "title": "Computers seized in Paphos gambling raid",
+      "link": "https://cyprus-mail.com/2026/10/01/computers-seized-in-paphos-gambling-raid",
       "summary": ""
     },
     {
-      "title": "Second goose with bird flu dies at Nicosia park",
-      "link": "https://cyprus-mail.com/2026/09/30/second-goose-with-bird-flu-dies-at-nicosia-park",
+      "title": "EU marks Cyprus Independence Day",
+      "link": "https://cyprus-mail.com/2026/10/01/eu-marks-cyprus-independence-day",
       "summary": ""
     },
     {
-      "title": "From owls to otters, Japan takes closer look at animal cafes",
-      "link": "https://cyprus-mail.com/2026/09/30/from-owls-to-otters-japan-takes-closer-look-at-animal-cafes",
+      "title": "Explosions heard overnight in Ethiopia’s capital, diplomatic sources say",
+      "link": "https://cyprus-mail.com/2026/10/01/explosions-heard-overnight-in-ethiopias-capital-diplomatic-sources-say",
       "summary": ""
     },
     {
-      "title": "Violence against women in South Africa is national shame, President Ramaphosa says",
-      "link": "https://cyprus-mail.com/2026/09/30/violence-against-women-in-south-africa-is-national-shame-president-ramaphosa-says",
+      "title": "Christodoulides says boosting deterrence ‘top priority’",
+      "link": "https://cyprus-mail.com/2026/10/01/christodoulides-says-boosting-deterrence-top-priority",
       "summary": ""
     },
     {
-      "title": "Cyprus urged to tighten fintech oversight",
-      "link": "https://cyprus-mail.com/2026/09/30/cyprus-urged-to-tighten-fintech-oversight",
+      "title": "Not only the Parthenon has lost its marbles",
+      "link": "https://cyprus-mail.com/2026/10/01/not-only-the-parthenon-has-lost-its-marbles",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Israel-bound flight diverted after fight between pilots",
+      "title": "US death row inmate survives execution attempt after two lethal injections",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "What we know about stabbing on Flydubai flight to Israel",
       "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-      "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-      "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "One-third of world population exposed to harmful air pollution: Monitor",
-    "link": "https://phys.org/news/2026-09-world-population-exposed-air-pollution.html",
-    "summary": "Heat waves and wildfires combined with human-caused emissions this year to expose one-third of the world's population to extremely high levels of ozone pollution, a European Union report said Wednesday.",
+    "title": "'Catastrophic': Swiss glaciers lose fifth of mass in five years",
+    "link": "https://phys.org/news/2026-10-catastrophic-swiss-glaciers-mass-years.html",
+    "summary": "Switzerland's glaciers, which are disproportionately affected by climate change, have lost nearly 20% of their mass in five years, experts said Thursday, with 2026 registering the second-biggest melt on record.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-09-30T09:29:57.988Z"
+  "generated_at": "2026-10-01T08:33:05.647Z"
 }
