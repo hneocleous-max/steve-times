@@ -12,8 +12,8 @@
     "tomorrow": {
       "date": "2026-10-02",
       "code": 80,
-      "max": 24,
-      "min": 18,
+      "max": 23,
+      "min": 19,
       "desc": "Light showers",
       "icon": "🌦️",
       "masthead": "Passing showers"
@@ -21,28 +21,28 @@
   },
   "local": [
     {
-      "title": "Computers seized in Paphos gambling raid",
-      "link": "https://cyprus-mail.com/2026/10/01/computers-seized-in-paphos-gambling-raid",
+      "title": "Parties mark Independence Day with calls for reunification",
+      "link": "https://cyprus-mail.com/2026/10/01/parties-mark-independence-day-with-calls-for-reunification",
       "summary": ""
     },
     {
-      "title": "EU marks Cyprus Independence Day",
-      "link": "https://cyprus-mail.com/2026/10/01/eu-marks-cyprus-independence-day",
+      "title": "Sweden hit by sickness wave ahead of Bosnia clash",
+      "link": "https://cyprus-mail.com/2026/10/01/sweden-hit-by-sickness-wave-ahead-of-bosnia-clash",
       "summary": ""
     },
     {
-      "title": "Explosions heard overnight in Ethiopia’s capital, diplomatic sources say",
-      "link": "https://cyprus-mail.com/2026/10/01/explosions-heard-overnight-in-ethiopias-capital-diplomatic-sources-say",
+      "title": "Israel vows to get to ‘root’ of flydubai attack, UAE launches investigation",
+      "link": "https://cyprus-mail.com/2026/10/01/israel-vows-to-get-to-root-of-flydubai-attack-uae-launches-investigation",
       "summary": ""
     },
     {
-      "title": "Christodoulides says boosting deterrence ‘top priority’",
-      "link": "https://cyprus-mail.com/2026/10/01/christodoulides-says-boosting-deterrence-top-priority",
+      "title": "Mountain community allowances increased",
+      "link": "https://cyprus-mail.com/2026/10/01/mountain-community-allowances-increased",
       "summary": ""
     },
     {
-      "title": "Not only the Parthenon has lost its marbles",
-      "link": "https://cyprus-mail.com/2026/10/01/not-only-the-parthenon-has-lost-its-marbles",
+      "title": "Drone startup tied to Trump sons aims to bring Ukrainian tech to US",
+      "link": "https://cyprus-mail.com/2026/10/01/drone-startup-tied-to-trump-sons-aims-to-bring-ukrainian-tech-to-us",
       "summary": ""
     }
   ],
@@ -68,16 +68,16 @@
       "summary": ""
     },
     {
-      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+      "title": "Japan raises permanent residency fee by 20 times",
+      "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "'Catastrophic': Swiss glaciers lose fifth of mass in five years",
-    "link": "https://phys.org/news/2026-10-catastrophic-swiss-glaciers-mass-years.html",
-    "summary": "Switzerland's glaciers, which are disproportionately affected by climate change, have lost nearly 20% of their mass in five years, experts said Thursday, with 2026 registering the second-biggest melt on record.",
+    "title": "Study shows how research can change person conducting it",
+    "link": "https://phys.org/news/2026-09-person.html",
+    "summary": "In 2012, I began an interview study with two multilingual language learners, focusing on their motivations for learning languages. It eventually developed into a nine-year longitudinal study.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-10-01T08:33:05.647Z"
+  "generated_at": "2026-10-01T09:56:16.666Z"
 }
