@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-10-01",
-      "code": 80,
+      "date": "2026-10-02",
+      "code": 3,
       "max": 26,
-      "min": 19,
-      "desc": "Light showers",
-      "icon": "🌦️",
-      "masthead": "Passing showers"
+      "min": 18,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-10-02",
+      "date": "2026-10-03",
       "code": 80,
-      "max": 23,
-      "min": 19,
+      "max": 26,
+      "min": 17,
       "desc": "Light showers",
       "icon": "🌦️",
       "masthead": "Passing showers"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Parties mark Independence Day with calls for reunification",
-      "link": "https://cyprus-mail.com/2026/10/01/parties-mark-independence-day-with-calls-for-reunification",
+      "title": "MHV cuts first-half loss to €5.07m despite Middle East impact",
+      "link": "https://cyprus-mail.com/2026/10/02/mhv-cuts-first-half-loss-to-e5-07m-despite-middle-east-impact",
       "summary": ""
     },
     {
-      "title": "Sweden hit by sickness wave ahead of Bosnia clash",
-      "link": "https://cyprus-mail.com/2026/10/01/sweden-hit-by-sickness-wave-ahead-of-bosnia-clash",
+      "title": "34 e-scooter users reported in Famagusta",
+      "link": "https://cyprus-mail.com/2026/10/02/34-e-scooter-users-reported-in-famagusta",
       "summary": ""
     },
     {
-      "title": "Israel vows to get to ‘root’ of flydubai attack, UAE launches investigation",
-      "link": "https://cyprus-mail.com/2026/10/01/israel-vows-to-get-to-root-of-flydubai-attack-uae-launches-investigation",
+      "title": "Alcaraz says five sets key to Grand Slam legacy, urges calendar reforms",
+      "link": "https://cyprus-mail.com/2026/10/02/alcaraz-says-five-sets-key-to-grand-slam-legacy-urges-calendar-reforms",
       "summary": ""
     },
     {
-      "title": "Mountain community allowances increased",
-      "link": "https://cyprus-mail.com/2026/10/01/mountain-community-allowances-increased",
+      "title": "Man City not ‘above the rules’, says Downing Street after backlash",
+      "link": "https://cyprus-mail.com/2026/10/02/man-city-not-above-the-rules-says-downing-street-after-backlash",
       "summary": ""
     },
     {
-      "title": "Drone startup tied to Trump sons aims to bring Ukrainian tech to US",
-      "link": "https://cyprus-mail.com/2026/10/01/drone-startup-tied-to-trump-sons-aims-to-bring-ukrainian-tech-to-us",
+      "title": "Genikes Insurance supports Fire Service with supplies and equipment",
+      "link": "https://cyprus-mail.com/2026/10/02/genikes-insurance-supports-fire-service-with-supplies-and-equipment",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "US death row inmate survives execution attempt after two lethal injections",
-      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+      "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+      "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+      "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Japan raises permanent residency fee by 20 times",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Study shows how research can change person conducting it",
-    "link": "https://phys.org/news/2026-09-person.html",
-    "summary": "In 2012, I began an interview study with two multilingual language learners, focusing on their motivations for learning languages. It eventually developed into a nine-year longitudinal study.",
+    "title": "Europe's hottest summer caused record heat stress: Monitor",
+    "link": "https://phys.org/news/2026-10-europe-hottest-summer-stress.html",
+    "summary": "A record 52% of Europe was exposed to intense heat stress during the exceptionally hot summer that seared the continent this year, the EU's climate monitor said Friday.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-10-01T09:56:16.666Z"
+  "generated_at": "2026-10-02T08:08:33.219Z"
 }
