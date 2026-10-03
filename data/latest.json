@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-10-02",
+      "date": "2026-10-03",
       "code": 3,
       "max": 26,
-      "min": 18,
+      "min": 17,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "code": 80,
-      "max": 26,
-      "min": 17,
+      "max": 25,
+      "min": 19,
       "desc": "Light showers",
       "icon": "🌦️",
       "masthead": "Passing showers"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Europe weighs new diesel stocks release after US pressure",
-      "link": "https://cyprus-mail.com/2026/10/02/europe-weighs-new-diesel-stocks-release-after-us-pressure",
+      "title": "Six arrested in overnight police operations",
+      "link": "https://cyprus-mail.com/2026/10/03/six-arrested-in-overnight-police-operations-10",
       "summary": ""
     },
     {
-      "title": "Right lane of Nicosia-Limassol highway reopened after crash",
-      "link": "https://cyprus-mail.com/2026/10/02/right-lane-of-nicosia-limassol-highway-reopened-after-crash",
+      "title": "Today’s weather: Partly cloudy with isolated showers",
+      "link": "https://cyprus-mail.com/2026/10/03/todays-weather-partly-cloudy-with-isolated-showers",
       "summary": ""
     },
     {
-      "title": "Larnaca apartment complex committee alleges illegal utility connections, unauthorised occupancy",
-      "link": "https://cyprus-mail.com/2026/10/02/larnaca-apartment-complex-committee-alleges-illegal-utility-connections-unauthorised-occupancy",
+      "title": "Velychko Gallery presents new Kyriaki Costa exhibition",
+      "link": "https://cyprus-mail.com/2026/10/03/velychko-gallery-presents-new-kyriaki-costa-exhibition",
       "summary": ""
     },
     {
-      "title": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack",
-      "link": "https://cyprus-mail.com/2026/10/02/indian-pilot-tells-pm-modi-he-opened-flydubai-cockpit-door-during-attack",
+      "title": "Building a pathway to peace in Ukraine",
+      "link": "https://cyprus-mail.com/2026/10/03/building-a-pathway-to-peace-in-ukraine",
       "summary": ""
     },
     {
-      "title": "University of Nicosia ranked among the world’s top 550 universities",
-      "link": "https://cyprus-mail.com/2026/10/02/university-of-nicosia-ranked-among-the-worlds-top-550-universities",
+      "title": "Cyprus Business Now: Wizz Air, inflation, tourism, Limassol startup, real estate",
+      "link": "https://cyprus-mail.com/2026/10/03/cyprus-business-now-wizz-air-inflation-tourism-limassol-startup-real-estate",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "title": "Flydubai co-pilot attacked captain with crash axe, UAE official says",
+      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "title": "Russia strikes second major bridge in Kyiv, mayor says",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-      "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
-      "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Europe's hottest summer caused record heat stress: Monitor",
-    "link": "https://phys.org/news/2026-10-europe-hottest-summer-stress.html",
-    "summary": "A record 52% of Europe was exposed to intense heat stress during the exceptionally hot summer that seared the continent this year, the EU's climate monitor said Friday.",
+    "title": "Why tenants choose to move out in connection with renovation",
+    "link": "https://phys.org/news/2026-10-tenants-renovation.html",
+    "summary": "One in three tenants who moved out of a municipal rental apartment in Gothenburg in connection with renovation said the renovation was a main reason for their decision, and many of them moved out even before construction began. A new study from Chalmers University of Technology shows that concerns about disruption, uncertainty and unclear information can be just as important as rent increases.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-10-02T09:32:45.554Z"
+  "generated_at": "2026-10-03T07:46:55.939Z"
 }
