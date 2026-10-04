@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-10-03",
-      "code": 3,
-      "max": 26,
-      "min": 17,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
-    },
-    "tomorrow": {
       "date": "2026-10-04",
       "code": 80,
       "max": 25,
@@ -17,67 +8,76 @@
       "desc": "Light showers",
       "icon": "🌦️",
       "masthead": "Passing showers"
+    },
+    "tomorrow": {
+      "date": "2026-10-05",
+      "code": 3,
+      "max": 26,
+      "min": 18,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "Mosque, church conservation works completed",
-      "link": "https://cyprus-mail.com/2026/10/03/mosque-church-conservation-works-completed",
+      "title": "The focus on fiscal surpluses could curb economic growth",
+      "link": "https://cyprus-mail.com/2026/10/04/the-focus-on-fiscal-surpluses-could-curb-economic-growth",
       "summary": ""
     },
     {
-      "title": "A book whose title says it all",
-      "link": "https://cyprus-mail.com/2026/10/03/a-book-whose-title-says-it-all",
+      "title": "Monthly allowance, free transport announced for cancer patients",
+      "link": "https://cyprus-mail.com/2026/10/04/monthly-allowance-free-transport-announced-for-cancer-patients",
       "summary": ""
     },
     {
-      "title": "Man arrested 16 years after burglary",
-      "link": "https://cyprus-mail.com/2026/10/03/man-arrested-16-years-after-burglary",
+      "title": "EU financial regulator targets AI and tokenisation in new supervision drive",
+      "link": "https://cyprus-mail.com/2026/10/04/eu-financial-regulator-targets-ai-and-tokenisation-in-new-supervision-drive",
       "summary": ""
     },
     {
-      "title": "North Korea fires ballistic missile toward sea, South Korea and Japan say",
-      "link": "https://cyprus-mail.com/2026/10/03/north-korea-fires-ballistic-missile-toward-sea-south-korea-and-japan-say",
+      "title": "Twelve arrested in overnight police operations",
+      "link": "https://cyprus-mail.com/2026/10/04/twelve-arrested-in-overnight-police-operations-4",
       "summary": ""
     },
     {
-      "title": "Ten injured in Australia as car crashes into crowd north of Sydney",
-      "link": "https://cyprus-mail.com/2026/10/03/pdate-2-ten-injured-in-australia-as-car-crashes-into-crowd-north-of-sydney",
+      "title": "Drivers stopped multiple times over the limit",
+      "link": "https://cyprus-mail.com/2026/10/04/drivers-stopped-multiple-times-over-the-limit",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Russia strikes second major bridge in Kyiv, mayor says",
+      "title": "Australia investigating Flydubai co-pilot's links to country",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
       "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-      "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Why tenants choose to move out in connection with renovation",
-    "link": "https://phys.org/news/2026-10-tenants-renovation.html",
-    "summary": "One in three tenants who moved out of a municipal rental apartment in Gothenburg in connection with renovation said the renovation was a main reason for their decision, and many of them moved out even before construction began. A new study from Chalmers University of Technology shows that concerns about disruption, uncertainty and unclear information can be just as important as rent increases.",
+    "title": "Cities keep shelling out taxpayer money for sports stadiums, yet the economics almost never makes sense",
+    "link": "https://phys.org/news/2026-09-cities-shelling-taxpayer-money-sports.html",
+    "summary": "Americans are crazy about sports. But whether that passion requires taxpayers to subsidize new facilities every time leagues and franchises ask for them needs rigorous scrutiny.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-10-03T08:59:59.172Z"
+  "generated_at": "2026-10-04T07:56:38.661Z"
 }
