@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-10-04",
-      "code": 80,
-      "max": 25,
-      "min": 19,
-      "desc": "Light showers",
-      "icon": "🌦️",
-      "masthead": "Passing showers"
-    },
-    "tomorrow": {
       "date": "2026-10-05",
       "code": 3,
       "max": 26,
-      "min": 18,
+      "min": 17,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
+    },
+    "tomorrow": {
+      "date": "2026-10-06",
+      "code": 3,
+      "max": 26,
+      "min": 19,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Cyprus needs targeted social policy to combat inequality",
-      "link": "https://cyprus-mail.com/2026/10/04/cyprus-needs-targeted-social-policy-to-combat-inequality",
+      "title": "Cyprus adds €2m to youth farming scheme as demand rises",
+      "link": "https://cyprus-mail.com/2026/10/05/cyprus-adds-e2m-to-youth-farming-scheme-as-demand-rises",
       "summary": ""
     },
     {
-      "title": "Makarios hospital on standby for winter season",
-      "link": "https://cyprus-mail.com/2026/10/04/makarios-hospital-on-standby-for-winter-season",
+      "title": "Nicosia targets Greek market with year-round tourism push",
+      "link": "https://cyprus-mail.com/2026/10/05/nicosia-targets-greek-market-with-year-round-tourism-push",
       "summary": ""
     },
     {
-      "title": "Sabalenka bundled out of China Open by Czech Bartunkova",
-      "link": "https://cyprus-mail.com/2026/10/04/sabalenka-bundled-out-of-china-open-by-czech-bartunkova",
+      "title": "Two drink driving crashes at same spot in Nicosia",
+      "link": "https://cyprus-mail.com/2026/10/05/two-drink-driving-crashes-at-same-spot-in-nicosia",
       "summary": ""
     },
     {
-      "title": "Two arrests in Larnaca over thefts",
-      "link": "https://cyprus-mail.com/2026/10/04/two-arrests-in-larnaca-over-thefts",
+      "title": "Madd Hatters’ bagpipes defy the Cyprus Weather",
+      "link": "https://cyprus-mail.com/2026/10/05/madd-hatters-bagpipes-defy-the-cyprus-weather",
       "summary": ""
     },
     {
-      "title": "Iran says Strait of Hormuz will not reopen until conditions are met",
-      "link": "https://cyprus-mail.com/2026/10/04/iran-says-strait-of-hormuz-will-not-reopen-until-conditions-are-met",
+      "title": "Eurobank buys back 1.05 million shares for €5.02 million",
+      "link": "https://cyprus-mail.com/2026/10/05/eurobank-buys-back-1-05-million-shares-for-e5-02-million",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Australia investigating Flydubai co-pilot's links to country",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: How Brazil's dramatic election unfolded",
+      "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+      "title": "US air force removes all bombers from British military base RAF Fairford",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Cornell president says university 'must do better' after frat house rape allegations",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "title": "France closes up to 500 schools Monday over student protests",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Cities keep shelling out taxpayer money for sports stadiums, yet the economics almost never makes sense",
-    "link": "https://phys.org/news/2026-09-cities-shelling-taxpayer-money-sports.html",
-    "summary": "Americans are crazy about sports. But whether that passion requires taxpayers to subsidize new facilities every time leagues and franchises ask for them needs rigorous scrutiny.",
+    "title": "Extreme heat putting pregnant women, newborns at risk: UN climate chief",
+    "link": "https://phys.org/news/2026-10-extreme-pregnant-women-newborns-climate.html",
+    "summary": "Extreme heat is putting pregnant mothers and their newborns at increasing risk, United Nations climate chief Simon Stiell will warn on Monday.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-10-04T09:31:17.386Z"
+  "generated_at": "2026-10-05T08:38:32.121Z"
 }
