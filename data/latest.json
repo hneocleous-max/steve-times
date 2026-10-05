@@ -11,38 +11,38 @@
     },
     "tomorrow": {
       "date": "2026-10-06",
-      "code": 3,
-      "max": 26,
-      "min": 19,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
+      "code": 61,
+      "max": 25,
+      "min": 18,
+      "desc": "Light rain",
+      "icon": "🌦️",
+      "masthead": "Some rain"
     }
   },
   "local": [
     {
-      "title": "Cyprus adds €2m to youth farming scheme as demand rises",
-      "link": "https://cyprus-mail.com/2026/10/05/cyprus-adds-e2m-to-youth-farming-scheme-as-demand-rises",
+      "title": "British father’s sentencing postponed as court awaits document from UK",
+      "link": "https://cyprus-mail.com/2026/10/05/british-fathers-sentencing-postponed-as-court-awaits-document-from-uk",
       "summary": ""
     },
     {
-      "title": "Nicosia targets Greek market with year-round tourism push",
-      "link": "https://cyprus-mail.com/2026/10/05/nicosia-targets-greek-market-with-year-round-tourism-push",
+      "title": "Big Tech poses greater long-term threat to banks than fintechs, professor says",
+      "link": "https://cyprus-mail.com/2026/10/05/big-tech-poses-greater-long-term-threat-to-banks-than-fintechs-professor-says",
       "summary": ""
     },
     {
-      "title": "Two drink driving crashes at same spot in Nicosia",
-      "link": "https://cyprus-mail.com/2026/10/05/two-drink-driving-crashes-at-same-spot-in-nicosia",
+      "title": "Court of appeal increases sentences in meth case",
+      "link": "https://cyprus-mail.com/2026/10/05/court-of-appeal-increases-sentences-in-meth-case",
       "summary": ""
     },
     {
-      "title": "Madd Hatters’ bagpipes defy the Cyprus Weather",
-      "link": "https://cyprus-mail.com/2026/10/05/madd-hatters-bagpipes-defy-the-cyprus-weather",
+      "title": "Long Stay Legends Dog Show raises almost €6,500 in huge community success",
+      "link": "https://cyprus-mail.com/2026/10/05/long-stay-legends-dog-show-raises-almost-e6500-in-huge-community-success",
       "summary": ""
     },
     {
-      "title": "Eurobank buys back 1.05 million shares for €5.02 million",
-      "link": "https://cyprus-mail.com/2026/10/05/eurobank-buys-back-1-05-million-shares-for-e5-02-million",
+      "title": "Mitsero area residents protest asphalt plant",
+      "link": "https://cyprus-mail.com/2026/10/05/mitsero-area-residents-protest-asphalt-plant",
       "summary": ""
     }
   ],
@@ -63,8 +63,8 @@
       "summary": ""
     },
     {
-      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+      "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
@@ -74,10 +74,10 @@
     }
   ],
   "discovery": {
-    "title": "Extreme heat putting pregnant women, newborns at risk: UN climate chief",
-    "link": "https://phys.org/news/2026-10-extreme-pregnant-women-newborns-climate.html",
-    "summary": "Extreme heat is putting pregnant mothers and their newborns at increasing risk, United Nations climate chief Simon Stiell will warn on Monday.",
+    "title": "Electrical technique could help identify signs of life in space",
+    "link": "https://phys.org/news/2026-10-electrical-technique-life-space.html",
+    "summary": "The truth is out there—but identifying signs of life in space involves an intense search for biosignatures within our solar system and beyond. However, developing sensitive yet compact technologies capable of detection has proven to be an out-of-this-world challenge.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-10-05T08:38:32.121Z"
+  "generated_at": "2026-10-05T10:12:40.951Z"
 }
