@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-10-05",
-      "code": 3,
-      "max": 26,
-      "min": 17,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
-    },
-    "tomorrow": {
       "date": "2026-10-06",
-      "code": 61,
+      "code": 65,
       "max": 25,
       "min": 18,
-      "desc": "Light rain",
-      "icon": "🌦️",
-      "masthead": "Some rain"
+      "desc": "Heavy rain",
+      "icon": "🌧️",
+      "masthead": "Heavy rain"
+    },
+    "tomorrow": {
+      "date": "2026-10-07",
+      "code": 2,
+      "max": 26,
+      "min": 18,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "British father’s sentencing postponed as court awaits document from UK",
-      "link": "https://cyprus-mail.com/2026/10/05/british-fathers-sentencing-postponed-as-court-awaits-document-from-uk",
+      "title": "10 years of Fresh Partnership: Lidl extends Global Handball Partnership with the IHF World Championships through 2030",
+      "link": "https://cyprus-mail.com/2026/10/06/10-years-of-fresh-partnership-lidl-extends-global-handball-partnership-with-the-ihf-world-championships-through-2030",
       "summary": ""
     },
     {
-      "title": "Big Tech poses greater long-term threat to banks than fintechs, professor says",
-      "link": "https://cyprus-mail.com/2026/10/05/big-tech-poses-greater-long-term-threat-to-banks-than-fintechs-professor-says",
+      "title": "Christodoulides to ask to meet Erhurman next week",
+      "link": "https://cyprus-mail.com/2026/10/06/christodoulides-to-ask-to-meet-erhurman-next-week",
       "summary": ""
     },
     {
-      "title": "Court of appeal increases sentences in meth case",
-      "link": "https://cyprus-mail.com/2026/10/05/court-of-appeal-increases-sentences-in-meth-case",
+      "title": "Two Saudi airports targeted on Monday as fighting with Yemen’s Houthis escalates",
+      "link": "https://cyprus-mail.com/2026/10/06/two-saudi-airports-targeted-on-monday-as-fighting-with-yemens-houthis-escalates",
       "summary": ""
     },
     {
-      "title": "Long Stay Legends Dog Show raises almost €6,500 in huge community success",
-      "link": "https://cyprus-mail.com/2026/10/05/long-stay-legends-dog-show-raises-almost-e6500-in-huge-community-success",
+      "title": "Why workplace relationships are becoming a key issue for Cyprus businesses",
+      "link": "https://cyprus-mail.com/2026/10/06/why-workplace-relationships-are-becoming-a-key-issue-for-cyprus-businesses",
       "summary": ""
     },
     {
-      "title": "Mitsero area residents protest asphalt plant",
-      "link": "https://cyprus-mail.com/2026/10/05/mitsero-area-residents-protest-asphalt-plant",
+      "title": "Supreme Court overturns issuing of €1,500 fine to radio station",
+      "link": "https://cyprus-mail.com/2026/10/06/supreme-court-overturns-issuing-of-e1500-fine-to-radio-station",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "title": "Mass school protests begin in France after days of clashes",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Watch: How Brazil's dramatic election unfolded",
-      "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US air force removes all bombers from British military base RAF Fairford",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+      "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+      "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
-      "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
+      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+      "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "France closes up to 500 schools Monday over student protests",
-      "link": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+      "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Electrical technique could help identify signs of life in space",
-    "link": "https://phys.org/news/2026-10-electrical-technique-life-space.html",
-    "summary": "The truth is out there—but identifying signs of life in space involves an intense search for biosignatures within our solar system and beyond. However, developing sensitive yet compact technologies capable of detection has proven to be an out-of-this-world challenge.",
+    "title": "California scientist wins a Nobel Prize, then makes school lunches for his kids",
+    "link": "https://phys.org/news/2026-10-california-scientist-nobel-prize-school.html",
+    "summary": "Dr. Karl Deisseroth spent hours fielding congratulatory calls after learning early Monday that he had won a Nobel Prize for medicine for helping to open a new field of brain science called optogenetics.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-10-05T10:12:40.951Z"
+  "generated_at": "2026-10-06T08:44:11.599Z"
 }
