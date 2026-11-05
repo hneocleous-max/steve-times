@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-10-06",
-      "code": 65,
+      "date": "2026-11-05",
+      "code": 3,
       "max": 25,
-      "min": 18,
-      "desc": "Heavy rain",
-      "icon": "🌧️",
-      "masthead": "Heavy rain"
+      "min": 13,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-10-07",
-      "code": 2,
-      "max": 26,
-      "min": 18,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
+      "date": "2026-11-06",
+      "code": 3,
+      "max": 21,
+      "min": 16,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "10 years of Fresh Partnership: Lidl extends Global Handball Partnership with the IHF World Championships through 2030",
-      "link": "https://cyprus-mail.com/2026/10/06/10-years-of-fresh-partnership-lidl-extends-global-handball-partnership-with-the-ihf-world-championships-through-2030",
+      "title": "Ustel accuses EU and UN of bias over Turkey progress report",
+      "link": "https://cyprus-mail.com/2026/11/05/ustel-accuses-eu-and-un-of-bias-over-turkey-progress-report",
       "summary": ""
     },
     {
-      "title": "Christodoulides to ask to meet Erhurman next week",
-      "link": "https://cyprus-mail.com/2026/10/06/christodoulides-to-ask-to-meet-erhurman-next-week",
+      "title": "Cyprus seeks deeper Silicon Valley links as US investment interest grows",
+      "link": "https://cyprus-mail.com/2026/11/05/cyprus-seeks-deeper-silicon-valley-links-as-us-investment-interest-grows",
       "summary": ""
     },
     {
-      "title": "Two Saudi airports targeted on Monday as fighting with Yemen’s Houthis escalates",
-      "link": "https://cyprus-mail.com/2026/10/06/two-saudi-airports-targeted-on-monday-as-fighting-with-yemens-houthis-escalates",
+      "title": "26 arrested in major Cyprus police operation targeting organised crime networks",
+      "link": "https://cyprus-mail.com/2026/11/05/26-arrested-in-major-cyprus-police-operation-targeting-organised-crime-networks",
       "summary": ""
     },
     {
-      "title": "Why workplace relationships are becoming a key issue for Cyprus businesses",
-      "link": "https://cyprus-mail.com/2026/10/06/why-workplace-relationships-are-becoming-a-key-issue-for-cyprus-businesses",
+      "title": "Ballon d’Or winner Kane signs Bayern extension until 2029",
+      "link": "https://cyprus-mail.com/2026/11/05/ballon-dor-winner-kane-signs-bayern-extension-until-2029",
       "summary": ""
     },
     {
-      "title": "Supreme Court overturns issuing of €1,500 fine to radio station",
-      "link": "https://cyprus-mail.com/2026/10/06/supreme-court-overturns-issuing-of-e1500-fine-to-radio-station",
+      "title": "Bank of Cyprus raises 2026 profitability target after €383m nine-month profit",
+      "link": "https://cyprus-mail.com/2026/11/05/bank-of-cyprus-raises-2026-profitability-target-after-e383m-nine-month-profit",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Mass school protests begin in France after days of clashes",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-      "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-      "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+      "title": "Italian chef fired after refusing to put pineapple on pizza",
+      "link": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "California scientist wins a Nobel Prize, then makes school lunches for his kids",
-    "link": "https://phys.org/news/2026-10-california-scientist-nobel-prize-school.html",
-    "summary": "Dr. Karl Deisseroth spent hours fielding congratulatory calls after learning early Monday that he had won a Nobel Prize for medicine for helping to open a new field of brain science called optogenetics.",
+    "title": "Prehistoric 'giant rat' found in Thailand from fossil teeth",
+    "link": "https://phys.org/news/2026-11-prehistoric-giant-rat-thailand-fossil.html",
+    "summary": "A giant rodent weighing around 30 kilograms (66 pounds) roamed what is now southern Thailand 33 to 35 million years ago, scientists said, after identifying a previously unknown species from two fossilized teeth.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-10-06T08:44:11.599Z"
+  "generated_at": "2026-11-05T09:57:39.209Z"
 }
