@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "code": 3,
-      "max": 25,
-      "min": 13,
+      "max": 23,
+      "min": 16,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-11-06",
-      "code": 80,
+      "date": "2026-11-07",
+      "code": 2,
       "max": 23,
-      "min": 16,
-      "desc": "Light showers",
-      "icon": "🌦️",
-      "masthead": "Passing showers"
+      "min": 14,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "Paphos air base opens to public for Air Force celebrations",
-      "link": "https://cyprus-mail.com/2026/11/05/paphos-air-base-opens-to-public-for-air-force-celebrations",
+      "title": "Sick leave days remain high in civil service",
+      "link": "https://cyprus-mail.com/2026/11/06/sick-leave-days-remain-high-in-civil-service",
       "summary": ""
     },
     {
-      "title": "Australian F1 world champion Alan Jones dies aged 80",
-      "link": "https://cyprus-mail.com/2026/11/05/australian-f1-world-champion-alan-jones-dies-aged-80",
+      "title": "Hamilton says he won’t be silenced",
+      "link": "https://cyprus-mail.com/2026/11/06/hamilton-says-he-wont-be-silenced",
       "summary": ""
     },
     {
-      "title": "Wave of bomb threats forces flight diversions across Europe",
-      "link": "https://cyprus-mail.com/2026/11/05/bomb-alert-diverts-airbus-a320-plane-going-from-dublin-to-rome-french-pm-says",
+      "title": "WTA takes blame after Pegula ‘diva’ comments on Andreeva get livestreamed",
+      "link": "https://cyprus-mail.com/2026/11/06/wta-takes-blame-after-pegula-diva-comments-on-andreeva-get-livestreamed",
       "summary": ""
     },
     {
-      "title": "Ustel accuses EU and UN of bias over Turkey progress report",
-      "link": "https://cyprus-mail.com/2026/11/05/ustel-accuses-eu-and-un-of-bias-over-turkey-progress-report",
+      "title": "Cyprus problem at ‘critical point’ says palace",
+      "link": "https://cyprus-mail.com/2026/11/06/cyprus-problem-at-critical-point-says-palace",
       "summary": ""
     },
     {
-      "title": "Cyprus seeks deeper Silicon Valley links as US investment interest grows",
-      "link": "https://cyprus-mail.com/2026/11/05/cyprus-seeks-deeper-silicon-valley-links-as-us-investment-interest-grows",
+      "title": "Milan stunned, Marseille and Juventus secure Europa League",
+      "link": "https://cyprus-mail.com/2026/11/06/milan-stunned-marseille-and-juventus-secure-europa-league",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "What Democrats can and can't do with their new power after taking Congress",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump signs order to preserve Oval Office as national monument",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Italian chef fired after refusing to put pineapple on pizza",
-      "link": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo?at_medium=RSS&at_campaign=rss",
+      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Fractal patterns reveal hidden limits to AI predictability",
-    "link": "https://phys.org/news/2026-11-fractal-patterns-reveal-hidden-limits.html",
-    "summary": "Researchers at the University of Sydney have identified a fundamental mathematical reason why artificial intelligence systems can learn different behaviors even when trained under almost identical conditions, a discovery that could help improve the reliability and trustworthiness of AI technologies.",
+    "title": "Bear necessities: Indian techie builds wildlife alert",
+    "link": "https://phys.org/news/2026-11-necessities-indian-techie-wildlife.html",
+    "summary": "After his mother was killed in a bear attack in Kashmir, Indian software engineer Mudasir Ali developed an online early-warning system to help people in the Himalayan region avoid dangerous encounters with wildlife.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-05T10:35:43.885Z"
+  "generated_at": "2026-11-06T09:01:40.220Z"
 }
