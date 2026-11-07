@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "code": 3,
       "max": 23,
-      "min": 16,
+      "min": 13,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "code": 2,
-      "max": 23,
-      "min": 14,
+      "max": 19,
+      "min": 10,
       "desc": "Partly cloudy",
       "icon": "⛅",
       "masthead": "Fair skies"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Copenhagen airport hit by fresh threats amid Europe flight scares",
-      "link": "https://cyprus-mail.com/2026/11/06/copenhagen-airport-hit-by-fresh-threats-amid-europe-flight-scares",
+      "title": "Thunderstorms possible on Saturday as cooler weather follows",
+      "link": "https://cyprus-mail.com/2026/11/07/thunderstorms-possible-on-saturday-as-cooler-weather-follows",
       "summary": ""
     },
     {
-      "title": "Court annuls migration dept decision on sham marriage",
-      "link": "https://cyprus-mail.com/2026/11/06/court-annuls-migration-dept-decision-on-sham-marriage",
+      "title": "Sunday market coming up in Paphos",
+      "link": "https://cyprus-mail.com/2026/11/07/sunday-market-coming-up-in-paphos",
       "summary": ""
     },
     {
-      "title": "Ronaldo exits Portugal stage with records intact and farewell clouded by rift",
-      "link": "https://cyprus-mail.com/2026/11/06/ronaldo-exits-portugal-stage-with-records-intact-and-farewell-clouded-by-rift",
+      "title": "Qatar says its mediation efforts between US and Iran continue to prevent escalation",
+      "link": "https://cyprus-mail.com/2026/11/07/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation",
       "summary": ""
     },
     {
-      "title": "European businesses challenge approach to revised tobacco legislation",
-      "link": "https://cyprus-mail.com/2026/11/06/european-businesses-challenge-approach-to-revised-tobacco-legislation",
+      "title": "The eurozone must adapt or die",
+      "link": "https://cyprus-mail.com/2026/11/07/the-eurozone-must-adapt-or-die",
       "summary": ""
     },
     {
-      "title": "Akel asks anti-corruption authority to investigate Vasiliko terminal claims",
-      "link": "https://cyprus-mail.com/2026/11/06/akel-asks-anti-corruption-authority-to-investigate-vasiliko-terminal-claims",
+      "title": "New Zealand election early count shows tight race but National Party ahead",
+      "link": "https://cyprus-mail.com/2026/11/07/new-zealand-election-early-count-shows-tight-race-but-national-party-ahead",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump signs order to preserve Oval Office as national monument",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Two dead after bus crashes in France, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+      "title": "Four midterms takeaways for 2028 White House race",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+      "title": "New wave of bomb threats hit European airlines",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Forests or underground storage? New metric compares risks of carbon removal projects",
-    "link": "https://phys.org/news/2026-11-forests-underground-storage-metric-carbon.html",
-    "summary": "The risk of relying on uncertain carbon removal projects can now be quantified using a new standardized metric that can be applied across all such schemes, irrespective of the technology used.",
+    "title": "Disasters and debt. Escaping the 'climate-debt doom loop'",
+    "link": "https://phys.org/news/2026-11-disasters-debt-climate-doom-loop.html",
+    "summary": "It took around 480,000 trucks to haul away 4.8 million metric tons (5.3 million tons) of rubble across western Jamaica after Hurricane Melissa tore through the Caribbean in 2025, United Nations satellites showed.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-06T10:37:39.525Z"
+  "generated_at": "2026-11-07T08:30:04.662Z"
 }
