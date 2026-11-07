@@ -11,38 +11,38 @@
     },
     "tomorrow": {
       "date": "2026-11-08",
-      "code": 2,
+      "code": 3,
       "max": 19,
       "min": 10,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "Thunderstorms possible on Saturday as cooler weather follows",
-      "link": "https://cyprus-mail.com/2026/11/07/thunderstorms-possible-on-saturday-as-cooler-weather-follows",
+      "title": "Four arrested in overnight police operations",
+      "link": "https://cyprus-mail.com/2026/11/07/four-arrested-in-overnight-police-operations-7",
       "summary": ""
     },
     {
-      "title": "Sunday market coming up in Paphos",
-      "link": "https://cyprus-mail.com/2026/11/07/sunday-market-coming-up-in-paphos",
+      "title": "French research vessel Abeille Marengo set to sail for cable surveys",
+      "link": "https://cyprus-mail.com/2026/11/07/french-research-vessel-abeille-marengo-set-to-sail-for-cable-surveys",
       "summary": ""
     },
     {
-      "title": "Qatar says its mediation efforts between US and Iran continue to prevent escalation",
-      "link": "https://cyprus-mail.com/2026/11/07/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation",
+      "title": "Man held in Larnaca with 2,000 packs of contraband cigarettes",
+      "link": "https://cyprus-mail.com/2026/11/07/man-held-in-larnaca-with-2000-packs-of-contraband-cigarettes",
       "summary": ""
     },
     {
-      "title": "The eurozone must adapt or die",
-      "link": "https://cyprus-mail.com/2026/11/07/the-eurozone-must-adapt-or-die",
+      "title": "Cyprus can think five steps ahead",
+      "link": "https://cyprus-mail.com/2026/11/07/cyprus-can-think-five-steps-ahead",
       "summary": ""
     },
     {
-      "title": "New Zealand election early count shows tight race but National Party ahead",
-      "link": "https://cyprus-mail.com/2026/11/07/new-zealand-election-early-count-shows-tight-race-but-national-party-ahead",
+      "title": "Archbishopric applies to renovate Phaneromeni school for University of Cyprus",
+      "link": "https://cyprus-mail.com/2026/11/07/1022277",
       "summary": ""
     }
   ],
@@ -79,5 +79,5 @@
     "summary": "It took around 480,000 trucks to haul away 4.8 million metric tons (5.3 million tons) of rubble across western Jamaica after Hurricane Melissa tore through the Caribbean in 2025, United Nations satellites showed.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-07T08:30:04.662Z"
+  "generated_at": "2026-11-07T09:48:44.533Z"
 }
