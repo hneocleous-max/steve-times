@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-07",
-      "code": 3,
-      "max": 23,
-      "min": 13,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
+      "date": "2026-11-08",
+      "code": 2,
+      "max": 19,
+      "min": 11,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     },
     "tomorrow": {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "code": 3,
       "max": 19,
-      "min": 10,
+      "min": 9,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Four arrested in overnight police operations",
-      "link": "https://cyprus-mail.com/2026/11/07/four-arrested-in-overnight-police-operations-7",
+      "title": "Cyprus expresses ‘deep sorrow’ after Poland attack",
+      "link": "https://cyprus-mail.com/2026/11/08/cyprus-expresses-deep-sorrow-after-poland-attack",
       "summary": ""
     },
     {
-      "title": "French research vessel Abeille Marengo set to sail for cable surveys",
-      "link": "https://cyprus-mail.com/2026/11/07/french-research-vessel-abeille-marengo-set-to-sail-for-cable-surveys",
+      "title": "Paraimni man charged after duty-free cigarettes found",
+      "link": "https://cyprus-mail.com/2026/11/08/paraimni-man-charged-after-duty-free-cigarettes-found",
       "summary": ""
     },
     {
-      "title": "Man held in Larnaca with 2,000 packs of contraband cigarettes",
-      "link": "https://cyprus-mail.com/2026/11/07/man-held-in-larnaca-with-2000-packs-of-contraband-cigarettes",
+      "title": "Stronger economy, squeezed households: Cyprus faces a difficult balancing act",
+      "link": "https://cyprus-mail.com/2026/11/08/stronger-economy-squeezed-households-cyprus-faces-a-difficult-balancing-act",
       "summary": ""
     },
     {
-      "title": "Cyprus can think five steps ahead",
-      "link": "https://cyprus-mail.com/2026/11/07/cyprus-can-think-five-steps-ahead",
+      "title": "Driver dies after hitting telegraph pole",
+      "link": "https://cyprus-mail.com/2026/11/08/driver-dies-after-hitting-telegraph-pole",
       "summary": ""
     },
     {
-      "title": "Archbishopric applies to renovate Phaneromeni school for University of Cyprus",
-      "link": "https://cyprus-mail.com/2026/11/07/1022277",
+      "title": "How Cypriot investors can protect themselves from online scams",
+      "link": "https://cyprus-mail.com/2026/11/08/how-cypriot-investors-can-protect-themselves-from-online-scams",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "title": "What we know so far after Krakow gun attack",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "AI stocks climb after trillions wiped from market values",
-      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Four midterms takeaways for 2028 White House race",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "New wave of bomb threats hit European airlines",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Disasters and debt. Escaping the 'climate-debt doom loop'",
-    "link": "https://phys.org/news/2026-11-disasters-debt-climate-doom-loop.html",
-    "summary": "It took around 480,000 trucks to haul away 4.8 million metric tons (5.3 million tons) of rubble across western Jamaica after Hurricane Melissa tore through the Caribbean in 2025, United Nations satellites showed.",
+    "title": "Why the tropics lose the most birds when cities expand",
+    "link": "https://phys.org/news/2026-11-tropics-birds-cities.html",
+    "summary": "Tropical ecosystems are famous for their teeming, exuberant diversity. In fact, the dramatic increase in biodiversity from the poles to the tropics—known as the latitudinal diversity gradient—is pervasive across branches of the tree of life, and fossil evidence suggests it has existed for millennia.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-07T09:48:44.533Z"
+  "generated_at": "2026-11-08T08:44:06.520Z"
 }
