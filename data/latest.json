@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-08",
-      "code": 2,
-      "max": 19,
-      "min": 11,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-11-09",
       "code": 3,
       "max": 19,
@@ -17,67 +8,76 @@
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
+    },
+    "tomorrow": {
+      "date": "2026-11-10",
+      "code": 3,
+      "max": 21,
+      "min": 7,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "Zaporizhzhia nuclear plant loses external power supply",
-      "link": "https://cyprus-mail.com/2026/11/08/zaporizhzhia-nuclear-plant-loses-external-power-supply",
+      "title": "Prison warden injured in central prison inmate punch up",
+      "link": "https://cyprus-mail.com/2026/11/09/prison-warden-injured-in-central-prison-inmate-punch-up",
       "summary": ""
     },
     {
-      "title": "Saudi Aramco building in Riyadh damaged by falling debris after attempted attack",
-      "link": "https://cyprus-mail.com/2026/11/08/saudi-aramco-building-in-riyadh-damaged-by-falling-debris-after-attempted-attack",
+      "title": "Alpha Bank buys back €6.19 million in shares in early November",
+      "link": "https://cyprus-mail.com/2026/11/09/alpha-bank-buys-back-e6-19-million-in-shares-in-early-november",
       "summary": ""
     },
     {
-      "title": "Greece, Cyprus license research work on GSI: Mitsotakis",
-      "link": "https://cyprus-mail.com/2026/11/08/greece-cyprus-license-research-work-on-gsi-mitsotakis",
+      "title": "Cyprus, Egypt and Greece to adopt joint declaration on ‘regional stability’",
+      "link": "https://cyprus-mail.com/2026/11/09/cyprus-egypt-and-greece-to-adopt-joint-declaration-on-regional-stability",
       "summary": ""
     },
     {
-      "title": "Radiacode: From a pocket-sized detector to a global radiation technology company",
-      "link": "https://cyprus-mail.com/2026/11/08/radiacode-from-a-pocket-sized-detector-to-a-global-radiation-technology-company",
+      "title": "100 years of legends, passion and pride as APOEL celebrate in style",
+      "link": "https://cyprus-mail.com/2026/11/09/100-years-of-legends-passion-and-pride-as-apoel-celebrate-in-style",
       "summary": ""
     },
     {
-      "title": "How Cyprus banks harm society and the environment",
-      "link": "https://cyprus-mail.com/2026/11/08/how-cyprus-banks-harm-society-and-the-environment",
+      "title": "Erhurman promises proposal that could ‘fundamentally change’ Cyprus talks",
+      "link": "https://cyprus-mail.com/2026/11/09/erhurman-promises-proposal-that-could-fundamentally-change-cyprus-talks",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "What we know so far after Krakow gun attack",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "title": "Krakow shooting suspect has died in hospital, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+      "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+      "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Why the tropics lose the most birds when cities expand",
-    "link": "https://phys.org/news/2026-11-tropics-birds-cities.html",
-    "summary": "Tropical ecosystems are famous for their teeming, exuberant diversity. In fact, the dramatic increase in biodiversity from the poles to the tropics—known as the latitudinal diversity gradient—is pervasive across branches of the tree of life, and fossil evidence suggests it has existed for millennia.",
+    "title": "Despite sacrificing people after catastrophic El Niño flooding, ancient societies were generally peaceful",
+    "link": "https://phys.org/news/2026-11-sacrificing-people-catastrophic-el-nio.html",
+    "summary": "To understand how societies might react to climate change, archaeologists look at social responses to extreme climate events in the past—and in some places, that included measures as drastic as human sacrifice. Mass ritual sacrifices along the desert coast of northern Peru have been linked to catastrophic flooding caused by El Niño, which made researchers wonder if such sacrifices were part of a rise in violence driven by resource scarcity. But a new survey of the Lambayeque Valley suggests that violence was extremely rare, even during periods of ecological upheaval.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-08T10:00:38.824Z"
+  "generated_at": "2026-11-09T09:23:16.291Z"
 }
