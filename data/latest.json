@@ -3,7 +3,7 @@
     "today": {
       "date": "2026-11-10",
       "code": 3,
-      "max": 20,
+      "max": 21,
       "min": 7,
       "desc": "Overcast",
       "icon": "☁️",
@@ -21,28 +21,28 @@
   },
   "local": [
     {
-      "title": "Plans to upgrade Frontex ‘will bolster’ Cyprus’ migrant return efforts, govt says",
-      "link": "https://cyprus-mail.com/2026/11/10/plans-to-upgrade-frontex-will-bolster-cyprus-migrant-return-efforts-govt-says",
+      "title": "Anti-corruption authority rules out Vasiliko terminal inquiry",
+      "link": "https://cyprus-mail.com/2026/11/10/anti-corruption-authority-rules-out-vasiliko-terminal-inquiry",
       "summary": ""
     },
     {
-      "title": "Christodoulides’ handling of Cyprus problem ‘unacceptable’, says Akel",
-      "link": "https://cyprus-mail.com/2026/11/10/christodoulides-handling-of-cyprus-problem-unacceptable-says-akel",
+      "title": "Eleven dead, fifty injured in Bulgarian motorway pile-up",
+      "link": "https://cyprus-mail.com/2026/11/10/eleven-dead-fifty-injured-in-bulgarian-motorway-pile-up",
       "summary": ""
     },
     {
-      "title": "Cyprus-headquartered group halts Ukrainian processing operations after Russian attack",
-      "link": "https://cyprus-mail.com/2026/11/10/cyprus-headquartered-group-halts-ukrainian-processing-operations-after-russian-attack",
+      "title": "Only 14 per cent of Cypriot women meet financial literacy benchmark",
+      "link": "https://cyprus-mail.com/2026/11/10/only-14-per-cent-of-cypriot-women-meet-financial-literacy-benchmark",
       "summary": ""
     },
     {
-      "title": "Adams Beach Hotel: Where festive magic meets seaside luxury",
-      "link": "https://cyprus-mail.com/2026/11/10/adams-beach-hotel-where-festive-magic-meets-seaside-luxury",
+      "title": "Indian police advise Bollywood stars to avoid public places after shooting, local media report",
+      "link": "https://cyprus-mail.com/2026/11/10/indian-police-advise-bollywood-stars-to-avoid-public-places-after-shooting-local-media-report",
       "summary": ""
     },
     {
-      "title": "Cyprus role in Pornhub oversight raised in European Parliament",
-      "link": "https://cyprus-mail.com/2026/11/10/cyprus-role-in-pornhub-oversight-raised-in-european-parliament",
+      "title": "Warriors crush Pelicans to make NBA history",
+      "link": "https://cyprus-mail.com/2026/11/10/warriors-crush-pelicans-to-make-nba-history",
       "summary": ""
     }
   ],
@@ -58,13 +58,13 @@
       "summary": ""
     },
     {
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "title": "'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
-      "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+      "title": "Police officer dies and another injured after backpack explosion in Oviedo",
+      "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
@@ -74,10 +74,10 @@
     }
   ],
   "discovery": {
-    "title": "Heat-trapping carbon pollution drops, but scientists cite the Iran war rather than energy progress",
-    "link": "https://phys.org/news/2026-11-carbon-pollution-scientists-cite-iran.html",
-    "summary": "Global carbon pollution dropped this year ever so slightly, but it's more because of oil shocks reverberating from the Iran war than anything the world has done to fight climate change, scientists said in a new study.",
+    "title": "Making metal–organic frameworks easier to shape for electronic devices",
+    "link": "https://phys.org/news/2026-11-metalorganic-frameworks-easier-electronic-devices.html",
+    "summary": "In 1974, the University of Melbourne's chemistry professor Richard Robson had the idea of replacing the wooden balls and metal rods used in structural models with molecules and chemical bonds. He began experimenting with copper ions linked by a four-armed organic molecule, creating a structure with a cavity. His work laid the foundation for metal–organic frameworks (MOFs), a class of porous materials formed by linking metal ions with organic molecules. Their pores can capture pollutants, support chemical reactions and store gases, giving MOFs a wide range of potential applications.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-10T09:26:38.199Z"
+  "generated_at": "2026-11-10T10:54:20.843Z"
 }
