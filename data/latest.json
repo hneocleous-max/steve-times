@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "code": 3,
-      "max": 19,
-      "min": 8,
+      "max": 20,
+      "min": 7,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "code": 3,
       "max": 21,
-      "min": 7,
+      "min": 9,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Cyprus real estate conundrum: stats say affordable, reality says no",
-      "link": "https://cyprus-mail.com/2026/11/09/cyprus-real-estate-conundrum-stats-say-affordable-reality-says-no",
+      "title": "Plans to upgrade Frontex ‘will bolster’ Cyprus’ migrant return efforts, govt says",
+      "link": "https://cyprus-mail.com/2026/11/10/plans-to-upgrade-frontex-will-bolster-cyprus-migrant-return-efforts-govt-says",
       "summary": ""
     },
     {
-      "title": "Stylianos trial adjourned until Tuesday",
-      "link": "https://cyprus-mail.com/2026/11/09/stylianos-trial-adjourned-until-tuesday",
+      "title": "Christodoulides’ handling of Cyprus problem ‘unacceptable’, says Akel",
+      "link": "https://cyprus-mail.com/2026/11/10/christodoulides-handling-of-cyprus-problem-unacceptable-says-akel",
       "summary": ""
     },
     {
-      "title": "Vasilieva murder suspect remanded for further eight days",
-      "link": "https://cyprus-mail.com/2026/11/09/vasilieva-murder-suspect-remanded-for-further-eight-days",
+      "title": "Cyprus-headquartered group halts Ukrainian processing operations after Russian attack",
+      "link": "https://cyprus-mail.com/2026/11/10/cyprus-headquartered-group-halts-ukrainian-processing-operations-after-russian-attack",
       "summary": ""
     },
     {
-      "title": "Erdogan: We do not see the lack of a solution in Cyprus as a solution",
-      "link": "https://cyprus-mail.com/2026/11/09/erdogan-we-do-not-see-the-lack-of-a-solution-in-cyprus-as-a-solution",
+      "title": "Adams Beach Hotel: Where festive magic meets seaside luxury",
+      "link": "https://cyprus-mail.com/2026/11/10/adams-beach-hotel-where-festive-magic-meets-seaside-luxury",
       "summary": ""
     },
     {
-      "title": "Norway reins in data centre industry amid AI boom",
-      "link": "https://cyprus-mail.com/2026/11/09/norway-reins-in-data-centre-industry-amid-ai-boom",
+      "title": "Cyprus role in Pornhub oversight raised in European Parliament",
+      "link": "https://cyprus-mail.com/2026/11/10/cyprus-role-in-pornhub-oversight-raised-in-european-parliament",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Krakow shooting suspect has died in hospital, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Inside the French drug gangs recruiting children to kill",
-      "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-      "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
-      "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
-      "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+      "title": "'Cruise for life' ship seized in Singapore",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Crystals hint at a volcano's ability to erupt",
-    "link": "https://phys.org/news/2026-11-crystals-hint-volcano-ability-erupt.html",
-    "summary": "University of Queensland researchers have shown tiny crystals are a window to activity inside volcanoes and could provide clues to when they might erupt.",
+    "title": "Heat-trapping carbon pollution drops, but scientists cite the Iran war rather than energy progress",
+    "link": "https://phys.org/news/2026-11-carbon-pollution-scientists-cite-iran.html",
+    "summary": "Global carbon pollution dropped this year ever so slightly, but it's more because of oil shocks reverberating from the Iran war than anything the world has done to fight climate change, scientists said in a new study.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-09T11:10:03.025Z"
+  "generated_at": "2026-11-10T09:26:38.199Z"
 }
