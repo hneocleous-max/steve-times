@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "code": 3,
-      "max": 22,
-      "min": 10,
+      "max": 23,
+      "min": 13,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-11-12",
-      "code": 2,
+      "date": "2026-11-13",
+      "code": 3,
       "max": 23,
-      "min": 13,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
+      "min": 14,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "Limassol targets public-private partnerships for €1.3 billion urban regeneration",
-      "link": "https://cyprus-mail.com/2026/11/11/limassol-targets-public-private-partnerships-for-e1-3-billion-urban-regeneration",
+      "title": "Athienou expresses frustration over failure to open Pyroi crossing",
+      "link": "https://cyprus-mail.com/2026/11/12/athienou-expresses-frustration-over-failure-to-open-pyroi-crossing",
       "summary": ""
     },
     {
-      "title": "India blocked 129 websites using fake court orders",
-      "link": "https://cyprus-mail.com/2026/11/11/india-blocked-129-websites-using-fake-court-orders",
+      "title": "Education support staff suspend indefinite strike",
+      "link": "https://cyprus-mail.com/2026/11/12/education-support-staff-suspend-indefinite-strike",
       "summary": ""
     },
     {
-      "title": "Lawyer fined for making sexist remarks",
-      "link": "https://cyprus-mail.com/2026/11/11/lawyer-fined-for-making-sexist-remarks",
+      "title": "Discover magic of Mall of Cyprus Christmas Market from November 21",
+      "link": "https://cyprus-mail.com/2026/11/12/discover-magic-of-mall-of-cyprus-christmas-market-from-november-21",
       "summary": ""
     },
     {
-      "title": "Man United open talks with Pochettino over replacing Carrick",
-      "link": "https://cyprus-mail.com/2026/11/11/man-united-open-talks-with-pochettino-over-replacing-carrick",
+      "title": "Record-breaker Kane eyes another England milestone",
+      "link": "https://cyprus-mail.com/2026/11/12/record-breaker-kane-eyes-another-england-milestone",
       "summary": ""
     },
     {
-      "title": "Minister stresses ned to link degrees with labour demands",
-      "link": "https://cyprus-mail.com/2026/11/11/minister-stresses-ned-to-link-degrees-with-labour-demands",
+      "title": "Christmas begins at home with IKEA",
+      "link": "https://cyprus-mail.com/2026/11/12/christmas-begins-at-home-with-ikea",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "title": "New York building collapse kills at least two, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
-      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "title": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Why land—a scarce resource—is so important for climate protection",
-    "link": "https://phys.org/news/2026-11-scarce-resource-important-climate.html",
-    "summary": "A new study quantifies, for the first time, the interrelationships and competing objectives of two major areas of action for reducing greenhouse gas emissions: the phaseout of fossil fuels and measures taken on natural land, such as farmland, forests and wetlands. It demonstrates how a well-balanced policy mix can keep costs low for both people and nature. The study, conducted at the Potsdam Institute for Climate Impact Research (PIK), was published in Nature Sustainability.",
+    "title": "New way of detecting date-rape drug use found in Switzerland",
+    "link": "https://phys.org/news/2026-11-date-rape-drug-switzerland.html",
+    "summary": "Swiss researchers have found a new way of detecting the notorious date-rape drug GHB in urine for up to 72 hours after ingestion, in a possible boon to sexual assault investigations.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-11T10:34:12.487Z"
+  "generated_at": "2026-11-12T09:29:05.866Z"
 }
