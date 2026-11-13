@@ -1,18 +1,18 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "code": 3,
       "max": 23,
-      "min": 13,
+      "min": 14,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "code": 3,
-      "max": 23,
+      "max": 24,
       "min": 14,
       "desc": "Overcast",
       "icon": "☁️",
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Car bomb kills Russian soldier near St Petersburg in latest targeted assassination",
-      "link": "https://cyprus-mail.com/2026/11/12/car-bomb-kills-russian-soldier-near-st-petersburg-in-latest-targeted-assassination",
+      "title": "From pandemic pressures to European politics, Tsouloftas reflects his legacy",
+      "link": "https://cyprus-mail.com/2026/11/13/from-pandemic-pressures-to-european-politics-tsouloftas-reflects-his-legacy",
       "summary": ""
     },
     {
-      "title": "Carrick sacked as Man United manager",
-      "link": "https://cyprus-mail.com/2026/11/12/carrick-sacked-as-man-united-manager",
+      "title": "State failing to enforce planning laws, auditor general warns",
+      "link": "https://cyprus-mail.com/2026/11/13/state-failing-to-enforce-planning-laws-auditor-general-warns",
       "summary": ""
     },
     {
-      "title": "Fidias claims to be on Ukrainian website death list",
-      "link": "https://cyprus-mail.com/2026/11/12/fidias-claims-to-be-on-ukrainian-website-death-list",
+      "title": "No room for panic, US has time, options to replace Pochettino",
+      "link": "https://cyprus-mail.com/2026/11/13/no-room-for-panic-us-has-time-options-to-replace-pochettino",
       "summary": ""
     },
     {
-      "title": "Turn Autumn evenings into Creative Time with Canvas by numbers",
-      "link": "https://cyprus-mail.com/2026/11/12/turn-autumn-evenings-into-creative-time-with-canvas-by-numbers",
+      "title": "Four killed in Ukrainian drone strike on industrial zone in Russia’s Volgograd",
+      "link": "https://cyprus-mail.com/2026/11/13/four-killed-in-ukrainian-drone-strike-on-industrial-zone-in-russias-volgograd",
       "summary": ""
     },
     {
-      "title": "Muskita presents new TV spot for ‘Aluminium Shaping Life’ campaign",
-      "link": "https://cyprus-mail.com/2026/11/12/muskita-presents-new-tv-spot-for-aluminium-shaping-life-campaign",
+      "title": "XValley Tech Wins Best CRM Platform Award at FX World 2026 in Italy",
+      "link": "https://cyprus-mail.com/2026/11/13/xvalley-tech-wins-best-crm-platform-award-at-fx-world-2026-in-italy",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "New York building collapse kills at least two, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
-      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Light-controlled tool halts cellular recycling to offer disease mechanism clues",
-    "link": "https://phys.org/news/2026-11-tool-halts-cellular-recycling-disease.html",
-    "summary": "Inside each cell is a dynamic world of molecules and chemicals, signals and receivers, and construction and destruction. With all this activity, it's inevitable that cellular parts get worn down over time. Thankfully, cells have evolved an efficient recycling process that breaks old parts down to their building blocks, which can then be repurposed and reused. Christina Towers, Ph.D., is an expert on this recycling process, called autophagy.",
+    "title": "Children are not colorblind: Why early conversations about race are essential",
+    "link": "https://phys.org/news/2026-11-children-colorblind-early-conversations-essential.html",
+    "summary": "Discussing racism with children can seem daunting to parents, caregivers and educators for several reasons. Often, it can feel uncomfortable talking about people's differences; conversations about racism reveal implicit biases and, for some, immense privilege.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-12T10:48:33.618Z"
+  "generated_at": "2026-11-13T09:14:46.679Z"
 }
