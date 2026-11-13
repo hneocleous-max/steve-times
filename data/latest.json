@@ -11,42 +11,52 @@
     },
     "tomorrow": {
       "date": "2026-11-14",
-      "code": 3,
+      "code": 61,
       "max": 24,
       "min": 14,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
+      "desc": "Light rain",
+      "icon": "🌦️",
+      "masthead": "Some rain"
     }
   },
   "local": [
     {
-      "title": "From pandemic pressures to European politics, Tsouloftas reflects his legacy",
-      "link": "https://cyprus-mail.com/2026/11/13/from-pandemic-pressures-to-european-politics-tsouloftas-reflects-his-legacy",
+      "title": "‘Erdogan did not invite Christodoulides to Cop31’",
+      "link": "https://cyprus-mail.com/2026/11/13/erdogan-did-not-invite-christodoulides-to-cop31",
       "summary": ""
     },
     {
-      "title": "State failing to enforce planning laws, auditor general warns",
-      "link": "https://cyprus-mail.com/2026/11/13/state-failing-to-enforce-planning-laws-auditor-general-warns",
+      "title": "Students protest declaration of state in occupied north",
+      "link": "https://cyprus-mail.com/2026/11/13/students-protest-declaration-of-state-in-occupied-north",
       "summary": ""
     },
     {
-      "title": "No room for panic, US has time, options to replace Pochettino",
-      "link": "https://cyprus-mail.com/2026/11/13/no-room-for-panic-us-has-time-options-to-replace-pochettino",
+      "title": "France criticises ‘demagogic’ move by Israel to ban hard-left leader Melenchon",
+      "link": "https://cyprus-mail.com/2026/11/13/france-criticises-demagogic-move-by-israel-to-ban-hard-left-leader-melenchon",
       "summary": ""
     },
     {
-      "title": "Four killed in Ukrainian drone strike on industrial zone in Russia’s Volgograd",
-      "link": "https://cyprus-mail.com/2026/11/13/four-killed-in-ukrainian-drone-strike-on-industrial-zone-in-russias-volgograd",
+      "title": "Cyprus economy takes its foot off the accelerator in third quarter",
+      "link": "https://cyprus-mail.com/2026/11/13/cyprus-economy-takes-its-foot-off-the-accelerator-in-third-quarter",
       "summary": ""
     },
     {
-      "title": "XValley Tech Wins Best CRM Platform Award at FX World 2026 in Italy",
-      "link": "https://cyprus-mail.com/2026/11/13/xvalley-tech-wins-best-crm-platform-award-at-fx-world-2026-in-italy",
+      "title": "Christmas markets and Christmas villages in Cyprus 2026: dates, locations and what to expect",
+      "link": "https://cyprus-mail.com/christmas-markets-and-christmas-villages-in-cyprus-2026-dates-locations-and-what-to-expect",
       "summary": ""
     }
   ],
   "world": [
+    {
+      "title": "What we know about the global Microsoft outage",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Watch: How Microsoft services went down around the world",
+      "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
     {
       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
       "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
@@ -61,23 +71,13 @@
       "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
       "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
       "summary": ""
-    },
-    {
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "summary": ""
     }
   ],
   "discovery": {
-    "title": "Children are not colorblind: Why early conversations about race are essential",
-    "link": "https://phys.org/news/2026-11-children-colorblind-early-conversations-essential.html",
-    "summary": "Discussing racism with children can seem daunting to parents, caregivers and educators for several reasons. Often, it can feel uncomfortable talking about people's differences; conversations about racism reveal implicit biases and, for some, immense privilege.",
+    "title": "SpaceX Starship test to attempt first-ever spaceship 'catch'",
+    "link": "https://phys.org/news/2026-11-spacex-starship-spaceship.html",
+    "summary": "Elon Musk's SpaceX was poised Friday to carry out its latest test of the world's biggest and most powerful rocket, the Starship, with plans for a groundbreaking \"catch\" of the spaceship following a day in orbit.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-13T09:14:46.679Z"
+  "generated_at": "2026-11-13T10:44:22.562Z"
 }
