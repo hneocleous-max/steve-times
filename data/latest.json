@@ -1,54 +1,54 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "code": 3,
-      "max": 23,
-      "min": 14,
+      "max": 24,
+      "min": 15,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-11-14",
-      "code": 61,
+      "date": "2026-11-15",
+      "code": 3,
       "max": 24,
-      "min": 14,
-      "desc": "Light rain",
-      "icon": "🌦️",
-      "masthead": "Some rain"
+      "min": 15,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "Today’s weather: Partly cloudy, reasonably warm",
-      "link": "https://cyprus-mail.com/2026/11/14/todays-weather-partly-cloudy-reasonably-warm",
+      "title": "Man arrested with almost 19kg of cocaine at Larnaca airport",
+      "link": "https://cyprus-mail.com/2026/11/14/man-arrested-with-almost-19kg-of-cocaine-at-larnaca-airport",
       "summary": ""
     },
     {
-      "title": "Spain general strike: how 50 years of industrial action shaped post‑Franco democracy",
-      "link": "https://cyprus-mail.com/2026/11/14/spain-general-strike-how-50-years-of-industrial-action-shaped-post-franco-democracy",
+      "title": "Tolerance, prejudice and the importance of keeping an open mind",
+      "link": "https://cyprus-mail.com/2026/11/14/tolerance-prejudice-and-the-importance-of-keeping-an-open-mind",
       "summary": ""
     },
     {
-      "title": "Eight days of Christmas screenings at Ayia Napa Marina",
-      "link": "https://cyprus-mail.com/2026/11/14/eight-days-of-christmas-screenings-at-ayia-napa-marina",
+      "title": "Peak Reacher in a high-octane thriller",
+      "link": "https://cyprus-mail.com/2026/11/14/peak-reacher-in-a-high-octane-thriller",
       "summary": ""
     },
     {
-      "title": "Cyprus Business Now: GDP, tax treaty, shipping, exports, fintech, Paphos businesses",
-      "link": "https://cyprus-mail.com/2026/11/14/cyprus-business-now-gdp-tax-treaty-shipping-exports-fintech-paphos-businesses",
+      "title": "Microsoft restores service to Outlook and Teams after global outage",
+      "link": "https://cyprus-mail.com/2026/11/14/microsoft-restores-service-to-outlook-and-teams-after-global-outage",
       "summary": ""
     },
     {
-      "title": "Kazakos joins global shipping leaders in Tokyo as industry confronts the ships of tomorrow",
-      "link": "https://cyprus-mail.com/2026/11/14/kazakos-joins-global-shipping-leaders-in-tokyo-as-industry-confronts-the-ships-of-tomorrow",
+      "title": "As smog hangs over Lahore, Pakistan’s new pollution squad races to douse stubble fires",
+      "link": "https://cyprus-mail.com/2026/11/14/as-smog-hangs-over-lahore-pakistans-new-pollution-squad-races-to-douse-stubble-fires",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "What we know about the longest ground stop since 9/11",
+      "title": "What we know about the ground stop and what to do if you're affected",
       "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
@@ -79,5 +79,5 @@
     "summary": "SpaceX's attempt to recover its entire Starship back at the launch pad was thwarted when the booster fell into the Gulf of Mexico and exploded Friday, but the spacecraft still soared into orbit in its boldest test yet.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-14T08:44:51.511Z"
+  "generated_at": "2026-11-14T09:58:27.683Z"
 }
