@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "code": 3,
-      "max": 24,
+      "max": 25,
       "min": 15,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "code": 3,
-      "max": 24,
-      "min": 15,
+      "max": 25,
+      "min": 14,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Man arrested with almost 19kg of cocaine at Larnaca airport",
-      "link": "https://cyprus-mail.com/2026/11/14/man-arrested-with-almost-19kg-of-cocaine-at-larnaca-airport",
+      "title": "Christodoulides on UDI day: Republic of Cyprus is common home of Greek, Turkish Cypriots",
+      "link": "https://cyprus-mail.com/2026/11/15/christodoulides-on-udi-day-republic-of-cyprus-is-common-home-of-greek-turkish-cypriots",
       "summary": ""
     },
     {
-      "title": "Tolerance, prejudice and the importance of keeping an open mind",
-      "link": "https://cyprus-mail.com/2026/11/14/tolerance-prejudice-and-the-importance-of-keeping-an-open-mind",
+      "title": "Today’s weather: Clouds likely, rain possible",
+      "link": "https://cyprus-mail.com/2026/11/15/todays-weather-clouds-likely-rain-possible",
       "summary": ""
     },
     {
-      "title": "Peak Reacher in a high-octane thriller",
-      "link": "https://cyprus-mail.com/2026/11/14/peak-reacher-in-a-high-octane-thriller",
+      "title": "Cyprus can move beyond forex into institutional asset management, says fintech CEO",
+      "link": "https://cyprus-mail.com/2026/11/15/cyprus-can-move-beyond-forex-into-institutional-asset-management-says-fintech-ceo",
       "summary": ""
     },
     {
-      "title": "Microsoft restores service to Outlook and Teams after global outage",
-      "link": "https://cyprus-mail.com/2026/11/14/microsoft-restores-service-to-outlook-and-teams-after-global-outage",
+      "title": "Cyprus Business Now: weekly wrap-up",
+      "link": "https://cyprus-mail.com/2026/11/15/cyprus-business-now-weekly-wrap-up-187",
       "summary": ""
     },
     {
-      "title": "As smog hangs over Lahore, Pakistan’s new pollution squad races to douse stubble fires",
-      "link": "https://cyprus-mail.com/2026/11/14/as-smog-hangs-over-lahore-pakistans-new-pollution-squad-races-to-douse-stubble-fires",
+      "title": "Rotating presidency remains key obstacle to Cyprus settlement",
+      "link": "https://cyprus-mail.com/2026/11/15/rotating-presidency-remains-key-obstacle-to-cyprus-settlement",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "What we know about the ground stop and what to do if you're affected",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "SpaceX's Starship soars into orbit after booster explosion prevents an unprecedented double catch",
-    "link": "https://phys.org/news/2026-11-spacex-starship-soars-orbit-booster.html",
-    "summary": "SpaceX's attempt to recover its entire Starship back at the launch pad was thwarted when the booster fell into the Gulf of Mexico and exploded Friday, but the spacecraft still soared into orbit in its boldest test yet.",
+    "title": "Is this iconic black hole image accurate? New study delivers an independent result",
+    "link": "https://phys.org/news/2026-11-iconic-black-hole-image-accurate.html",
+    "summary": "On April 10, 2019, the Event Horizon Telescope (EHT) Collaboration revealed the first picture of a black hole. The object is at the center of a galaxy known as M87, about 55 million light-years away.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-14T09:58:27.683Z"
+  "generated_at": "2026-11-15T08:56:55.864Z"
 }
