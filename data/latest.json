@@ -1,18 +1,18 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "code": 3,
       "max": 25,
-      "min": 15,
+      "min": 14,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "code": 3,
-      "max": 25,
+      "max": 24,
       "min": 14,
       "desc": "Overcast",
       "icon": "☁️",
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Erhurman: The Turkish Cypriots have not given up their will for a solution",
-      "link": "https://cyprus-mail.com/2026/11/15/erhurman-the-turkish-cypriots-have-not-given-up-their-will-for-a-solution",
+      "title": "Foreign investor naturalisation court case postponed",
+      "link": "https://cyprus-mail.com/2026/11/16/foreign-investor-naturalisation-court-case-postponed",
       "summary": ""
     },
     {
-      "title": "Greece calls Turkish Cypriots’ declaration of independence ‘flagrant violation’",
-      "link": "https://cyprus-mail.com/2026/11/15/greece-calls-turkish-cypriots-declaration-of-independence-flagrant-violation",
+      "title": "Nicosia Tigers and Larnaca Kings set up final showdown",
+      "link": "https://cyprus-mail.com/2026/11/16/nicosia-tigers-and-larnaca-kings-set-up-final-showdown",
       "summary": ""
     },
     {
-      "title": "Erdogan to Erhurman: Cyprus solution depends on coexistence of two states",
-      "link": "https://cyprus-mail.com/2026/11/15/erdogan-to-erhurman-cyprus-solution-depends-on-coexistence-of-two-states",
+      "title": "Eurobank’s latest buyback takes treasury shares to 37.64 million",
+      "link": "https://cyprus-mail.com/2026/11/16/eurobank-repurchases-113724-shares-for-e548879",
       "summary": ""
     },
     {
-      "title": "Christodoulides on UDI day: Republic of Cyprus is common home of Greek, Turkish Cypriots",
-      "link": "https://cyprus-mail.com/2026/11/15/christodoulides-on-udi-day-republic-of-cyprus-is-common-home-of-greek-turkish-cypriots",
+      "title": "Famagusta EOA approves €17.7m for development projects in 2027",
+      "link": "https://cyprus-mail.com/2026/11/16/famagusta-eoa-approves-e17-7m-for-development-projects-in-2027",
       "summary": ""
     },
     {
-      "title": "Today’s weather: Clouds likely, rain possible",
-      "link": "https://cyprus-mail.com/2026/11/15/todays-weather-clouds-likely-rain-possible",
+      "title": "Superb England end Spain’s long unbeaten run",
+      "link": "https://cyprus-mail.com/2026/11/16/superb-england-end-spains-long-unbeaten-run",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-      "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+      "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Is this iconic black hole image accurate? New study delivers an independent result",
-    "link": "https://phys.org/news/2026-11-iconic-black-hole-image-accurate.html",
-    "summary": "On April 10, 2019, the Event Horizon Telescope (EHT) Collaboration revealed the first picture of a black hole. The object is at the center of a galaxy known as M87, about 55 million light-years away.",
+    "title": "Why aging stars suffer a sudden luminosity dip",
+    "link": "https://phys.org/news/2026-11-aging-stars-sudden-luminosity-dip.html",
+    "summary": "From a naked-eye perspective, stars are stable and predictable. Not much goes on but shining. The sun itself is fairly plain and nondescript and will shine relatively steadily for billions of years. It's considered a low-mass star compared to the most massive stars, which are rarer and contain many times its mass.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-15T10:34:50.017Z"
+  "generated_at": "2026-11-16T09:11:13.703Z"
 }
