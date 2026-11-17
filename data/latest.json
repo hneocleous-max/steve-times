@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "code": 3,
       "max": 25,
-      "min": 14,
+      "min": 13,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "code": 3,
-      "max": 24,
-      "min": 14,
+      "max": 25,
+      "min": 13,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
@@ -21,34 +21,34 @@
   },
   "local": [
     {
-      "title": "Murder suspect consulted ChatGPT for how perpetrators cover their tracks",
-      "link": "https://cyprus-mail.com/2026/11/17/murder-suspect-consulted-chatgpt-for-how-perpetrators-cover-their-tracks",
+      "title": "Cyprus had almost as many Polish tourists as German ones. Then there’s France",
+      "link": "https://cyprus-mail.com/2026/11/17/cyprus-had-almost-as-many-polish-tourists-as-german-ones-then-theres-france",
       "summary": ""
     },
     {
-      "title": "Ukraine hits Crimea bridge again as Russia pounds Kyiv",
-      "link": "https://cyprus-mail.com/2026/11/17/ukraine-hits-crimea-bridge-again-as-russia-pounds-kyiv",
+      "title": "Increased security measures ahead of Maccabi Tel Aviv v Olympiacos",
+      "link": "https://cyprus-mail.com/2026/11/17/increased-security-measures-ahead-of-maccabi-tel-aviv-v-olympiacos",
       "summary": ""
     },
     {
-      "title": "Deutsche Bank leaks: Cyprus used as ‘back door to EU’ for Russian oligarchs",
-      "link": "https://cyprus-mail.com/2026/11/17/deutsche-bank-leaks-cyprus-used-as-back-door-to-eu-for-russian-oligarchs",
+      "title": "Polytechnic uprising ‘holds particular resonance for Cyprus’",
+      "link": "https://cyprus-mail.com/2026/11/17/polytechnic-uprising-holds-particular-resonance-for-cyprus",
       "summary": ""
     },
     {
-      "title": "Students march to US embassy, as November 17 events culminate",
-      "link": "https://cyprus-mail.com/2026/11/17/students-march-to-us-embassy-as-november-17-events-culminate",
+      "title": "Nicosia hospitals extend telephone appointment services until 6pm",
+      "link": "https://cyprus-mail.com/2026/11/17/nicosia-hospitals-extend-telephone-appointment-services-until-6pm",
       "summary": ""
     },
     {
-      "title": "Suspects’ plea in terror plot case postponed till next month",
-      "link": "https://cyprus-mail.com/2026/11/17/suspects-plea-in-terror-plot-case-postponed-till-next-month",
+      "title": "Palestinian woman, 72, shot dead in West Bank settler attack",
+      "link": "https://cyprus-mail.com/2026/11/17/palestinian-woman-72-shot-dead-in-west-bank-settler-attack",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
+      "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
@@ -74,10 +74,10 @@
     }
   ],
   "discovery": {
-    "title": "Humpback whale snot unlocks whole-genome sequencing without invasive sampling",
-    "link": "https://phys.org/news/2026-11-humpback-whale-snot-genome-sequencing.html",
-    "summary": "New research from the University of St Andrews, in collaboration with the University of Copenhagen, the North Coast Cetacean Society and Fisheries and Oceans Canada, has sequenced a whole whale genome using samples of \"whale snot\" collected by small drones off the coast of British Columbia—a world first.",
+    "title": "Japan space probe changes target over engine trouble",
+    "link": "https://phys.org/news/2026-11-japan-space-probe.html",
+    "summary": "A Japanese probe that returned precious asteroid dust to Earth six years ago has changed course in its extended mission, officials said Tuesday, citing issues in its aging engines.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-17T10:22:31.563Z"
+  "generated_at": "2026-11-17T11:37:20.171Z"
 }
