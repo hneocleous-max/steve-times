@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "code": 3,
-      "max": 25,
+      "max": 26,
       "min": 13,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "code": 3,
-      "max": 25,
-      "min": 13,
+      "max": 26,
+      "min": 14,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Cyprus had almost as many Polish tourists as German ones. Then there’s France",
-      "link": "https://cyprus-mail.com/2026/11/17/cyprus-had-almost-as-many-polish-tourists-as-german-ones-then-theres-france",
+      "title": "Christodoulides calls for closer Cyprus-Greece ties in the face of global uncertainty",
+      "link": "https://cyprus-mail.com/2026/11/18/christodoulides-calls-for-closer-cyprus-greece-ties-in-the-face-of-global-uncertainty",
       "summary": ""
     },
     {
-      "title": "Increased security measures ahead of Maccabi Tel Aviv v Olympiacos",
-      "link": "https://cyprus-mail.com/2026/11/17/increased-security-measures-ahead-of-maccabi-tel-aviv-v-olympiacos",
+      "title": "House damaged by fire in Athienou",
+      "link": "https://cyprus-mail.com/2026/11/18/house-damaged-by-fire-in-athienou",
       "summary": ""
     },
     {
-      "title": "Polytechnic uprising ‘holds particular resonance for Cyprus’",
-      "link": "https://cyprus-mail.com/2026/11/17/polytechnic-uprising-holds-particular-resonance-for-cyprus",
+      "title": "Second arrest over vehicle arson",
+      "link": "https://cyprus-mail.com/2026/11/18/second-arrest-over-vehicle-arson",
       "summary": ""
     },
     {
-      "title": "Nicosia hospitals extend telephone appointment services until 6pm",
-      "link": "https://cyprus-mail.com/2026/11/17/nicosia-hospitals-extend-telephone-appointment-services-until-6pm",
+      "title": "Hope For Children: When a News Story Involves a Child, Their Protection Comes First",
+      "link": "https://cyprus-mail.com/2026/11/18/hope-for-children-when-a-news-story-involves-a-child-their-protection-comes-first",
       "summary": ""
     },
     {
-      "title": "Palestinian woman, 72, shot dead in West Bank settler attack",
-      "link": "https://cyprus-mail.com/2026/11/17/palestinian-woman-72-shot-dead-in-west-bank-settler-attack",
+      "title": "Arrest over drug trafficking in Limassol",
+      "link": "https://cyprus-mail.com/2026/11/18/arrest-over-drug-trafficking-in-limassol",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
-      "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-      "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Japan space probe changes target over engine trouble",
-    "link": "https://phys.org/news/2026-11-japan-space-probe.html",
-    "summary": "A Japanese probe that returned precious asteroid dust to Earth six years ago has changed course in its extended mission, officials said Tuesday, citing issues in its aging engines.",
+    "title": "Eagles preying on human-sized baboons upend existing evolutionary defense theory",
+    "link": "https://phys.org/news/2026-11-eagles-preying-human-sized-baboons.html",
+    "summary": "Researchers from the University of St Andrews have discovered that baboons the size of hominins (early human ancestors) are being preyed upon by eagles, reshaping the way scientists might think about predator–prey interactions during human evolution.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-17T11:37:20.171Z"
+  "generated_at": "2026-11-18T09:53:53.920Z"
 }
