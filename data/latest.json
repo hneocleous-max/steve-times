@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "code": 3,
       "max": 26,
-      "min": 13,
+      "min": 16,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-11-19",
-      "code": 3,
+      "date": "2026-11-20",
+      "code": 2,
       "max": 26,
-      "min": 14,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
+      "min": 16,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "Mitsotakis promises to ‘constantly support’ Cyprus problem efforts",
-      "link": "https://cyprus-mail.com/2026/11/18/mitsotakis-promises-to-constantly-support-cyprus-problem-efforts",
+      "title": "EAC insists battery storage is moving forward",
+      "link": "https://cyprus-mail.com/2026/11/19/eac-insists-battery-storage-is-moving-forward",
       "summary": ""
     },
     {
-      "title": "Decorating the home for Christmas: small ideas for big festive changes",
-      "link": "https://cyprus-mail.com/2026/11/18/decorating-the-home-for-christmas-small-ideas-for-big-festive-changes",
+      "title": "Van Gogh painting unseen for 50 years sells for record $190.4 million",
+      "link": "https://cyprus-mail.com/2026/11/19/van-gogh-painting-unseen-for-50-years-sells-for-record-190-4-million",
       "summary": ""
     },
     {
-      "title": "Deutsche Bank faces scrutiny over leaked client records",
-      "link": "https://cyprus-mail.com/2026/11/18/deutsche-bank-faces-scrutiny-over-leaked-client-records",
+      "title": "Star Bulk nets $141.9m on higher freight rates, sets $1 dividend and takes final newbuild",
+      "link": "https://cyprus-mail.com/2026/11/19/star-bulk-nets-141-9m-on-higher-freight-rates-sets-1-dividend-and-takes-final-newbuild",
       "summary": ""
     },
     {
-      "title": "Turkish Cypriot ballots to be printed on yellow paper after ‘leak’ fears",
-      "link": "https://cyprus-mail.com/2026/11/18/turkish-cypriot-ballots-to-be-printed-on-yellow-paper-after-leak-fears",
+      "title": "BidX1’s November auction features apartments with reserve prices of €100.000 or less",
+      "link": "https://cyprus-mail.com/2026/11/19/bidx1s-november-auction-features-apartments-with-reserve-prices-of-e100-000-or-less",
       "summary": ""
     },
     {
-      "title": "Cyprus builders are paying more again. What’s gone up most?",
-      "link": "https://cyprus-mail.com/2026/11/18/cyprus-builders-are-paying-more-again-whats-gone-up-most",
+      "title": "EKO launches heating fuel discounts to support Cypriot families",
+      "link": "https://cyprus-mail.com/2026/11/19/eko-launches-heating-fuel-discounts-to-support-cypriot-families",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
+      "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-      "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+      "title": "Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "title": "Crimean Bridge attacked again, Russia says",
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Genomic breakthrough offers new hope for southern corroboree frog",
-    "link": "https://phys.org/news/2026-11-genomic-breakthrough-southern-corroboree-frog.html",
-    "summary": "Researchers have shown for the first time that genomic selection—a breeding technique widely used in agriculture—could help one of Australia's most threatened frogs become more resilient to a deadly disease.",
+    "title": "Potatoes grown in simulated lunar soil match Earth-grown performance",
+    "link": "https://phys.org/news/2026-11-potatoes-grown-simulated-lunar-soil.html",
+    "summary": "Researchers have shown that potatoes grown in simulated lunar soil amended with organic matter are safe to eat and can achieve growth and yields comparable to those produced on Earth. \"We found that potatoes can complete their entire life cycle in simulated lunar soil when supplemented with organic matter,\" said Aymeric Goyer of Oregon State University's Department of Botany and Plant Pathology. \"That's an important step toward developing reliable food production systems that could support long-term human exploration of the moon.\"",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-18T11:23:14.106Z"
+  "generated_at": "2026-11-19T10:00:15.261Z"
 }
