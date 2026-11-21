@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-19",
+      "date": "2026-11-21",
       "code": 3,
-      "max": 26,
+      "max": 25,
       "min": 16,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-11-20",
-      "code": 2,
+      "date": "2026-11-22",
+      "code": 3,
       "max": 26,
-      "min": 16,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
+      "min": 15,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "Frederick University and CITEA Sign Memorandum of Cooperation",
-      "link": "https://cyprus-mail.com/2026/11/20/frederick-university-and-citea-sign-memorandum-of-cooperation",
+      "title": "The herstory of Cyprus",
+      "link": "https://cyprus-mail.com/2026/11/21/the-herstory-of-cyprus",
       "summary": ""
     },
     {
-      "title": "Three Cypriot films showcased in Thessaloniki",
-      "link": "https://cyprus-mail.com/2026/11/20/three-cypriot-films-showcased-in-thessaloniki",
+      "title": "Exploring loneliness, grief and the American dream",
+      "link": "https://cyprus-mail.com/2026/11/21/exploring-loneliness-grief-and-the-american-dream",
       "summary": ""
     },
     {
-      "title": "Serbian, Slovak and Slovenian officers observe National Guard exercises",
-      "link": "https://cyprus-mail.com/2026/11/20/serbian-slovak-and-slovenian-officers-observe-national-guard-exercises",
+      "title": "Fifty trapped by smoke as fire breaks out at Nicosia nightclub",
+      "link": "https://cyprus-mail.com/2026/11/21/fifty-trapped-by-smoke-as-fire-breaks-out-at-nicosia-nightclub",
       "summary": ""
     },
     {
-      "title": "Estonia to close border with Russia for at least six months",
-      "link": "https://cyprus-mail.com/2026/11/20/estonia-to-close-border-with-russia-for-at-least-six-months",
+      "title": "Government pledges to address Moody’s warnings over reforms and infrastructure",
+      "link": "https://cyprus-mail.com/2026/11/21/government-pledges-to-address-moodys-warnings-over-reforms-and-infrastructure",
       "summary": ""
     },
     {
-      "title": "FPGA design companies to know in 2026: Who European Hardware Teams turn to",
-      "link": "https://cyprus-mail.com/2026/11/20/fpga-design-companies-to-know-in-2026-who-european-hardware-teams-turn-to",
+      "title": "Gas leak from 200kg cylinder at abandoned Larnaca building",
+      "link": "https://cyprus-mail.com/2026/11/21/gas-leak-from-200kg-cylinder-at-abandoned-larnaca-building",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "UK and EU to agree youth mobility scheme, BBC understands",
-      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Three Kyiv bridges hit during major Russian missile attack",
-      "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Galactic shock: Discovery challenges our understanding of the Milky Way's structure",
-    "link": "https://phys.org/news/2026-11-galactic-discovery-milky.html",
-    "summary": "A University of Sydney Ph.D. student has uncovered evidence that the Milky Way is unusual in terms of where its new stars are born compared with nearby galaxies.",
+    "title": "What makes rock deep beneath continents break away and sink?",
+    "link": "https://phys.org/news/2026-11-deep-beneath-continents.html",
+    "summary": "We usually picture mountain building as rock being pushed upward. But deep beneath some mountain belts and volcanic arcs, the opposite can happen: dense rock at the base of the crust can become unstable, break away and sink hundreds of kilometers into the mantle, dragging part of the rigid outer shell of the Earth (the lithosphere) with it. Seismic images suggest that this process, known as lithospheric dripping, has occurred beneath the central Andes and California's Sierra Nevada.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-20T11:09:37.601Z"
+  "generated_at": "2026-11-21T09:23:33.735Z"
 }
