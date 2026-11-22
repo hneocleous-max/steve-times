@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-21",
-      "code": 3,
-      "max": 25,
-      "min": 16,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
-    },
-    "tomorrow": {
       "date": "2026-11-22",
       "code": 3,
       "max": 26,
@@ -17,67 +8,76 @@
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
+    },
+    "tomorrow": {
+      "date": "2026-11-23",
+      "code": 3,
+      "max": 23,
+      "min": 13,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "Accused child sex predator Thomas Markle ruled competent to face trial",
-      "link": "https://cyprus-mail.com/2026/11/21/accused-child-sex-predator-thomas-markle-ruled-competent-to-face-trial",
+      "title": "Government budgets are masking economic reality in Cyprus",
+      "link": "https://cyprus-mail.com/2026/11/22/government-budgets-are-masking-economic-reality-in-cyprus",
       "summary": ""
     },
     {
-      "title": "Man United chief defends club’s strategy despite managerial turnover",
-      "link": "https://cyprus-mail.com/2026/11/21/man-united-chief-defends-clubs-strategy-despite-managerial-turnover",
+      "title": "Seven body bags recovered, 50 missing after Indonesian factory fire",
+      "link": "https://cyprus-mail.com/2026/11/22/seven-body-bags-recovered-50-missing-after-indonesian-factory-fire",
       "summary": ""
     },
     {
-      "title": "Antonelli fastest but penalty leaves Verstappen on pole in Las Vegas",
-      "link": "https://cyprus-mail.com/2026/11/21/antonelli-fastest-but-penalty-leaves-verstappen-on-pole-in-las-vegas",
+      "title": "Six arrested in nationwide police operations",
+      "link": "https://cyprus-mail.com/2026/11/22/six-arrested-in-nationwide-police-operations",
       "summary": ""
     },
     {
-      "title": "Kane out for ‘few months’ with ankle ligament tear",
-      "link": "https://cyprus-mail.com/2026/11/21/kane-out-for-few-months-with-ankle-ligament-tear",
+      "title": "Cyprus’ gas plans face new questions as battery storage expands",
+      "link": "https://cyprus-mail.com/2026/11/22/cyprus-gas-plans-face-new-questions-as-battery-storage-expands",
       "summary": ""
     },
     {
-      "title": "Iran wants diplomacy to end war, US says terms unacceptable",
-      "link": "https://cyprus-mail.com/2026/11/21/iran-wants-diplomacy-to-end-war-us-says-terms-unacceptable",
+      "title": "Teenage girl found dead in Kakopetria hotel",
+      "link": "https://cyprus-mail.com/2026/11/22/teenage-girl-found-dead-in-kakopetria-hotel",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+      "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "From screens in class to smart glasses, Norway rethinks new technologies",
-    "link": "https://phys.org/news/2026-11-screens-class-smart-glasses-norway.html",
-    "summary": "Three years ago, a schoolteacher in Norway was reprimanded for putting his pupils' iPads aside to return to pen and paper. Now, the whole country is rethinking its approach to new technologies.",
+    "title": "Single feathers may reveal whether eastern black rails stay in Texas or migrate north",
+    "link": "https://phys.org/news/2026-11-feathers-reveal-eastern-black-rails.html",
+    "summary": "High-stepping like you're in a marching band while dragging a rope through a wetland at night can make you wonder about your life choices. Several plastic bottles, each filled with two or three noisy cat toys, are attached to the rope. It's pitch black, and all I can hear are the cat toys jingling, the mosquitoes buzzing in my ears and the wetland grasses bouncing in the wind.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-21T10:48:53.868Z"
+  "generated_at": "2026-11-22T09:29:49.844Z"
 }
