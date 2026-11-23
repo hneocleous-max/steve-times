@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-22",
-      "code": 3,
-      "max": 26,
-      "min": 15,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
-    },
-    "tomorrow": {
       "date": "2026-11-23",
-      "code": 3,
+      "code": 2,
       "max": 23,
       "min": 13,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
+    },
+    "tomorrow": {
+      "date": "2026-11-24",
+      "code": 3,
+      "max": 24,
+      "min": 14,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Another doomsday missed – but the scare stories keep coming",
-      "link": "https://cyprus-mail.com/2026/11/22/another-doomsday-missed-but-the-scare-stories-keep-coming",
+      "title": "Iran says it will use all its tools to confront US naval blockade",
+      "link": "https://cyprus-mail.com/2026/11/23/iran-says-it-will-use-all-its-tools-to-confront-us-naval-blockade",
       "summary": ""
     },
     {
-      "title": "Bahrain says Iran strikes industrial facility as air defences intercept attacks",
-      "link": "https://cyprus-mail.com/2026/11/22/bahrain-says-iran-strikes-industrial-facility-as-air-defences-intercept-attacks",
+      "title": "Shipping emission charges could push up household costs, Greek minister warns",
+      "link": "https://cyprus-mail.com/2026/11/23/shipping-emission-charges-could-push-up-household-costs-greek-minister-warns",
       "summary": ""
     },
     {
-      "title": "Illegal property purchases down after Aykut conviction, president says",
-      "link": "https://cyprus-mail.com/2026/11/22/illegal-property-purchases-down-after-aykut-conviction-president-says",
+      "title": "Cyprus maritime delegation opens India visit with business networking in Mumbai",
+      "link": "https://cyprus-mail.com/2026/11/23/cyprus-maritime-delegation-opens-india-visit-with-business-networking-in-mumbai",
       "summary": ""
     },
     {
-      "title": "Christodoulides pledges funding for Mammari projects",
-      "link": "https://cyprus-mail.com/2026/11/22/christodoulides-pledges-funding-for-mammari-projects",
+      "title": "Love Letter Dress takes centre stage at inaugural Paphos fashion show",
+      "link": "https://cyprus-mail.com/2026/11/23/love-letter-dress-takes-centre-stage-at-inaugural-paphos-fashion-show",
       "summary": ""
     },
     {
-      "title": "Two arrested over Famagusta house burglaries",
-      "link": "https://cyprus-mail.com/2026/11/22/two-arrested-over-famagusta-house-burglaries",
+      "title": "Alpha Bank acquires 1.74 million shares in buyback programme",
+      "link": "https://cyprus-mail.com/2026/11/23/alpha-bank-acquires-1-74-million-shares-in-buyback-programme",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "South Korea education minister resigns over exam cheating scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Russia-bound ship attacked in Gulf of Finland",
-      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "title": "Five takeaways from the failed climate talks COP31",
+      "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Three killed and dozens missing after fire at Indonesian factory",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "title": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Single feathers may reveal whether eastern black rails stay in Texas or migrate north",
-    "link": "https://phys.org/news/2026-11-feathers-reveal-eastern-black-rails.html",
-    "summary": "High-stepping like you're in a marching band while dragging a rope through a wetland at night can make you wonder about your life choices. Several plastic bottles, each filled with two or three noisy cat toys, are attached to the rope. It's pitch black, and all I can hear are the cat toys jingling, the mosquitoes buzzing in my ears and the wetland grasses bouncing in the wind.",
+    "title": "Kuala Lumpur otters raise river revival hopes",
+    "link": "https://phys.org/news/2026-11-kuala-lumpur-otters-river-revival.html",
+    "summary": "Beneath a tangle of highways in the Malaysian capital Kuala Lumpur, a family of otters rolls around in a patch of riverside sand, delighting the few passersby who notice them.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-22T10:56:43.042Z"
+  "generated_at": "2026-11-23T10:28:29.881Z"
 }
