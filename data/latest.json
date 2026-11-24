@@ -1,83 +1,83 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-23",
-      "code": 2,
-      "max": 23,
-      "min": 13,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-11-24",
       "code": 3,
       "max": 24,
-      "min": 14,
+      "min": 13,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
+    },
+    "tomorrow": {
+      "date": "2026-11-25",
+      "code": 2,
+      "max": 24,
+      "min": 11,
+      "desc": "Partly cloudy",
+      "icon": "⛅",
+      "masthead": "Fair skies"
     }
   },
   "local": [
     {
-      "title": "Permanent appointments remain main sticking point in teacher recruitment reform",
-      "link": "https://cyprus-mail.com/2026/11/23/permanent-appointments-remain-main-sticking-point-in-teacher-recruitment-reform",
+      "title": "UEFA’s leading club competitions on Cytavision for 2027–2031 cycle",
+      "link": "https://cyprus-mail.com/2026/11/24/uefas-leading-club-competitions-on-cytavision-for-2027-2031-cycle",
       "summary": ""
     },
     {
-      "title": "Landmark Myanmar genocide ruling may bolster South Africa’s case against Israel",
-      "link": "https://cyprus-mail.com/2026/11/23/landmark-myanmar-genocide-ruling-may-bolster-south-africas-case-against-israel",
+      "title": "Robbie Williams to perform in Larnaca in July 2027",
+      "link": "https://cyprus-mail.com/2026/11/24/robbie-williams-to-perform-in-larnaca-in-july-2027",
       "summary": ""
     },
     {
-      "title": "Denmark plans school mobile phone ban as police investigate bomb threats",
-      "link": "https://cyprus-mail.com/2026/11/23/denmark-plans-school-mobile-phone-ban-as-police-investigate-bomb-threats",
+      "title": "New oil storage terminal inaugurated at Vasiliko, plans for expansion underway",
+      "link": "https://cyprus-mail.com/2026/11/24/new-oil-storage-terminal-inaugurated-at-vasiliko-plans-for-expansion-underway",
       "summary": ""
     },
     {
-      "title": "Fuel prices in Cyprus rise 29.2 per cent year-on-year in October",
-      "link": "https://cyprus-mail.com/2026/11/23/fuel-prices-in-cyprus-rise-29-2-per-cent-year-on-year-in-october",
+      "title": "Cyprus football tickets to go digital through government app",
+      "link": "https://cyprus-mail.com/2026/11/24/cyprus-football-tickets-to-go-digital-through-government-app",
       "summary": ""
     },
     {
-      "title": "Iran says it will use all its tools to confront US naval blockade",
-      "link": "https://cyprus-mail.com/2026/11/23/iran-says-it-will-use-all-its-tools-to-confront-us-naval-blockade",
+      "title": "Christodoulides: EU ‘clear’ that Turkey ties are linked to Cyprus problem",
+      "link": "https://cyprus-mail.com/2026/11/24/christodoulides-eu-clear-that-turkey-ties-are-linked-to-cyprus-problem",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Five takeaways from the failed climate talks COP31",
-      "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "How to use small, everyday moments to strengthen family connections",
-    "link": "https://phys.org/news/2026-11-small-everyday-moments-family.html",
-    "summary": "In the whirlwind of work demands and family obligations—including planning vacations and holiday celebrations—many parents assume they need to go all out and spend lots of money to build family bonds.",
+    "title": "Perfect employees and managers may not be the perfect match",
+    "link": "https://phys.org/news/2026-11-employees.html",
+    "summary": "A caring and supportive manager sounds like a dream for any employee, but could too much kindness turn \"perfect\" staff members into exhausted workaholics?",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-23T12:03:01.625Z"
+  "generated_at": "2026-11-24T12:10:07.103Z"
 }
