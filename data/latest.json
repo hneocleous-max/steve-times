@@ -1,15 +1,6 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-24",
-      "code": 3,
-      "max": 24,
-      "min": 13,
-      "desc": "Overcast",
-      "icon": "☁️",
-      "masthead": "Cloudy skies"
-    },
-    "tomorrow": {
       "date": "2026-11-25",
       "code": 2,
       "max": 24,
@@ -17,43 +8,52 @@
       "desc": "Partly cloudy",
       "icon": "⛅",
       "masthead": "Fair skies"
+    },
+    "tomorrow": {
+      "date": "2026-11-26",
+      "code": 3,
+      "max": 22,
+      "min": 11,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
     }
   },
   "local": [
     {
-      "title": "Public consultation opened on social media age limit",
-      "link": "https://cyprus-mail.com/2026/11/25/public-consultation-opened-on-social-media-age-limit",
+      "title": "Cyprus collects €630m more in revenue — social benefits spending rises by €120m",
+      "link": "https://cyprus-mail.com/2026/11/25/cyprus-collects-e630m-more-in-revenue-social-benefits-spending-rises-by-e120m",
       "summary": ""
     },
     {
-      "title": "Merz accuses Russia of escalating threats, ‘Russia wants more than just Ukraine’",
-      "link": "https://cyprus-mail.com/2026/11/25/merz-accuses-russia-of-escalating-threats-to-european-security",
+      "title": "Cyprus turtle protection pioneer gives name to regional award",
+      "link": "https://cyprus-mail.com/2026/11/25/andreas-demetropoulos-award-for-marine-turtle-conservation",
       "summary": ""
     },
     {
-      "title": "Eisenkot suffers setback as Democrats suspend coalition talks",
-      "link": "https://cyprus-mail.com/2026/11/25/eisenkot-secures-first-coalition-deal-in-bid-to-form-israeli-government",
+      "title": "Louis Plc to convene meeting on proposed reorganisation plan",
+      "link": "https://cyprus-mail.com/2026/11/25/louis-plc-to-convene-meeting-on-proposed-reorganisation-plan",
       "summary": ""
     },
     {
-      "title": "Cyprus turns to London to help transform research into businesses",
-      "link": "https://cyprus-mail.com/2026/11/25/cyprus-turns-to-london-to-help-transform-research-into-businesses",
+      "title": "Cyprus Stock Exchange approves €50m treasury bill listing",
+      "link": "https://cyprus-mail.com/2026/11/25/cyprus-stock-exchange-approves-e50m-treasury-bill-listing",
       "summary": ""
     },
     {
-      "title": "Court of Appeal upholds €314,000 compensation for medical negligence",
-      "link": "https://cyprus-mail.com/2026/11/25/court-of-appeal-upholds-e314000-compensation-for-medical-negligence",
+      "title": "Kyma Kitchen: Your new favourite all-day spot in Protaras for coffee and brunch by the sea",
+      "link": "https://cyprus-mail.com/2026/11/25/kyma-kitchen-your-new-favourite-all-day-spot-in-protaras-for-coffee-and-brunch-by-the-sea",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Russia's own figures show it has lost almost 500,000 people in Ukraine war",
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
       "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
       "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
@@ -74,10 +74,10 @@
     }
   ],
   "discovery": {
-    "title": "Not everything that sounds plausible works: Testing ideas to win support for carbon pricing",
-    "link": "https://phys.org/news/2026-11-plausible-ideas-carbon-pricing.html",
-    "summary": "What makes people support a carbon price? To find out, 108 researchers, led by a research team at the University of Innsbruck, Austria, tested 55 different ideas at the same time, from information campaigns to reflection tasks. On average, there was a small but statistically significant positive effect. Individually, the effect was detectable for only 11 of the 55 ideas. One of the strongest effects came from writing a letter to a fictional person of a future generation. The results were recently published in the journal Nature Human Behaviour.",
+    "title": "How utilities, communities can help build resilience for vulnerable families during power outages",
+    "link": "https://phys.org/news/2026-11-communities-resilience-vulnerable-families-power.html",
+    "summary": "For low-income households, extended power outages can create devastating losses of food and money, as well as feelings of comfort and security within their homes, according to research led by the University of Michigan.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-25T10:59:05.367Z"
+  "generated_at": "2026-11-25T12:23:56.380Z"
 }
