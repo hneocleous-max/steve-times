@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-25",
-      "code": 2,
-      "max": 24,
-      "min": 11,
-      "desc": "Partly cloudy",
-      "icon": "⛅",
-      "masthead": "Fair skies"
-    },
-    "tomorrow": {
       "date": "2026-11-26",
       "code": 3,
       "max": 22,
-      "min": 11,
+      "min": 10,
+      "desc": "Overcast",
+      "icon": "☁️",
+      "masthead": "Cloudy skies"
+    },
+    "tomorrow": {
+      "date": "2026-11-27",
+      "code": 3,
+      "max": 23,
+      "min": 13,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
@@ -21,63 +21,63 @@
   },
   "local": [
     {
-      "title": "Cyprus collects €630m more in revenue — social benefits spending rises by €120m",
-      "link": "https://cyprus-mail.com/2026/11/25/cyprus-collects-e630m-more-in-revenue-social-benefits-spending-rises-by-e120m",
+      "title": "Christodoulides calls for shorter-term long-term EU budget",
+      "link": "https://cyprus-mail.com/2026/11/26/christodoulides-calls-for-shorter-term-long-term-eu-budget",
       "summary": ""
     },
     {
-      "title": "Cyprus turtle protection pioneer gives name to regional award",
-      "link": "https://cyprus-mail.com/2026/11/25/andreas-demetropoulos-award-for-marine-turtle-conservation",
+      "title": "Limassol Greens: a year of significant progress sets stage for 2027",
+      "link": "https://cyprus-mail.com/2026/11/26/limassol-greens-a-year-of-significant-progress-sets-stage-for-2027",
       "summary": ""
     },
     {
-      "title": "Louis Plc to convene meeting on proposed reorganisation plan",
-      "link": "https://cyprus-mail.com/2026/11/25/louis-plc-to-convene-meeting-on-proposed-reorganisation-plan",
+      "title": "‘London is one thing, Nicosia another’: business body weighs in on Makarios avenue",
+      "link": "https://cyprus-mail.com/2026/11/26/london-is-one-thing-nicosia-another-business-body-weighs-in-on-makarios-avenue",
       "summary": ""
     },
     {
-      "title": "Cyprus Stock Exchange approves €50m treasury bill listing",
-      "link": "https://cyprus-mail.com/2026/11/25/cyprus-stock-exchange-approves-e50m-treasury-bill-listing",
+      "title": "Palestinian woman, 72, shot dead in West Bank settler attack",
+      "link": "https://cyprus-mail.com/2026/11/26/palestinian-woman-72-shot-dead-in-west-bank-settler-attack-2",
       "summary": ""
     },
     {
-      "title": "Kyma Kitchen: Your new favourite all-day spot in Protaras for coffee and brunch by the sea",
-      "link": "https://cyprus-mail.com/2026/11/25/kyma-kitchen-your-new-favourite-all-day-spot-in-protaras-for-coffee-and-brunch-by-the-sea",
+      "title": "Cyprus chief scientist presents on island’s national AI policy at AUB Mediterraneo event",
+      "link": "https://cyprus-mail.com/2026/11/26/cyprus-chief-scientist-presents-on-islands-national-ai-policy-at-aub-mediterraneo-event",
       "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+      "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "title": "Desperate appeals from women on death row in Iran after protests",
+      "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "Thomas Markle charged in US for possessing child sex abuse images",
-      "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "How utilities, communities can help build resilience for vulnerable families during power outages",
-    "link": "https://phys.org/news/2026-11-communities-resilience-vulnerable-families-power.html",
-    "summary": "For low-income households, extended power outages can create devastating losses of food and money, as well as feelings of comfort and security within their homes, according to research led by the University of Michigan.",
-    "source": "https://phys.org/rss-feed/"
+    "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
+    "summary": "More than a mile beneath the surface of the Red Sea, scientists have discovered rare underwater lakes that could reveal secrets about Earth's ancient oceans and the possibility of alien life. Known as brine pools, these extremely salty, oxygen-free environments are surprisingly teeming with microbial life, challenging our understanding of where living organisms can survive.",
+    "source": "https://www.sciencedaily.com/rss/all.xml"
   },
-  "generated_at": "2026-11-25T12:23:56.380Z"
+  "generated_at": "2026-11-26T10:36:11.908Z"
 }
