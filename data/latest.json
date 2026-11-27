@@ -1,19 +1,19 @@
 {
   "weather": {
     "today": {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "code": 3,
-      "max": 22,
-      "min": 10,
+      "max": 23,
+      "min": 14,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
     },
     "tomorrow": {
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "code": 3,
       "max": 23,
-      "min": 13,
+      "min": 14,
       "desc": "Overcast",
       "icon": "☁️",
       "masthead": "Cloudy skies"
@@ -21,28 +21,28 @@
   },
   "local": [
     {
-      "title": "Sandpapergate forum scope to cover entire 2017-18 season, including Ashes",
-      "link": "https://cyprus-mail.com/2026/11/27/sandpapergate-forum-scope-to-cover-entire-2017-18-season-including-ashes",
+      "title": "End of an era as Marquez announces shock retirement after eighth MotoGP title",
+      "link": "https://cyprus-mail.com/2026/11/27/end-of-an-era-as-marquez-announces-shock-retirement-after-eighth-motogp-title",
       "summary": ""
     },
     {
-      "title": "Messi to play in Tevez’s testimonial match",
-      "link": "https://cyprus-mail.com/2026/11/27/messi-to-play-in-tevezs-testimonial-match",
+      "title": "Children’s rights commissioner hits back at MP over calls for her resignation",
+      "link": "https://cyprus-mail.com/2026/11/27/childrens-rights-commissioner-hits-back-at-mp-over-calls-for-her-resignation",
       "summary": ""
     },
     {
-      "title": "French and Bulgarian leaders condemn fan violence in Marseille",
-      "link": "https://cyprus-mail.com/2026/11/27/french-and-bulgarian-leaders-condemn-fan-violence-in-marseille",
+      "title": "Leclerc silent on solutions, hurt by doubts about his loyalty to Ferrari",
+      "link": "https://cyprus-mail.com/2026/11/27/leclerc-silent-on-solutions-hurt-by-doubts-about-his-loyalty-to-ferrari",
       "summary": ""
     },
     {
-      "title": "Cyprus looks to turn Indian shipping ties into investment",
-      "link": "https://cyprus-mail.com/2026/11/27/cyprus-looks-to-turn-indian-shipping-ties-into-investment",
+      "title": "An Epic Christmas with two offers: up to €300 discount on a new smartphone or 6 free monthly fees!",
+      "link": "https://cyprus-mail.com/2026/11/27/an-epic-christmas-with-two-offers-up-to-e300-discount-on-a-new-smartphone-or-6-free-monthly-fees",
       "summary": ""
     },
     {
-      "title": "Averof asks Disy members for mandate to build ‘fairer society, reunified Cyprus’",
-      "link": "https://cyprus-mail.com/2026/11/27/averof-asks-disy-members-for-mandate-to-build-fairer-society-reunified-cyprus",
+      "title": "Manufacturing decline pulls down Cyprus industrial output",
+      "link": "https://cyprus-mail.com/2026/11/27/manufacturing-decline-pulls-down-cyprus-industrial-output",
       "summary": ""
     }
   ],
@@ -53,31 +53,31 @@
       "summary": ""
     },
     {
-      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "summary": ""
-    },
-    {
       "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
       "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-      "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     },
     {
-      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+      "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+      "link": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
+      "summary": ""
+    },
+    {
+      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
       "summary": ""
     }
   ],
   "discovery": {
-    "title": "Bacterial colonies turn themselves inside out when oxygen is scarce",
-    "link": "https://phys.org/news/2026-11-bacterial-colonies-oxygen-scarce.html",
-    "summary": "Bacteria can protect themselves from external threats by forming colonies. The physical principles that govern the structure of such colonies, and in particular their structural transformations, are poorly understood.",
+    "title": "Beeswax and pine link crocodile mummies made centuries apart at one Egyptian site",
+    "link": "https://phys.org/news/2026-11-beeswax-link-crocodile-mummies-centuries.html",
+    "summary": "In a practice spanning centuries, ancient Egyptians mummified thousands of crocodiles they associated with Sobek, a god linked to the Nile, fertility and royal power. In one unique example, embalmers from the middle of the 1st millennium BC at Kom Ombo in southern Egypt mounted more than 25 hatchlings on reeds along the back and neck of a crocodile nearly 4 meters (13 feet) long. The arrangement may echo the way young crocodiles ride on their mother's back.",
     "source": "https://phys.org/rss-feed/"
   },
-  "generated_at": "2026-11-27T10:39:08.611Z"
+  "generated_at": "2026-11-27T11:55:35.726Z"
 }
